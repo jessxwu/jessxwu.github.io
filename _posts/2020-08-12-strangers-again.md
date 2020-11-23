@@ -4,7 +4,7 @@ title: Strangers, Again
 excerpt: We all start off as strangers... 10 minute prompt.
 categories: [blog]
 comments: true
-tags: sessionswithstu
+tags: sessionswithstu relationships
 ---
 <b>Prompt</b><br>
 <em> Take your usual way to work or school and imagine two people who don't know each other on that bus/walk/train/carpark/etc who start talking. What do they talk about? Is this the beginning of a longer connection between them or is this the only time they will ever talk? (10 mins + 10 editing)</em>
