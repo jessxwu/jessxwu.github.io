@@ -1,7 +1,7 @@
 ---
 layout: post
 title: I Want To Grow Up by Colleen Green
-excerpt: If I made music, this would be it. Part of the same series of album reviews I wrote back in 2015.
+excerpt: I wrote this back in 2015, Man, this is very much condescending snobby music critic, it hurts.
 categories: [music]
 comments: true
 tags: music unfinished album
