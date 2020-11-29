@@ -11,3 +11,5 @@ I am so, so glad I found this band. Rarely do all my favourite genres and sounds
 Their lyrics are just adorable. Take ‘Air Supply’ for example: “Girls who spend their lives in disgusting gestures / Always seeking boys to relieve their tension / maybe you know better”. It’s so naïve and cutesy, seemingly high school, but set on this really transcendent and absorbing backdrop of dreamy sound. I love that dichotomy. I can see that it’s not intentional, but to me, it’s all the more endearing because I have a soft spot in my heart for twee. And their voices are lovely. They have that ethereal Elizabeth Gilbert sound, but it’s less soprano, more lo-fi, flatter. Absolute perfection personified.
 
 I can see this becoming favourite album-worthy with time. If I made music, this would be it.
+
+Standout Tracks: "Acting", "Air Supply", "Milk"

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Pixie
-excerpt: A little poem about the Pixies. They used to be my favourite band. If you're a huge Pixies fan, you'll see it's littered with tons of references, stylistically, lyrically, maybe about them selling out... etcetera. I think I threw in a Smiths and Kyuss reference in too, just to round out some of my favourite bands. It's written in a style I don't typically adopt - silly and with inconsistent rhyme. I do typically write poetry but don’t incorporate rhyme this way. Non-edited. I wrote this, compelled by a Pixies playing in the background when I had no idea what to do with this prompt.
+excerpt: A little poem about the Pixies. They used to be my favourite band. If you're a huge Pixies fan, you'll see it's littered with tons of references, stylistically, lyrically, maybe about them selling out... etcetera. I think I threw in a Smiths and Kyuss reference in too, just to round out some of my favourite bands. It's written in a style I don't typically adopt - silly and with inconsistent rhyme. I do typically write poetry but don’t incorporate rhyme this way. Non-edited. I wrote this, compelled by a Pixies song playing in the background when I had no idea what to do with this prompt.
 categories: [creative writing]
 comments: true
 tags: sessionswithstu poem music

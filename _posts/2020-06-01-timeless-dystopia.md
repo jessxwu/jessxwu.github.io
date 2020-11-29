@@ -20,4 +20,4 @@ When I broke that clock, I shattered time. Time was the only thing that was real
 
 Appearances crumbled down to nothing at all, yet we are now ageless. Isn't this what we always wanted? But now we want what we can't have. There was nothing to uphold; no reason to. Time created meaning - an abrupt end to something you recognize as quite fleeting, ephemeral. So you grip it with your two hands, sloppily but with vigour.
 
-immortality is the worst curse when the world doesn’t age with you.
+Immortality is the worst curse when the world doesn’t age with you.

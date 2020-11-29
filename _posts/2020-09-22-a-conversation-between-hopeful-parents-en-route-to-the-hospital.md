@@ -20,11 +20,11 @@ tags: sessionswithstu unfinished dystopia dialogue
 
 <em>“I’ve practised on the dummy, don’t worry.” </em>
 
-This was perhaps a bit gratuitous but to ease some of our fears, I found an old doll that I found in the aged attics of my youth. We had practised wrapping diapers on it, bundling it in the car seat, and different ways of carry and hold.
+This was perhaps a bit gratuitous but to ease some of our fears, I found an old doll in the aged attics of my youth. We had practised wrapping diapers on it, bundling it in the car seat, and different ways of carry and hold.
 
 <em>“I packed the high thread count blanket, it’s some new fabric that was trending on ProductHunt. Really good for babies.” </em>
 
-Only the best. We had researched this appropriately; it would be the first material Baby would feel against his soft, supple unadulterated skin. There was some sense that we had to preserve him from this world. We didn’t research too much. It was a blend of vicuña alpaca wool and viscose; this was a grand debate for a while at the house - whether to go 100% natural materials or incorporate 1% synthetics because it wore and draped more naturally, and could withstand consecutive washes better. We didn't know whether we were complete enough in our research; but my friends suggested we were being a little bit too thorough, so I had to stop myself from investigating more.
+Only the best. We had researched this appropriately; it would be the first material Baby would feel against his soft, supple unadulterated skin. There was some sense that we had to preserve him from this world. It was a blend of vicuña alpaca wool and viscose; this was a grand debate for a while at the house - whether to go 100% natural materials or incorporate 1% synthetics because it wore and draped more naturally, and could withstand consecutive washes better. We didn't know whether we were thorough enough in our research; I always felt like more could be done. A friend suggested one day that I had gone off the walls. After that conversation, I found myself restraining myself on the baby forums and in my research in defiance of swallowing this uncomfortable truth. I only wanted what was best.
 
 <em>“Have you finalized your route plan yet? We won’t take lefts, rights only for safety. Scenic road to get home.”</em>
 
