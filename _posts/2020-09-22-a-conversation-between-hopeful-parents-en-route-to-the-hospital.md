@@ -8,6 +8,9 @@ tags: sessionswithstu unfinished dystopia dialogue
 ---
 <b>Prompt</b><br>
 <em>Conversation between two parents en route to the hospital. (15 mins)</em>
+
+It’s well established that the first few years in Baby’s life are the most formative. But how about the first few minutes? It's the endless debate (and acceptance) of nature versus nurture. Although we can’t really help the former, what if we could design their life experience - starting from the moments they leave the hospital? A 15-minute prompt on a fun little conversation that would be the result of too much due diligence and baby anxiety. I always imagined something like this would happen in a dystopian future. Reminds me a bit of the Arkangel episode from Black Mirror.
+
 <br>
 <hr align = "left" width="50%">
 <br>

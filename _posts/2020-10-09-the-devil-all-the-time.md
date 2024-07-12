@@ -8,6 +8,9 @@ tags: sessionswithstu scary film
 ---
 <b>Prompt</b><br>
 <em> Freewrite (10 mins + 5 editing)</em>
+
+In the theme of spooky season, and having just watched the pretty harrowing Netflix movie of the same title, I was compelled to write about this gorgeous and visually haunting scene from the movie that I grasped onto (the old sedan driving through the woods). There are no spoilers, the inspiration of this image is pretty much it. I deviate from there, only inspired by symbolic misdoings from the titular film.
+
 <br>
 <hr align = "left" width="50%">
 <br>
