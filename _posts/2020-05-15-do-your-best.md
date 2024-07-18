@@ -6,6 +6,9 @@ categories: [blog]
 comments: true
 tags: sessionswithstu music relationships loneliness
 ---
+Just a quick lil thing I wrote inspired by the lyrics of "Do Your Best" by John Maus. Little bit dark.
+<br><br>
+
 Someone’s alone in the city tonight.
 Reach out your hands to the one alone tonight.
 
