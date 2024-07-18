@@ -6,9 +6,6 @@ categories: [creative writing]
 comments: true
 tags: sessionswithstu character
 ---
-I've been reading "The Color Purple" by Alice Walker. It's a marvel she can switch between character voices and dialogues so convincingly. I find that my characters always sound like myself. So I took a stab at writing like what I imagine a disgruntled out-of-touch American boomer would sound like. Maybe best read in a Boston accent. Based on a map that's hanging on my bedroom wall. Still sounds like me.
-
-<br>
 <b>Prompt</b><br>
 <em>Describe an item - the map on my bedroom wall (12 mins + 5).</em>
 <br>

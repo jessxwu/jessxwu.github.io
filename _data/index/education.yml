@@ -1,7 +1,7 @@
-# - name: Schulich School of Business, York University
-#  link: https://schulich.yorku.ca/
-#  date: 2013 - 2017
+- name: Schulich School of Business, York University
+  link: https://schulich.yorku.ca/
+  date: 2013 - 2017
 
-#- name: National University of Singapore
-#  link: http://www.nus.edu.sg/
-#  date: 2017
+- name: National University of Singapore
+  link: http://www.nus.edu.sg/
+  date: 2017

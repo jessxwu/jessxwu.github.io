@@ -6,8 +6,6 @@ categories: [blog]
 comments: true
 tags: sessionswithstu millennials
 ---
-The title is a bit little misleading. 25 minute long prompt inspired by a poem of the same name by young Indigenous poet Billy-Ray Belcourt.
-<br>
 <b>Prompt</b><br>
 <em>Inspiration from <a href="http://puritan-magazine.com/human-possibility-belcourt-2019/?fbclid=IwAR19u4Z2_KWwB7T5o-FktTj2AKTk7slJGX7IrQfdfno8PZW4w3Z4JWNvLi4#">What is a Human Possibility?</a> (25 mins + editing)</em>
 <br>

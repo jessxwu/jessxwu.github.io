@@ -1,31 +1,31 @@
 # careers section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
-#- name: General Mills
-#  link: https://www.generalmills.ca/
-#  date: Apr 2017 - Aug 2017
-#  job: Associate Marketing Manager, Yogurt
+- name: General Mills
+  link: https://www.generalmills.ca/
+  date: Apr 2017 - Aug 2017
+  job: Associate Marketing Manager, Yogurt
 
-#- name: Canadian Tire Corporation
-#  link: https://corp.canadiantire.ca/English/home/default.aspx
-#  date: Sep 2017 - Apr 2018
-#  job: Marketing Consultant, Planning & Integration
+- name: Canadian Tire Corporation
+  link: https://corp.canadiantire.ca/English/home/default.aspx
+  date: Sep 2017 - Apr 2018
+  job: Marketing Consultant, Planning & Integration
 
-#- name: Pro Hockey Life
-#  link: https://www.prohockeylife.com/
-#  date: May 2018 - Dec 2018
-#  job: Marketing Consultant, Strategy
+- name: Pro Hockey Life
+  link: https://www.prohockeylife.com/
+  date: May 2018 - Dec 2018
+  job: Marketing Consultant, Strategy
 
-#- name: Sport Chek
-#  link: https://www.sportchek.ca/
-#  date: Jan 2019 - Aug 2019
-#  job: Marketing Consultant, Digital Performance Marketing
+- name: Sport Chek
+  link: https://www.sportchek.ca/
+  date: Jan 2019 - Aug 2019
+  job: Marketing Consultant, Digital Performance Marketing
 
-#- name: Canadian Tire Corporation
-#  link: https://corp.canadiantire.ca/English/home/default.aspx
-#  date: Sep 2019 - Oct 2020
-#  job: Associate Marketing Manager, Innovation
+- name: Canadian Tire Corporation
+  link: https://corp.canadiantire.ca/English/home/default.aspx
+  date: Sep 2019 - Oct 2020
+  job: Associate Marketing Manager, Innovation
 
-#- name: Canadian Tire Corporation
-#  link: https://corp.canadiantire.ca/English/home/default.aspx
-#  date: Nov 2020 - <i class="fa fa-clock-o" aria-hidden="true" title="Until Now"></i>
-#  job: Sr. Associate Marketing Manager, Kitchen & Pet
+- name: Canadian Tire Corporation
+  link: https://corp.canadiantire.ca/English/home/default.aspx
+  date: Nov 2020 - <i class="fa fa-clock-o" aria-hidden="true" title="Until Now"></i>
+  job: Sr. Associate Marketing Manager, Kitchen & Pet
