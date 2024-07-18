@@ -6,6 +6,9 @@ categories: [music]
 comments: true
 tags: music unfinished album
 ---
+A very short album review, unfinished. I was obsessed with this album, fell in love with indie darlings Yo La Tengo this summer. I've been meaning to finish this off. I think this was written spontaneously, in little time (ten mins or so) - some unplanned combustion of a love song expressing my passion and adoration for this album. Originally rife with stylization errors so it's a bit shoddy and disorganized.
+
+<br> <hr>
 It doesn’t come easy; for albums to strike you so intensely. I love it. it’s one of my favourite feelings. I fall in love with songs here and there. I become enamoured with the eccentricity of an artist and play to death three or four singles. But for a full album to grip me, grab me by my lapel and violently shake me for weeks on weeks; it’s such a fantastic feeling.
 
 I remember being blown away by Kyuss’ Welcome to Sky Valley (or self-titled, whatever) during exam week and being utterly shocked at how perfect the album was. I was in absolute awe.
