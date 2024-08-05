@@ -2,13 +2,33 @@
 import { type CollectionEntry } from 'astro:content';
 import ArrowRight from '../icons/ArrowRight.astro';
 import FormattedDate from './FormattedDate.astro';
+import TagButton from './TagButton.astro';
+// Add in the button style
 
 type Props = { post: CollectionEntry<'blog'>; class?: string; headingLevel?: 'h2' | 'h3' };
 
 const { post, class: className, headingLevel = 'h2' } = Astro.props;
-const { title, publishDate, updatedDate, excerpt } = post.data;
+const { title, publishDate, updatedDate, excerpt, tags } = post.data;
 const TitleTag = headingLevel;
 ---
+
+{
+    tags && tags.length > 0 && (
+        <div class="flex flex-wrap gap-4 overflow-x-auto whitespace-nowrap;" style="padding-bottom: 10px">
+            {tags.map((tag) => {
+                const tagUrl = tag
+                    .toLowerCase()
+                    .replace(/\s+/g, '-')
+                    .replace(/[^\w-]+/g, '');
+                return (
+                    <TagButton href={`/tags/${tagUrl}`} class="!py-0.5 !px-2 !text-xs">
+                        {tag}
+                    </TagButton>
+                );
+            })}
+        </div>
+    )
+}
 
 <a class:list={['flex justify-between items-start gap-8 group', className]} href={`/blog/${post.slug}/`}>
     <div class="grow">
@@ -17,7 +37,7 @@ const TitleTag = headingLevel;
         >
             {title}
         </TitleTag>
-        <div class="mt-1 text-sm leading-normal">
+        <div class="mt-1 text-sm leading-normal flex flex-wrap items-center gap-x-2 gap-y-1">
             <FormattedDate date={publishDate} />
             {
                 updatedDate && (
@@ -30,8 +50,8 @@ const TitleTag = headingLevel;
                 )
             }
         </div>
-        {excerpt && <div class="mt-3 text-sm leading-normal">{excerpt}</div>}
     </div>
+
     <div class="hidden font-serif italic opacity-0 transition group-hover:opacity-100 sm:inline-flex sm:gap-1 sm:items-center sm:shrink-0">
         Read Post <ArrowRight class="fill-current w-4 h-4" />
     </div>

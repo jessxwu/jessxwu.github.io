@@ -4,7 +4,7 @@ excerpt: 'Highlight and explain the newest CSS features or updates. Include exam
 publishDate: 'October 11 2023'
 tags:
   - CSS
-  - Web development
+  - web development
 isFeatured: true
 seo:
   image:
