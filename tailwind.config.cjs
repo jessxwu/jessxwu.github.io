@@ -37,9 +37,29 @@ module.exports = {
                         '--tw-prose-pre-code': theme('colors.zinc.100'),
                         '--tw-prose-pre-bg': theme('colors.zinc.800'),
                         '--tw-prose-th-borders': theme('borderColor.main / 100%'),
-                        '--tw-prose-td-borders': theme('borderColor.main / 100%')
+                        '--tw-prose-td-borders': theme('borderColor.main / 100%'),  
                     }
                 },
+                // I added these myself - not working
+                p: {
+                    marginTop: '0em',
+                    marginBottom: '0.1em',
+                  },
+                  'h1, h2, h3, h4, h5, h6': {
+                    marginBottom: '0.2em',
+                  },
+                  'ul, ol': {
+                    marginTop: '0.5em',
+                    marginBottom: '0.5em',
+                  },
+                  li: {
+                    marginTop: '0.2em',
+                    marginBottom: '0.2em',
+                  },
+                  blockquote: {
+                    marginTop: '1em',
+                    marginBottom: '1em',
+                  },
                 DEFAULT: {
                     css: {
                         a: {
@@ -54,7 +74,7 @@ module.exports = {
                         },
                         'h1,h2,h3,h4,h5,h6': {
                             fontFamily: theme('fontFamily.serif'),
-                            fontWeight: 500
+                            fontWeight: 500,
                         },
                         blockquote: {
                             border: 0,
@@ -66,7 +86,7 @@ module.exports = {
                             paddingLeft: 0,
                             '@media (min-width: theme("screens.sm"))': {
                                 fontSize: '1.66667em',
-                                lineHeight: 1.3
+                                lineHeight: 1
                             }
                         }
                     }

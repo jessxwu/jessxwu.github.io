@@ -26,6 +26,10 @@ const blog = page.data;
     showHeader={false}
 >
     <h1 class="mb-12 text-2xl leading-tight font-serif italic sm:mb-16 sm:text-4xl">Words Archive</h1>
+    <h5 class="mt-4">
+        You'll find a miscellany of things, like: outputs from creative writing exercises; inspired musings when I play armchair philosopher; reflections on the
+        music, media, and art that move me; and occasionally, the chronicles of my life. <br /><br />
+    </h5>
     {blog.map((post) => <PostPreview post={post} class="mb-10 sm:mb-12" />)}
     <Pagination page={page} class="my-16 sm:my-24" />
     <Subscribe class="my-16 sm:my-24" />

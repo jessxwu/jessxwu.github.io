@@ -76,25 +76,33 @@ const siteConfig: SiteConfig = {
     ],
     socialLinks: [
         {
-            text: 'Dribbble',
-            href: 'https://dribbble.com/'
-        },
-        {
-            text: 'Instagram',
-            href: 'https://instagram.com/'
-        },
-        {
-            text: 'X/Twitter',
-            href: 'https://twitter.com/'
+            text: 'Connect on LinkedIn',
+            href: 'https://linkedin.com/jessicaxywu'
         }
     ],
     hero: {
         title: 'Hello 👋 ',
-        text: "I'm **Jess Wu**, a web developer at Amazing Studio, dedicated to the realms of collaboration and artificial intelligence. My approach involves embracing intuition, conducting just enough research, and leveraging aesthetics as a catalyst for exceptional products. I have a profound appreciation for top-notch software, visual design, and the principles of product-led growth. Feel free to explore some of my coding endeavors on <a href='https://github.com/JustGoodUI/dante-astro-theme'>GitHub</a> or follow me on <a href='https://twitter.com/justgoodui'>Twitter/X</a>.",
+        text:
+            //custom css
+            "<div style='line-height: 1.4; margin-bottom: 1.3em;'>" +
+            "I'm <strong>Jessica Wu</strong>. I'm a marketer by trade and a storyteller at heart." +
+            "</div>" +
+
+            "<div style='line-height: 1.4; margin-bottom: 1.3em;'>" +
+            "Naturally, I'm obsessed with the art of writing and the power of words. I believe that a great idea, brilliantly articulated, can be the spark that changes the world." +
+            "</div>" +
+            "<div style='line-height: 1.4; margin-bottom: 1.3em;'>" +
+            "This is an experimental space where I capture some of those stories, thoughts, and ideas. While I don't promise that they are all life-changing, they are thoughtfully crafted and sincere." +
+            "</div>" +
+
+            "<div style='line-height: 1.4; 'margin-bottom: 0.5em;'>" +
+            "If you want to get in touch, feel free to email me at jessicaxywu (at) gmail (dot) com, or connect with me on <a href='https://linkedin.com/jessicaxywu' style='text-decoration: underline;'>LinkedIn</a>." +
+            "</div>",
         // image: {
         //     src: '/hero.jpeg',
         //     alt: 'A person sitting at a desk in front of a computer'
         // },
+
         actions: [
             {
                 text: 'Get in Touch',
@@ -102,11 +110,11 @@ const siteConfig: SiteConfig = {
             }
         ]
     },
-    subscribe: {
-        title: 'Subscribe to my newsletter',
-        text: 'A post once in a while. All the latest posts directly in your inbox.',
-        formUrl: '#'
-    },
+    // subscribe: {
+    //     title: 'Subscribe to my newsletter',
+    //     text: 'A post once in a while. All the latest posts directly in your inbox.',
+    //     formUrl: '#'
+    // },
     postsPerPage: 8,
     projectsPerPage: 8
 };
