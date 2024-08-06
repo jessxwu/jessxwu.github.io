@@ -8,7 +8,7 @@ import spotlightjs from "@spotlightjs/astro";
 
 // https://astro.build/config
 export default defineConfig({
-  site: 'https://jessxwu.github.io',
+  site: 'https://example.com',
   integrations: [mdx(), sitemap(), tailwind({
     applyBaseStyles: false
   }), sentry(), spotlightjs()]
