@@ -6,28 +6,23 @@ seo:
 ---
 *I update this page in a sporadic and unceremonious fashion. Last update: 7th Aug 2024.*
 
-**💼 Searching for new hats to wear**  
+**Job search**  
 I'm looking for a new job. I took a 4-month break to travel and see the sights. Now I'm back home, and seeking my next thing.
 
-**🌐 Presenting... the new website**  
-My previous site was built off a Jekyll template, and I fell in love with SSG. I decided on Astro.js for this guy.
-Currently migrating the content over from my previous blog, and getting some content up.
-I documented this whole exploratory process, my design ethos, and how I built the site with a low-code background, and how you can replicate this too! Read here.
+**Employable skills**  
+Upskilling with digital apps and tools. Learning marketing niches that I'm less familiar with, like SEO. Tinkering with AI and tooling my personal tech stack.
 
-**🔧 Working on my employable skills**  
-Upskilling with digital apps and tools. Learning marketing niches that I'm less familiar with, like SEO. Tinkering with AI a lot and getting comfy with my personal tech stack.
+**Website development**  
+Retiring my previous site built on Jekyll, and decided on Astro.js. Played around with Netlify (which was great, but unnecessary) and explored headless CMS integration (too complicated for me), so went back to Github Pages. Currently migrating the content over.
 
-**🧠 Building my second brain and tools for life**  
-Separately, I've been spending a lot of time building out my digital Second Brain. It's still disorganised right now and I haven't fully cracked the right process. I'm rethinking how I organise my Notion, Todoist, notes, and document drives. When it's ready, I'd like to move some things to the site.
+**Building my Second Brain and tools for life**  
+Working on my digital Second Brain. Rethinking how I organise my Notion, Todoist, notes, and document drives. Migrating my page links from Pocket to Raindrop.io to organise document snippets, and web highlights, images, text. Put Android vs Apple up to the test for several months, but Apple won for me. A lot of app testing.
 
-**🏋️ Spending a lot of time upside down**  
-My priority these days is learning new calisthenics skills and I've been working on my handstands a lot, under the guidance of some sweet coaches @ The Rogue Room! Have been changing up how I move. Over the last few years, I've found myself gradually falling into a rhythm of consistency versus intensity, after many periods of burnout. Still doing the regular things: yoga, cycling, running, jump rope, badminton, swimming. 
+**Fitness**  
+Fitness has been pretty consistent, although I've had to force myself to prioritize between doing too much all at once. Mostly working on my handstands these days and calisthenics. Gym and yoga are mostly just for maintenance of strength and flexibility these days and so I get some movement in. Forced to take a break from running since April as my recurring hip injury came back with a vengeance. Picked up a new old bike, so now commute with 2 wheels often.
 
-**🍎 Food**  
-I have developed an addition to sugar I haven't been able to curb. Ice cream season has not been helpful, so although I'm happy, my waistline hasn't been. Separately, I have been working on a side project mapping out major cuisines of the world by geography, excited to share that when at a better state of finish. Also have done a lot of mapping of my yummies and places to eat and try on Google Maps.
+**Food**  
+I have developed an addition to sugar I haven't been able to curb. Ice cream season has not been helpful. I still really enjoy going out to eat and have been working on a side project mapping out major cuisines of the world by geography. Also have done a lot of mapping of my yummies and places to eat and try on Google Maps.
 
-**🎵 Music**  
-I have bought into the Brat hype.
-
-**📺 Watching things**  
-Stuart and I have been watching Korean horror 'Sweet Home' on Netflix, as well as some sports documentaries recently (Simone Biles, SPRINT, Free Solo). These people are so incredible.
+**Entertainment**  
+Stuart and I have been watching Sweet Home on Netflix, as well as some documentaries (Simone Biles). 

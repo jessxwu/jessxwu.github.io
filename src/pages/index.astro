@@ -26,8 +26,8 @@ const featuredProjects = projects.filter(({ data }) => data.isFeatured);
     {
         featuredPosts?.length > 0 && (
             <div class="mb-16 sm:mb-24">
-                <h2 class="mb-12 text-xl font-serif sm:mb-16 sm:text-3xl" style="font-size: 200%; font-weight: 500">
-                    Featured Words
+                <h2 class="mb-12 text-xl font-serif sm:mb-16 sm:text-3xl" style="font-size: 180%;">
+                    Latest Words
                 </h2>
                 {featuredPosts.map((post) => (
                     <PostPreview post={post} class="mb-10 sm:mb-12" headingLevel="h3" />

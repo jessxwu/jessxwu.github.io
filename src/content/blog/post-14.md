@@ -1,7 +1,7 @@
 ---
 title: Three Days in Cannes
 excerpt: It was a gentle nudge, or maybe a prod. “You’re going to submit your entry to Cannes, right?”. I responded back earnestly, “yes, it’s been on my list for ages, I plan on writing it soon.” “Well, I hope it’s very soon… the deadline is midnight.” Welp, looks like I just found out what I’ll be doing for the next two hours — drowning in a tunnel vision writing frenzy. Good thing is that it paid off as I scored a pass to what may be my final Cannes adventure — because once I hit the ancient, wise age of 30, I’ll obviously be too old for such youthful escapades.
-publishDate: 'Apr 30 2024'
+publishDate: 'Jan 11 2024'
 isFeatured: true
 tags:
   - personal
@@ -11,9 +11,10 @@ seo:
     src: '/post-14.jpg'
     alt: Wavy lines
 ---
-It was a gentle nudge, or maybe a prod. “You’re going to submit your entry to Cannes, right?”. I responded back earnestly, “yes, it’s been on my list for ages, I plan on writing it soon.” “Well, I hope it’s very soon… the deadline is midnight.” Welp, looks like I just found out what I’ll be doing for the next two hours — drowning in a tunnel vision writing frenzy. Good thing is that it paid off as I scored a pass to what may be my final Cannes adventure — because once I hit the ancient, wise age of 30, I’ll obviously be too old for such youthful escapades.
 
 ![Wavy lines](/post-14.jpg)
+
+It was a gentle nudge, or maybe a prod. “You’re going to submit your entry to Cannes, right?”. I responded back earnestly, “yes, it’s been on my list for ages, I plan on writing it soon.” “Well, I hope it’s very soon… the deadline is midnight.” Welp, looks like I just found out what I’ll be doing for the next two hours — drowning in a tunnel vision writing frenzy. Good thing is that it paid off as I scored a pass to what may be my final Cannes adventure — because once I hit the ancient, wise age of 30, I’ll obviously be too old for such youthful escapades.
 
 Here's the letter.
 

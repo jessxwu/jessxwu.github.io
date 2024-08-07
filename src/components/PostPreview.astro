@@ -10,9 +10,6 @@ type Props = { post: CollectionEntry<'blog'>; class?: string; headingLevel?: 'h2
 const { post, class: className, headingLevel = 'h2' } = Astro.props;
 const { title, publishDate, updatedDate, excerpt, tags } = post.data;
 const TitleTag = headingLevel;
-
-//access the content of my posts
-const { Content, remarkPluginFrontmatter } = await post.render();
 ---
 
 {
@@ -24,7 +21,7 @@ const { Content, remarkPluginFrontmatter } = await post.render();
                     .replace(/\s+/g, '-')
                     .replace(/[^\w-]+/g, '');
                 return (
-                    <TagButton href={`/tags/${tagUrl}`} class="!py-0.6 !px-2.5 !text-xs">
+                    <TagButton href={`/tags/${tagUrl}`} class="!py-0.5 !px-2 !text-xs">
                         {tag}
                     </TagButton>
                 );
@@ -52,7 +49,6 @@ const { Content, remarkPluginFrontmatter } = await post.render();
                     </>
                 )
             }
-            <p>· 🕮 {remarkPluginFrontmatter.minutesRead}</p>
         </div>
     </div>
 
