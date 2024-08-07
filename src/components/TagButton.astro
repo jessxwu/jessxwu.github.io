@@ -39,7 +39,7 @@ const tagText = Astro.slots.has('default') ? await Astro.slots.render('default')
 // Use the hash of the tag text to select a color scheme
 const colorScheme = colorSchemes[hashCode(tagText) % colorSchemes.length];
 
-const buttonClasses = `inline-flex items-center justify-center px-2 py-0.5 text-sm leading-tight rounded-full transition ${colorScheme.bg} ${colorScheme.text} ${colorScheme.border} ${colorScheme.hover}`;
+const buttonClasses = `inline-flex items-center justify-center px-2.5 py-1.5 text-sm leading-tight rounded-full transition ${colorScheme.bg} ${colorScheme.text} ${colorScheme.border} ${colorScheme.hover}`;
 ---
 
 {
