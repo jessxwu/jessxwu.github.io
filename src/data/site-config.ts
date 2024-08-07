@@ -47,7 +47,7 @@ const siteConfig: SiteConfig = {
     },
     headerNavLinks: [
         {
-            text: 'Jessica Wu',
+            text: 'Home',
             href: '/'
         },
         {
@@ -58,22 +58,24 @@ const siteConfig: SiteConfig = {
             text: 'Words',
             href: '/blog'
         },
-        {
-            text: 'Projects',
-            href: '/projects'
-        },
+        // Hiding projects link
+        // {
+        //     text: 'Projects',
+        //     href: '/projects'
+        // },
 
     ],
-    footerNavLinks: [
-        {
-            text: 'Contact',
-            href: '/contact'
-        },
-        {
-            text: 'Terms',
-            href: '/terms'
-        },
-    ],
+    //Hiding footer nav bar
+    // footerNavLinks: [
+    //     {
+    //         text: 'Contact',
+    //         href: '/contact'
+    //     },
+    //     {
+    //         text: 'Terms',
+    //         href: '/terms'
+    //     },
+    // ],
     socialLinks: [
         {
             text: 'Connect on LinkedIn',
@@ -85,18 +87,18 @@ const siteConfig: SiteConfig = {
         text:
             //custom css
             "<div style='line-height: 1.4; margin-bottom: 1.3em;'>" +
-            "I'm <strong>Jessica Wu</strong>. I'm a marketer by trade and a storyteller at heart." +
+            "I'm <strong>Jessica Wu</strong>. I'm a marketer by trade and a writer at heart." +
             "</div>" +
 
             "<div style='line-height: 1.4; margin-bottom: 1.3em;'>" +
-            "Naturally, I'm obsessed with the art of writing and the power of words. I believe that a great idea, brilliantly articulated, can be the spark that changes the world." +
+            "I'm obsessed with the art of storytelling and the power of words. I believe that a great idea, well expressed, can be the spark that changes the world." +
             "</div>" +
             "<div style='line-height: 1.4; margin-bottom: 1.3em;'>" +
             "This is an experimental space where I capture some of those stories, thoughts, and ideas. While I don't promise that they are all life-changing, they are thoughtfully crafted and sincere." +
             "</div>" +
 
             "<div style='line-height: 1.4; 'margin-bottom: 0.5em;'>" +
-            "If you want to get in touch, feel free to email me at jessicaxywu (at) gmail (dot) com, or connect with me on <a href='https://linkedin.com/jessicaxywu' style='text-decoration: underline;'>LinkedIn</a>." +
+            "If you want to get in touch, email me at jessicaxywu (at) gmail (dot) com." +
             "</div>",
         // image: {
         //     src: '/hero.jpeg',
@@ -105,8 +107,8 @@ const siteConfig: SiteConfig = {
 
         actions: [
             {
-                text: 'Get in Touch',
-                href: '/contact'
+                text: 'Connect on LinkedIn',
+                href: 'https://www.linkedin.com/in/jessicaxywu/'
             }
         ]
     },

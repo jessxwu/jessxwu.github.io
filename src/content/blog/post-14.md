@@ -1,11 +1,11 @@
 ---
-title: Your Roadmap to Framework Selection Success
-excerpt: Choosing the right framework for your web project is a critical decision that can significantly impact the development process and the success of your project. With so many options available, it's essential to consider various factors before making a choice.
+title: Three Days in Cannes
+excerpt: It was a gentle nudge, or maybe a prod. “You’re going to submit your entry to Cannes, right?”. I responded back earnestly, “yes, it’s been on my list for ages, I plan on writing it soon.” “Well, I hope it’s very soon… the deadline is midnight.” Welp, looks like I just found out what I’ll be doing for the next two hours — drowning in a tunnel vision writing frenzy. Good thing is that it paid off as I scored a pass to what may be my final Cannes adventure — because once I hit the ancient, wise age of 30, I’ll obviously be too old for such youthful escapades.
 publishDate: 'Jan 11 2024'
 isFeatured: true
 tags:
-  - web
-  - guide
+  - personal
+  - movies
 seo:
   image:
     src: '/post-14.jpg'
@@ -14,54 +14,34 @@ seo:
 
 ![Wavy lines](/post-14.jpg)
 
-**Note:** This post was created using Chat GPT to demonstrate the features of the _[Dante Astro.js theme functionality](https://justgoodui.com/astro-themes/dante/)_.
+It was a gentle nudge, or maybe a prod. “You’re going to submit your entry to Cannes, right?”. I responded back earnestly, “yes, it’s been on my list for ages, I plan on writing it soon.” “Well, I hope it’s very soon… the deadline is midnight.” Welp, looks like I just found out what I’ll be doing for the next two hours — drowning in a tunnel vision writing frenzy. Good thing is that it paid off as I scored a pass to what may be my final Cannes adventure — because once I hit the ancient, wise age of 30, I’ll obviously be too old for such youthful escapades.
 
-**Choosing the right framework** for your web project is a critical decision that can significantly impact the development process and the success of your project. With so many options available, it's essential to consider various factors before making a choice. Here's a step-by-step guide on how to choose the right framework for your web project.
+Here's the letter.
 
-> Web frameworks are the architectural blueprints that empower developers to build the digital landscapes of tomorrow.
+<hr>
 
-## Understand Your Project Requirements
+To Whom It May Concern,
 
-Start by thoroughly understanding the specific requirements of your web project. Consider factors such as the project's scope, complexity, and the features you need. Ask questions like:
+As my life is about to come to an end (read: turning 29), my last dying wish is to receive an accreditation to the “Three Days in Cannes” program in my last eligible year as a young and spritely cinephile.
 
-- What is the project's purpose?
-- What are the key functionalities it should have?
-- Are there any specific technical or performance requirements?
+Sensationalist clichés aside, I was very lucky to attend “Three Days in Cannes” in 2022.
 
-## Define Your Tech Stack
+I watched eight films in those three whirlwind days, my eyes slightly glazed from the (occasional) back-to-back screenings (rushing from theatre to theatre in my tiny heels - making a mental note to carry some barefoot flats for next time) while suffering acutely from jet lag, and noting the odd dichotomy of my body fighting to stay awake physically, but also my brain and heart so mentally stimulated, alert… alive! by the marvel and talent and brilliant storytelling that graced the screens and filled up my very eager heart. It was a dizzying but glamorous experience. I was bright-eyed, bushy-tailed, and filled with the wonder and delight of film. A lifelong dream come true… The madness and pure intensity of my Cannes experience mirrors my journey with movies itself, and a love affair that I’ve keenly developed and matured since I was a child.
 
-Determine your preferred technology stack. This includes choices for the frontend (HTML, CSS, JavaScript), backend (programming language, database), and any other technologies you plan to use. Your framework should align with your chosen tech stack.
+My favourite that year was Lukas Dhont’s coming of age masterpiece, “Close”, followed closely by the Palme d’Or winner, Ruben Östlund’s Triangle of Sadness, and Koreeda’s Broker. I found “Close” captivating for its poignant and authentic portrayal of youth - set against a beautiful, dreamy backdrop of Belgian flower farms. I often finding myself looking backwards and inwards, in a romantically nostalgic way, idealising the tales from my childhood (and yes, I still feel a child at heart, and forever will be despite my former protests on turning thirty). Times were simpler back then, I thought; but “Close” reminds me that the romanticized notion of youth is not immune to challenges.
 
-## Consider Your Team's Expertise
+I luckily had a mostly uncomplicated youth, but we forget now the trials and tribulations that accompany adolescence, showcasing that every challenge, no matter how seemingly trivial, holds weight and significance in the eyes of the beholder.
 
-Assess the skills and expertise of your development team. Choose a framework that your team is comfortable with or is willing to learn. If your team is experienced in a particular language or framework, it may be more efficient to stick with what they know.
+My love affair with cinema traces back to the humblest of origins – a cramped apartment in a bustling immigrant neighborhood, where the flickering glow of the television screen became my window to a world of infinite possibilities (imagine the dramatism of Spielberg’s The Fabelmans, but with little payoff). As a wide-eyed child navigating the complexities of a new country, I found solace and inspiration in the stories unfolding before me, each frame a testament to the resilience of the human spirit and the universality of emotion.
 
-## Community and Ecosystem
+Fast forward to today. My best adult purchase this year (which I will continue to rave about to anyone who will listen) was a subscription to MUBI GO, which lends me to a hand-picked movie at some of my favourite independent cinemas across London. Regularly returning to the cinema after a literal decade of streaming films on my 13-inch laptop screen felt like a charming throwback to the way I used to watch movies as a child. Reclining in the plush theater seat, surrounded by the dimly lit ambiance and the subtle hum of anticipation amongst the crowd, I couldn’t help but appreciate the simplicity of the old school theatre-going experience. There was something undeniably nostalgic about the communal atmosphere of the theater that made me feel like a kid again.
 
-The strength and vitality of a framework's community and ecosystem are paramount considerations when making your choice. A thriving community signifies that the framework is actively used and supported by developers worldwide. Here's why this matters.
+You just can’t compare to the immersive charm of the big screen, and I recognise it’s something that streaming will never replace. My theatre subscription has brought me deeper into movies, making me long for my youth again - and I’ve fallen in love again. It’s brought me back to simpler times, and I can only hope to recreate that joyful experience with the brilliant silver screens in Cannes.
 
-> Good code is its own best documentation. As you're about to add a comment, ask yourself, 'How can I improve the code so that this comment isn't needed? - **Steve McConnell**
+Attending Cannes in 2022 was a highlight of my life, and it would be an absolute privilege for me to attend again.
 
-**Support and Problem Solving:** A robust community ensures that you won't be left in the dark when you encounter issues or challenges during development. It's a vast network of developers who are willing to help and share their knowledge. You can turn to forums, Stack Overflow, GitHub discussions, and various online communities for assistance. The more active the community, the faster you're likely to get answers and solutions to your problems.
+I turn 29 this year, making this the last year I can walk the storied streets, grace the red carpets with my fellow cinema-goers, before bidding farewell to my twenties. I can only hope you can indulge me this one last time - for the child in me, and the child in everyone.
 
-**Third-Party Libraries and Plugins:** An active ecosystem often means a wealth of third-party libraries, plugins, and extensions that can extend the functionality of your chosen framework. This can significantly speed up development by providing pre-built solutions for common features and functionalities.
+Sincerely,
 
-**Continuous Improvement:** A large and engaged community usually translates to continuous improvement of the framework. Developers are more likely to contribute bug fixes, enhancements, and new features, leading to faster updates and a more stable platform. These contributions keep the framework up-to-date and aligned with industry standards.
-
-**Tutorials and Learning Resources:** A thriving community often generates a plethora of tutorials, blog posts, video courses, and documentation. This abundance of learning resources can be immensely valuable for both beginners and experienced developers looking to master the framework. It makes the learning curve smoother and promotes the adoption of best practices.
-
-**Long-Term Viability:** A framework with a strong community is more likely to have a longer lifespan. It's reassuring to know that the framework you choose today will still be supported and updated in the years to come, reducing the risk of your project becoming obsolete due to a lack of maintenance.
-
-## Documentation and Learning Resources
-
-Check the quality and availability of documentation and learning resources for the framework. Well-documented frameworks are easier for developers to learn and work with.
-
-## Scalability and Performance
-
-Consider whether the framework can scale to meet your project's future needs. Will it handle increased traffic and data without performance bottlenecks?
-
-## Security
-
-Security is crucial for any web project. Ensure that the framework has security features built in and is actively maintained to address security vulnerabilities promptly.
-
-In conclusion, choosing the right framework for your web project involves a careful evaluation of your project's requirements, your team's expertise, community support, and various technical factors. Taking the time to make an informed decision at the outset can save you time, resources, and headaches as your project progresses.
+Jessica (Xueyan) Wu

@@ -79,13 +79,13 @@ module.exports = {
                         blockquote: {
                             border: 0,
                             fontFamily: theme('fontFamily.serif'),
-                            fontSize: '1.3125em',
+                            fontSize: '1.2em',
                             fontStyle: 'italic',
                             fontWeight: 'normal',
                             lineHeight: 1.4,
                             paddingLeft: 0,
                             '@media (min-width: theme("screens.sm"))': {
-                                fontSize: '1.66667em',
+                                fontSize: '1.3em',
                                 lineHeight: 1
                             }
                         }

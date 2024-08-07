@@ -9,7 +9,13 @@ const navLinks = siteConfig.headerNavLinks || [];
 <nav class="min-h-10 pt-4 pb-12 relative sm:min-h-14 sm:pb-24 md:pt-8">
     {
         navLinks.length > 0 && (
-            <div class="w-full max-w-3xl mx-auto relative">
+        <div class="w-full max-w-3xl mx-auto relative flex flex-row-reverse justify-between items-center md:flex-row md:items-end">
+             <img 
+                id="signature-image"
+                src="/signature-black.png" 
+                alt="Jessica Wu Signature" 
+                class="h-8 md:h-10 object-contain object-left"
+            />  
                 <button
                     class="menu-toggle w-8 h-8 -ml-1 flex items-center justify-center relative z-30 md:hidden"
                     aria-label="Open Menu"
@@ -18,11 +24,12 @@ const navLinks = siteConfig.headerNavLinks || [];
                 >
                     <span class="menu-toggle-icon w-6 h-px relative bg-current" />
                 </button>
-                <ul id="menu-items" class="menu flex gap-6">
+                
+                <ul id="menu-items" class="menu md:flex md:flex-row gap-6 mt-6 md:mt-0">
                     {navLinks.map((link) => (
                         <li class="py-1">
                             <NavLink
-                                class="text-xl font-serif text-main hover:underline hover:underline-offset-2 hover:decoration-1 md:text-base"
+                                class="text-xl font-serif text-main hover:underline hover:underline-offset-2 hover:decoration-1 md:text-2xl"
                                 href={link.href}
                             >
                                 {link.text}
@@ -31,11 +38,14 @@ const navLinks = siteConfig.headerNavLinks || [];
                     ))}
                 </ul>
             </div>
-        )
-    }
-    <div class="absolute right-0 top-4 z-10 md:top-8">
+            <!-- ThemeToggle componenent outside of nav bar -->
+    <div class="absolute right-2 top-15 z-10 md:top-8">
         <ThemeToggle />
     </div>
+            
+        )
+    }
+    
 </nav>
 
 <style>
