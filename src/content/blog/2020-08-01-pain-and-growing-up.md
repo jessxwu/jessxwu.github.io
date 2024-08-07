@@ -2,7 +2,7 @@
 title: 'Pain and Growing Up'
 excerpt: I never really got hurt as a kid. Hurt-hurt. The kind that involves casts and hospital visits. My boldness was wasted on my youth. We probably had nine lives back then, yet I didn’t need them. Scrapes and tumbles, rug burn, and perhaps a twisted ankle - truly the uncoordinated efforts of my adolescent self. Such were the heights and bounds of my playground injuries. Fresh skin, nimble bodies - it didn’t matter because you bounced right back.
 
-publishDate: 'Jan 03 2024'
+publishDate: 'Aug 1 2020'
 tags:
   - personal
 isFeatured: true
@@ -13,7 +13,7 @@ seo:
 
 ---
 
-I never really got hurt as a kid. *Hurt-hurt*. The kind that involves casts and hospital visits. Signatures from your crush during recess.
+I never really got hurt as a kid. *Hurt-hurt*. The kind that involves casts and hospital visits. I might have even dreamed about a getting a signature from my crush on a plastered arm.
 
 My boldness was wasted on my youth. We probably had nine lives back then, yet I didn’t need them. Scrapes and tumbles, rug burn, and perhaps a twisted ankle - truly the uncoordinated efforts of my adolescent self. Such were the heights and bounds of my playground injuries. I remember bravely and foolishly attempting a back walkover on the third day of gymnastics camp, falling straight on my face, and feeling a pang of hurt that was instantly replaced with the relief that falling wasn't so scary. Fresh skin, nimble bodies - it didn’t matter because you bounced right back.
 
@@ -54,21 +54,20 @@ And they seemingly come appropriately timed with my newfound corporate health in
 This practice is challenging. I also feel like this is one of the greatest truths about becoming an adult. Sometimes I think I’m really good at it; other times, I feel like a wild animal with a complete lack of self-control.
 
 Casey Johnston: 
->As humans, we are not quite biologically primed to process the abstract motivations that govern modern life. “Eat that food in front of you,” “run away from that bear,” “fall asleep because you’re so tired your eyes won’t stay open”—these things we can handle.
-
+>As humans, we are not quite biologically primed to process the abstract motivations that govern modern life. “Eat that food in front of you,” “run away from that bear,” “fall asleep because you’re so tired your eyes won’t stay open” — these things we can handle.
+>
 >But eating healthy foods early in the day so as to not feel like shit later? Exercising to keep your blood pressure down? Going to bed because you have to wake up early every day this week, or because sleep deprivation leads to long-term cognitive decline?
-
+>
 >Here we start to lose the thread. Part of becoming an adult is, supposedly, that you stop living moment to moment and start living for these more bigger-picture forces like middle- and long-term health.
-
-
+>  #### Casey Johnston
 
 This kind of control and conscious action is so hard to do - it’s connecting the future effects and consequences of doing things presently. That’s the core of discipline… very difficult, but so, so important to realize. It also has strong undercurrents of one part of stoic philosophy that I’m trying to practice (‘punishment can become pleasure’).
 
-Injuries have been the worst part of being active, but sometimes they are also the most significant. They’ve told me I need to slow down. At one point, for maybe half a year, I was training like an semi-elite athlete, 2h+ every day, on top of my full-time job. I was exhausted, getting home at midnight some days, from my second iron-pumping session straight from the office; although I had left the house at 6:36am that morning and even went for a Brazilian Jiu Jitsu lesson during lunch.
+Injuries have been the worst part of being active, but sometimes they are also the most significant. They’ve told me I need to slow down. At one point, for maybe half a year, I was training like an semi-elite athlete, 3h+ every day, on top of my full-time job. I was exhausted, getting home at midnight some days, from my second iron-pumping session straight from the office; although I had left the house at 6:36am that morning and even went for a Brazilian Jiu Jitsu lesson during lunch.
 
 60% of my diet consisted of hard boiled eggs, greek yogurt, fruits, bananas, cucumbers, and protein shakes (which pretty much also consisted of the same aforementioned ingredients). I’d get home to prepare my gym uniform and work outfit for the next day and pack breakfast in the fridge before racing to bed to get my five-six hours in. It was a lot, and I got used to how tired I was, but I think I might have loved it.
 
-I remember this one time, getting home from a concert at 2am on a weekday (that was the summer of too many concerts), and knowing I had to be up at 5:50am to make it to a 6:15am barre class that I didn’t want to cancel on ClassPass and get penalized for. If I missed a day at the gym, I’d punish myself by going much harder the next time (I would say two times, but that wasn’t really an aberration). What I loved was that I felt super productive, and was forced to be so, at work also.
+I remember this one time, getting home from a concert at 2am on a weekday (that was the summer of too many concerts), and knowing I had to be up at 5:50am to make it to a 6:15am barre class that I didn’t want to cancel on ClassPass and get penalized for. If I missed a day at the gym, I’d punish myself by going much harder the next time (I would say going two times, but that wasn’t really an aberration - in fact, there were several of us double duty regulars, acknowledging the elite crowd with a knowing nod. What I loved was that I felt super productive, and was forced to be so, at work also.
 
 I found myself struggling to stay awake at 2pm many days, my eyes briefly fluttering closed by my desk. I now realize I was chronically sleep-deprived. I wore this as an odd badge of honour, congratulating myself for being so high-functioning on so few little hours of sleep. I lacked the time to pursue more academic hobbies, and saw my friends for purely social activities less, and would try to wrangle them into self-serving plans to play sports with me or run on the weekends. I was surprised I didn’t burn out completely or feel miserable about it.
 

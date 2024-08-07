@@ -5,17 +5,25 @@ import BaseLayout from '../../layouts/BaseLayout.astro';
 import Pagination from '../../components/Pagination.astro';
 import PostPreview from '../../components/PostPreview.astro';
 import Subscribe from '../../components/Subscribe.astro';
+import TagCloud from '../../components/TagCloud.astro';
 import siteConfig from '../../data/site-config';
 import { sortItemsByDateDesc } from '../../utils/data-utils';
 
 export async function getStaticPaths({ paginate }: GetStaticPathsOptions) {
     const posts = (await getCollection('blog')).sort(sortItemsByDateDesc);
-    return paginate(posts, { pageSize: siteConfig.postsPerPage || 4 });
+
+    // Collect all unique tags
+    const allTags = [...new Set(posts.flatMap((post) => post.data.tags || []))];
+
+    return paginate(posts, {
+        pageSize: siteConfig.postsPerPage || 4,
+        props: { allTags } // Pass allTags as a prop
+    });
 }
 
-type Props = { page: Page<CollectionEntry<'blog'>> };
+type Props = { page: Page<CollectionEntry<'blog'>>; allTags: string[] };
 
-const { page } = Astro.props;
+const { page, allTags } = Astro.props;
 const blog = page.data;
 ---
 
@@ -26,6 +34,9 @@ const blog = page.data;
     showHeader={false}
 >
     <h1 class="mb-12 leading-tight font-serif sm:mb-16" style="font-size: 48px; font-weight: 500;">Words Archive</h1>
+
+    <TagCloud tags={allTags} class="mb-12" />
+
     {blog.map((post) => <PostPreview post={post} class="mb-10 sm:mb-12" />)}
     <Pagination page={page} class="my-16 sm:my-24" />
     <Subscribe class="my-16 sm:my-24" />
