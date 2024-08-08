@@ -18,3 +18,6 @@ I remember my eyes wide and innocent, my heart a little devious… cautious but 
 
 T.
 Dating him was like The Movie. He said this himself. I was intrigued once again. After we part ways, I thought of Ethan Hawke in Before Sunset, how negative and pushy he was. So self-righteous and aggrandizing.
+
+S.
+We spend a lot of time sitting next to big windows with changing scenes, but we're fixtated our our changing screens. 
