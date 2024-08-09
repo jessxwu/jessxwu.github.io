@@ -12,7 +12,7 @@ I'm looking for a new job. I took a 4-month break to travel and see the sights. 
 **🌐 Presenting... the new website**  
 My previous site was built off a Jekyll template, and I fell in love with SSG. I decided on Astro.js for this guy.
 Currently migrating the content over from my previous blog, and getting some content up.
-I documented this whole exploratory process, my design ethos, and how I built the site with a low-code background, and how you can replicate this too! Read here.
+I'd like to write something documenting my exploratory process, design ethos, and how I built the site with a low-code background.
 
 **🔧 Working on my employable skills**  
 Upskilling with digital apps and tools. Learning marketing niches that I'm less familiar with, like SEO. Tinkering with AI a lot and getting comfy with my personal tech stack.
@@ -26,7 +26,7 @@ My priority these days is learning new calisthenics skills and I've been working
 **🍎 Food**  
 I have developed an addition to sugar I haven't been able to curb. Ice cream season has not been helpful, so although I'm happy, my waistline hasn't been. Separately, I have been working on a side project mapping out major cuisines of the world by geography, excited to share that when at a better state of finish. Also have done a lot of mapping of my yummies and places to eat and try on Google Maps.
 
-**🎵 Music**  
+**🎵 Being a brat**  
 I have bought into the Brat hype.
 
 **📺 Watching things**  

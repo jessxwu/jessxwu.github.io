@@ -12,12 +12,27 @@ import { sortItemsByDateDesc } from '../../utils/data-utils';
 export async function getStaticPaths({ paginate }: GetStaticPathsOptions) {
     const posts = (await getCollection('blog')).sort(sortItemsByDateDesc);
 
-    // Collect all unique tags
-    const allTags = [...new Set(posts.flatMap((post) => post.data.tags || []))];
+    // Define the preferred order of tags
+    const preferredTagOrder = ['personal', 'creative writing', 'movies', 'music', 'books', 'travel', 'writing', 'poetry'];
+
+    // Function to sort tags based on preferred order
+    function sortTags(tags: string[]): string[] {
+        return tags.sort((a, b) => {
+            const indexA = preferredTagOrder.indexOf(a);
+            const indexB = preferredTagOrder.indexOf(b);
+            if (indexA === -1 && indexB === -1) return a.localeCompare(b);
+            if (indexA === -1) return 1;
+            if (indexB === -1) return -1;
+            return indexA - indexB;
+        });
+    }
+
+    // Collect all unique tags and sort them
+    const allTags = sortTags([...new Set(posts.flatMap((post) => post.data.tags || []))]);
 
     return paginate(posts, {
         pageSize: siteConfig.postsPerPage || 4,
-        props: { allTags } // Pass allTags as a prop
+        props: { allTags } // Pass sorted allTags as a prop
     });
 }
 
@@ -29,8 +44,8 @@ const blog = page.data;
 
 <BaseLayout
     title="Words"
-    description="Embark on a journey of personal insights and experiences through my words"
-    image={{ src: '/dante-preview.jpg', alt: 'The preview of the site' }}
+    description="Words, thoughtful digressions"
+    image={{ src: '/public/android-chrome-512x512.png', alt: 'Jessica Wu' }}
     showHeader={false}
 >
     <h1 class="mb-12 leading-tight font-serif sm:mb-16" style="font-size: 48px; font-weight: 500;">Words Archive</h1>
