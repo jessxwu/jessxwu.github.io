@@ -58,6 +58,7 @@ const siteConfig: SiteConfig = {
             text: 'Words',
             href: '/blog'
         },
+
         // Hiding projects link
         // {
         //     text: 'Projects',
@@ -76,6 +77,7 @@ const siteConfig: SiteConfig = {
     //         href: '/terms'
     //     },
     // ],
+
     socialLinks: [
         {
             text: 'Connect on LinkedIn',
@@ -87,11 +89,11 @@ const siteConfig: SiteConfig = {
         text:
             //custom css
             "<div style='line-height: 1.4; margin-bottom: 1.3em;'>" +
-            "I'm <strong>Jessica Wu</strong>. I'm a marketer with an incurable writing habit." +
+            "I'm <strong>Jessica Wu</strong>. I'm a marketer with a love of words." +
             "</div>" +
 
             "<div style='line-height: 1.4; margin-bottom: 1.3em;'>" +
-            "I'm obsessed with the art of storytelling and the power of words. I believe that a great idea, well expressed, can be the spark that changes the world." +
+            "I'm obsessed with the art of storytelling, and believe that a great idea, well expressed, can be the spark that changes the world." +
             "</div>" +
 
             "<div style='line-height: 1.4; margin-bottom: 1.3em;'>" +
@@ -99,7 +101,7 @@ const siteConfig: SiteConfig = {
             "</div>" +
 
             "<div style='line-height: 1.4; margin-bottom: 1.3em;'>" +
-            "I am also actively looking for a new full-time opportunity and would appreciate any introductions to places where I would be a good fit. Read my <a href='/work-ethos'>work ethos here</a>." +
+            "I am also actively looking for a new full-time opportunity and would appreciate any leads that you think I can be a good fit for. Read my <a href='/work-ethos'>work ethos here</a>." +
             "</div>" +
 
             "<div style='line-height: 1.4; 'margin-bottom: 1.3em;'>" +
