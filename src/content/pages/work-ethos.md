@@ -7,18 +7,19 @@ seo:
     src: '/about.jpeg'
     alt: A person sitting at a desk in front of a computer
 ---
-What I'm looking for in a career. Sometimes it feels like it meshes perfectly for you.
+It feels like we're all reaching for the perfect job. Sometimes it feels like it meshes perfectly for you.
 Sometimes it doesn't.
 
-Do we trust Gallup?
-60% of people are emotionally detached at work and 19% are miserable.
+Do we trust Gallup? The most recent "State of the Global Workplace" report (2024)
+Apparently, 60% of people globally are emotionally detached at work and 19% are miserable.
 
 A staggering 90 per cent of UK employees lack enthusiasm for their jobs.
 The UK rate of engagement at work (10%) remains one of the lowest in Europe, ranking near the bottom among peer countries (33 out of 38), with countries such as the US reporting triple the number of engaged employees (31%). The dissatisfied feeling among workers is not unique to the UK, with just 13% across Europe feeling engaged at work, with the lowest rates of engagement reported in France (7%) and Italy (5%). 
 
-No one talks about this at work, and I feel like I'm living in the Truman Show sometimes. 
+Once you break the 'colleague' barrier, talks about this at work, and I feel like I'm living in the Truman Show sometimes. 
+But some people genuinely love their jobs, and my boyfriend is one person in this camp.
 
-I was recently listening to a podcast, where beyond disengagement, Gallup says.
+I was recently listening to a podcast, where beyond disengagement,
 
 
 ## Team and Value Alignment
