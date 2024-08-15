@@ -87,19 +87,27 @@ const siteConfig: SiteConfig = {
         text:
             //custom css
             "<div style='line-height: 1.4; margin-bottom: 1.3em;'>" +
-            "I'm <strong>Jessica Wu</strong>. I'm a marketer by trade and a writer at heart." +
+            "I'm <strong>Jessica Wu</strong>. I'm a marketer with an incurable writing habit." +
             "</div>" +
 
             "<div style='line-height: 1.4; margin-bottom: 1.3em;'>" +
             "I'm obsessed with the art of storytelling and the power of words. I believe that a great idea, well expressed, can be the spark that changes the world." +
             "</div>" +
+
             "<div style='line-height: 1.4; margin-bottom: 1.3em;'>" +
             "This is an experimental space where I capture some of those stories, thoughts, and ideas. While I don't promise that they are all life-changing, they are thoughtfully crafted and sincere." +
             "</div>" +
 
-            "<div style='line-height: 1.4; 'margin-bottom: 0.5em;'>" +
-            "If you want to get in touch, email me at jessicaxywu (at) gmail (dot) com." +
+            "<div style='line-height: 1.4; margin-bottom: 1.3em;'>" +
+            "I am also actively looking for a new full-time opportunity and would appreciate any introductions to places where I would be a good fit. Read my <a href='/work-ethos'>work ethos here</a>." +
+            "</div>" +
+
+            "<div style='line-height: 1.4; 'margin-bottom: 1.3em;'>" +
+            "If you want to get in touch, email me at jessicaxywu [at] gmail dot com." +
             "</div>",
+
+
+
         // image: {
         //     src: '/hero.jpeg',
         //     alt: 'A person sitting at a desk in front of a computer'

@@ -4,6 +4,7 @@ import BaseHead, { type Props as HeadProps } from '../components/BaseHead.astro'
 import Footer from '../components/Footer.astro';
 import Header from '../components/Header.astro';
 import Nav from '../components/Nav.astro';
+import Hotjar from '../components/hotjar.astro';
 
 export type Props = HeadProps & { showHeader?: boolean };
 
@@ -32,6 +33,9 @@ const { showHeader = false, ...head } = Astro.props;
 
             gtag('config', 'G-S8CXV5VH58');
         </script>
+
+        <!-- Hotjar Tracking Code for https://jessxwu.github.io -->
+        <Hotjar />
 
         <BaseHead {...head} />
         <script>
