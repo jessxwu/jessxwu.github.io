@@ -2,7 +2,7 @@
 title: Lessons from a Bruised Pear
 excerpt: As a child, grocery shopping often felt like a chore. 
 publishDate: 'Aug 10 2024'
-isFeatured: true
+isFeatured: false
 tags:
   - personal
 seo:
@@ -17,9 +17,7 @@ It seemed like the deliberation over each item and the careful optimisation of o
 
 It was rarer now for us to shop together. These occasions feel much more special. During lockdown, we went to our neighborhood T&T Supermarket (the largest Chinese supermarket chain in Canada now owned by the grocery giant Loblaw) and it was nice, comforting even. This time, my mom was much faster, just grabbing a few things we needed. Years of my dad’s playful ribbing about her hour-long grocery expeditions had in fact made a difference.
 
-That day, while perusing the produce section, my mom dropped a pear on the ground. Instead of returning it to the pile, she put it in her basket. "Mom, put it back. We don't want that one." My initial reaction was one of perplexity, and I instnatly protested. "I bruised it," she explained matter-of-factly, "so I should buy it."
-I started to protest again, "You're so good, mom" - almost sarcastically, like it was a
-"There's no use in cutting corners in these small things."
+That day, while perusing the produce section, my mom dropped a pear on the ground. Instead of returning it to the pile, she put it in her basket. "Mom, put it back. We don't want that one." My initial reaction was one of perplexity, and I instnatly protested. "I bruised it," she explained matter-of-factly, "so I should buy it. There's no use in cutting corners in these small things."
 
 Her words lingered with me, revealing a profound truth: it's in these unobserved moments that the essence of a person's character truly manifests. The temptation to discreetly replace the pear, avoiding responsibility for the minor damage, would have been easy to justify. Many might have succumbed to such reasoning, especially when accustomed to getting away with small transgressions.
 
@@ -34,13 +32,10 @@ From a consequentialist perspective, one might argue that the impact of this sin
 ## II. The Virtue in Unseen Moments
 It's in the moments when no one is watching where the hallmark of a true 'good' person is tested. It's not just about the consequences of our actions, but about who we become through them. Each time we choose integrity in these small, private moments, we reinforce the neural pathways of ethical behavior.
 
-I recall the story of a Citigroup investment banker, reported to be earning more than £1m a year, who was fired for stealing sandwiches from the local canteen. His actions, while perhaps insignificant in monetary terms, speak to a larger ethical failing - a willingness to place personal convenience above societal norms and mutual trust. It's a slippery slope from these small transgressions to larger ones, that we’ve seen again and again play out in media and news stories. We all love to hate on the banker.
+I recall the story of a Citigroup investment banker, reported to be earning more than £1m a year, who was fired for stealing sandwiches from the local canteen. While stealing a club sandwich is perhaps insignificant in monetary terms, it speaks to a larger ethical failing - a willingness to place personal convenience above societal norms and mutual trust. It's a slippery slope from these small transgressions to larger ones, that we’ve seen again and again play out in media and news stories. We all love to hate on the banker.
 
 ## III. The Complexity of Moral Calculus
-My friend once revealed to me that his girlfriend (on multiple occasions) would shamelessly steal small items from big grocery stores. Only small things, and when she wouldn’t want to wait in line. This is not a terribly uncommon behaviour; there was even a “Steal from Loblaws Day” inviting Canadians to rob as a means of protest about food affordability (and Loblaw’s many run-ins with scandals themselves with price fixing schemes and market manipulation). But stealing surely isn’t the right move.  
-
-I also saw this one account of a Walgreens in Washington DC where. I see it at my local Gregg’s, where the convenience of the store layout means people can quickly snatch an item and leave the premises very easily.
-On one hand, the harm to the store is minimal, possibly even unnoticeable. On the other, it's a violation of the social contract we all implicitly agree to. But let's zoom out further: what about the environmental cost of that stolen item? The labour conditions of those who produced it? Suddenly, our moral calculus becomes dizzyingly complex.
+My friend once revealed to me that his girlfriend (on multiple occasions) would shamelessly steal small items from big grocery stores. Only small things, and when she wouldn’t want to wait in line. This is not a terribly uncommon behaviour; there was even a “Steal from Loblaws Day” inviting Canadians to rob as a means of protest about food affordability (and Loblaw’s many run-ins with scandals themselves with price fixing schemes and market manipulation). But stealing surely isn’t the right move. Again, the harm to the store is minimal, possibly even unnoticeable. On the other, it's a violation of the social contract we all implicitly agree to. But let's zoom out further: what about the environmental cost of that stolen item? The labour conditions of those who produced it? Suddenly, our moral calculus becomes dizzyingly complex.
 
 ## IV. Global Implications of Local Choices
 The bruised pear also serves as a metaphor for our globalized food system. We demand perfect, unblemished produce year-round, regardless of season or locality. This demand drives a system of transportation and storage that contributes significantly to environmental degradation. By accepting the bruised pear, my mom was, in a small way, pushing back against this unsustainable expectation.
