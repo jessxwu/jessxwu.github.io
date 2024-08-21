@@ -1,14 +1,14 @@
 ---
 import type { HTMLAttributes } from 'astro/types';
 
-type AnchorProps = HTMLAttributes<'a'> & { type?: never };
-type ButtonProps = HTMLAttributes<'button'> & { href?: never };
+interface Props extends HTMLAttributes<'button'> {
+    isCloudTag?: boolean;
+    href?: string;
+}
 
-type Props = ButtonProps | AnchorProps;
+const { class: className, isCloudTag = false, href, ...rest } = Astro.props;
 
-const { href, class: className, ...rest } = Astro.props;
-
-// Define an array of 10 different color combinations
+// Define color schemes
 const colorSchemes = [
     { bg: 'bg-red-100', text: 'text-red-800', border: 'border-red-300', hover: 'hover:bg-red-200' },
     { bg: 'bg-yellow-100', text: 'text-yellow-800', border: 'border-yellow-300', hover: 'hover:bg-yellow-200' },
@@ -32,7 +32,6 @@ const tagColorMap = {
     travel: colorSchemes[5],
     writing: colorSchemes[6],
     poetry: colorSchemes[7]
-    // Add more mappings if needed
 } as const;
 
 type TagKey = keyof typeof tagColorMap;
@@ -43,22 +42,31 @@ function selectColor(tag: string) {
     return lowercaseTag in tagColorMap ? tagColorMap[lowercaseTag] : colorSchemes[Object.keys(tagColorMap).length % colorSchemes.length];
 }
 
-// Get the tag text from the slot
-const tagText = Astro.slots.has('default') ? await Astro.slots.render('default') : '';
+const tagText = await Astro.slots.render('default');
+const colorScheme = selectColor(tagText || '');
 
-const colorScheme = selectColor(tagText);
-
-const buttonClasses = `inline-flex items-center justify-center px-2.5 py-1.5 text-sm leading-tight rounded-full transition ${colorScheme.bg} ${colorScheme.text} ${colorScheme.border} ${colorScheme.hover}`;
+const classes = `
+    inline-flex items-center justify-center px-2.5 py-1.5 text-sm leading-tight rounded-full transition
+    ${colorScheme.bg} ${colorScheme.text} ${colorScheme.border} ${colorScheme.hover}
+    ${isCloudTag ? 'opacity-50 hover:opacity-75' : ''}
+    ${className || ''}
+`;
 ---
 
 {
     href ? (
-        <a href={href} class:list={[buttonClasses, className]} {...rest}>
+        <a href={href} class={classes} {...rest}>
             <slot />
         </a>
     ) : (
-        <button class:list={[buttonClasses, className]} {...rest}>
+        <button class={classes} {...rest}>
             <slot />
         </button>
     )
 }
+
+<style>
+    .selected {
+        opacity: 1 !important;
+    }
+</style>

@@ -11,35 +11,32 @@ import { sortItemsByDateDesc } from '../../utils/data-utils';
 
 export async function getStaticPaths({ paginate }: GetStaticPathsOptions) {
     const posts = (await getCollection('blog')).sort(sortItemsByDateDesc);
-
-    // Define the preferred order of tags
-    const preferredTagOrder = ['personal', 'creative writing', 'movies', 'music', 'books', 'travel', 'writing', 'poetry'];
-
-    // Function to sort tags based on preferred order
-    function sortTags(tags: string[]): string[] {
-        return tags.sort((a, b) => {
-            const indexA = preferredTagOrder.indexOf(a);
-            const indexB = preferredTagOrder.indexOf(b);
-            if (indexA === -1 && indexB === -1) return a.localeCompare(b);
-            if (indexA === -1) return 1;
-            if (indexB === -1) return -1;
-            return indexA - indexB;
-        });
-    }
-
-    // Collect all unique tags and sort them
-    const allTags = sortTags([...new Set(posts.flatMap((post) => post.data.tags || []))]);
+    const allTags = [...new Set(posts.flatMap((post) => post.data.tags || []))];
 
     return paginate(posts, {
         pageSize: siteConfig.postsPerPage || 4,
-        props: { allTags } // Pass sorted allTags as a prop
+        props: { allTags }
     });
 }
 
-type Props = { page: Page<CollectionEntry<'blog'>>; allTags: string[] };
+type Props = {
+    page: Page<CollectionEntry<'blog'>>;
+    allTags: string[];
+};
 
 const { page, allTags } = Astro.props;
-const blog = page.data;
+const posts = page.data;
+
+function slugify(text: string): string {
+    return text
+        .toString()
+        .toLowerCase()
+        .replace(/\s+/g, '-')
+        .replace(/[^\w\-]+/g, '')
+        .replace(/\-\-+/g, '-')
+        .replace(/^-+/, '')
+        .replace(/-+$/, '');
+}
 ---
 
 <BaseLayout
@@ -52,7 +49,16 @@ const blog = page.data;
 
     <TagCloud tags={allTags} class="mb-12" />
 
-    {blog.map((post) => <PostPreview post={post} class="mb-10 sm:mb-12" />)}
+    <div id="posts-container">
+        {
+            posts.map((post) => (
+                <div class="post-preview" data-tags={post.data.tags?.map(slugify).join(',')}>
+                    <PostPreview post={post} class="mb-10 sm:mb-12" />
+                </div>
+            ))
+        }
+    </div>
+
     <Pagination page={page} class="my-16 sm:my-24" />
     <Subscribe class="my-16 sm:my-24" />
 </BaseLayout>

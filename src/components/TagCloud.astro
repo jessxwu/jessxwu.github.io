@@ -8,25 +8,102 @@ interface Props {
 
 const { tags, class: className } = Astro.props;
 
-// Simple slugify function
 function slugify(text: string): string {
     return text
         .toString()
         .toLowerCase()
-        .replace(/\s+/g, '-') // Replace spaces with -
-        .replace(/[^\w\-]+/g, '') // Remove all non-word chars
-        .replace(/\-\-+/g, '-') // Replace multiple - with single -
-        .replace(/^-+/, '') // Trim - from start of text
-        .replace(/-+$/, ''); // Trim - from end of text
+        .replace(/\s+/g, '-')
+        .replace(/[^\w\-]+/g, '')
+        .replace(/\-\-+/g, '-')
+        .replace(/^-+/, '')
+        .replace(/-+$/, '');
 }
 ---
 
-<div class={`flex flex-wrap gap-x-5 gap-y-1 ${className}`}>
+<div class={`flex flex-wrap gap-x-5 gap-y-1 ${className}`} id="tag-cloud">
     {
         tags.map((tag) => (
-            <a href={`/tags/${slugify(tag)}`} class="text-main hover:underline">
-                <TagButton>{tag}</TagButton>
-            </a>
+            <TagButton isCloudTag={true} data-tag={slugify(tag)}>
+                {tag}
+            </TagButton>
         ))
     }
 </div>
+
+<script>
+    function initializeTagCloud() {
+        const tagButtons = document.querySelectorAll('#tag-cloud button');
+        const allTags = Array.from(tagButtons)
+            .map((button) => button.getAttribute('data-tag'))
+            .filter((tag): tag is string => tag !== null);
+        let selectedTags = new Set<string>(JSON.parse(localStorage.getItem('selectedTags') || '[]') as string[]);
+
+        // If no tags are selected (first visit or cleared selection), select all tags
+        if (selectedTags.size === 0) {
+            selectedTags = new Set(allTags);
+            updateLocalStorage();
+        }
+
+        function updateLocalStorage() {
+            localStorage.setItem('selectedTags', JSON.stringify([...selectedTags]));
+        }
+
+        function updatePosts() {
+            const posts = document.querySelectorAll('.post-preview');
+            posts.forEach((post) => {
+                const postTagsAttribute = post.getAttribute('data-tags');
+                const postTags = postTagsAttribute ? postTagsAttribute.split(',') : [];
+                const shouldShow = selectedTags.size === 0 || postTags.some((tag) => selectedTags.has(tag));
+                (post as HTMLElement).style.display = shouldShow ? 'block' : 'none';
+            });
+        }
+
+        function updateButtonStyles() {
+            tagButtons.forEach((button) => {
+                const tag = button.getAttribute('data-tag');
+                if (tag) {
+                    if (selectedTags.has(tag)) {
+                        button.classList.add('selected');
+                        button.classList.remove('opacity-40');
+                    } else {
+                        button.classList.remove('selected');
+                        button.classList.add('opacity-40');
+                    }
+                }
+            });
+        }
+
+        tagButtons.forEach((button) => {
+            button.addEventListener('click', () => {
+                const clickedTag = button.getAttribute('data-tag');
+                if (clickedTag) {
+                    if (selectedTags.size === allTags.length) {
+                        // If all tags were selected, now select only the clicked tag
+                        selectedTags.clear();
+                        selectedTags.add(clickedTag);
+                    } else {
+                        // Toggle the clicked tag
+                        if (selectedTags.has(clickedTag)) {
+                            selectedTags.delete(clickedTag);
+                        } else {
+                            selectedTags.add(clickedTag);
+                        }
+                    }
+                    updateLocalStorage();
+                    updateButtonStyles();
+                    updatePosts();
+                }
+            });
+        });
+
+        // Initial update
+        updateButtonStyles();
+        updatePosts();
+    }
+
+    // Run on initial page load
+    initializeTagCloud();
+
+    // Re-run on Astro page changes
+    document.addEventListener('astro:page-load', initializeTagCloud);
+</script>

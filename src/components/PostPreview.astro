@@ -3,7 +3,6 @@ import { type CollectionEntry } from 'astro:content';
 import ArrowRight from '../icons/ArrowRight.astro';
 import FormattedDate from './FormattedDate.astro';
 import TagButton from './TagButton.astro';
-// Add in the button style
 
 type Props = { post: CollectionEntry<'blog'>; class?: string; headingLevel?: 'h2' | 'h3' };
 
@@ -11,28 +10,27 @@ const { post, class: className, headingLevel = 'h2' } = Astro.props;
 const { title, publishDate, updatedDate, excerpt, tags } = post.data;
 const TitleTag = headingLevel;
 
-//access the content of my posts
 const { Content, remarkPluginFrontmatter } = await post.render();
+
+function slugify(text: string): string {
+    return text
+        .toLowerCase()
+        .replace(/\s+/g, '-')
+        .replace(/[^\w-]+/g, '');
+}
 ---
 
 {
     tags && tags.length > 0 && (
         <div class="flex flex-wrap gap-4 overflow-x-auto whitespace-nowrap;" style="padding-bottom: 10px">
-            {tags.map((tag) => {
-                const tagUrl = tag
-                    .toLowerCase()
-                    .replace(/\s+/g, '-')
-                    .replace(/[^\w-]+/g, '');
-                return (
-                    <TagButton href={`/tags/${tagUrl}`} class="!py-0.6 !px-2.5 !text-xs">
-                        {tag}
-                    </TagButton>
-                );
-            })}
+            {tags.map((tag) => (
+                <TagButton href={`/tags/${slugify(tag)}`} class="!py-0.6 !px-2.5 !text-xs">
+                    {tag}
+                </TagButton>
+            ))}
         </div>
     )
 }
-
 <a class:list={['flex justify-between items-start gap-8 group', className]} href={`/blog/${post.slug}/`}>
     <div class="grow">
         <TitleTag

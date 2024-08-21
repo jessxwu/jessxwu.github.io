@@ -63,13 +63,16 @@ module.exports = {
                 DEFAULT: {
                     css: {
                         a: {
+                            color: '#357abd', // A nice blue color
                             fontWeight: 'normal',
-                            textDecoration: 'underline',
-                            textDecorationStyle: 'dashed',
+                            textDecoration: 'none', // No underline initially
+                            textDecorationStyle: 'solid',
                             textDecorationThickness: '1px',
                             textUnderlineOffset: '2px',
                             '&:hover': {
-                                textDecorationStyle: 'solid'
+                                color: '#2d5fa0', // Slightly darker blue on hover
+                                textDecoration: 'underline', // Underline appears on hover
+                                textDecorationStyle: 'solid', // Solid underline
                             }
                         },
                         'h1,h2,h3,h4,h5,h6': {

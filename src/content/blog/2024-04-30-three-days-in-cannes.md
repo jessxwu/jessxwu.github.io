@@ -1,6 +1,6 @@
 ---
 title: Three Days in Cannes
-excerpt: It was a gentle nudge, or maybe a prod. “You’re going to submit your entry to Cannes, right?”. I responded back earnestly, “yes, it’s been on my list for ages, I plan on writing it soon.” “Well, I hope it’s very soon… the deadline is midnight.” Welp, looks like I just found out what I’ll be doing for the next two hours — drowning in a tunnel vision writing frenzy. Good thing is that it paid off as I scored a pass to what may be my final Cannes adventure — because once I hit the ancient, wise age of 30, I’ll obviously be too old for such youthful escapades.
+excerpt: It was a gentle nudge, or maybe something of a deliberate prod. “You’re going to submit your entry to Cannes, right?”. I responded back earnestly, “yes, it’s been on my list for ages, I plan on writing it soon.” “Well, I hope it’s very soon… the deadline is midnight.” Welp, looks like I just found out what I’ll be doing for the next two hours — drowning in a tunnel vision writing frenzy. Good thing is that it paid off as I scored a pass to what may be my final Cannes adventure — because once I hit the ancient, wise age of 30, I’ll obviously be too old for such youthful escapades.
 publishDate: 'Apr 30 2024'
 isFeatured: true
 tags:
@@ -12,7 +12,7 @@ seo:
     alt: Wavy lines
 ---
 <figure>
-  <img src="/cannes-eric-message.png" width="500">
+  <img src="/cannes-eric-message.png" width="500" alt="Screenshot of a message asking, 'Did you end up applying for Cannes? Any news yet?'">
   <figcaption></figcaption>
 </figure>
 It was a gentle nudge, or maybe something of a deliberate prod.
@@ -20,7 +20,7 @@ It was a gentle nudge, or maybe something of a deliberate prod.
 I responded back earnestly, with valid excuses. Life was chaotic for the last months, and I had filed this deadline as 'far, far away' in the recesses of my brain when Eric first told me. "No, have been delaying, was travelling x and in y and now friend is visiting, so - ”
 
 <figure>
-  <img src="/cannes-eric-message-2.png" width="500">
+  <img src="/cannes-eric-message-2.png" width="500" alt ="Screenshot of a message: 'ok I think the deadline is soon! like maybe today lol'">
   <figcaption></figcaption>
 </figure>
 
@@ -34,15 +34,15 @@ Here's the letter, where I explore that very notion of age and maturity.
 
 As my life is about to come to an end (read: turning 29), my last dying wish is to receive an accreditation to the “Three Days in Cannes” program in my last eligible year as a young and spritely cinephile.
 
-Sensationalisms aside, I was very lucky to attend “Three Days in Cannes” in 2022.
+Sensationalisms aside, I was very lucky to attend the Cannes Film Festival in 2022.
 
 I watched eight films in those three whirlwind days, my eyes slightly glazed from the back-to-back screenings (rushing from theatre to theatre in my tiny heels - making a mental note to carry some barefoot flats for next time) while suffering acutely from jet lag, and noting the odd dichotomy of my body fighting to stay awake physically, but also my brain and heart so mentally stimulated, alert… *alive(!)* by the marvel and talent that graced the screens and filled up my very eager heart. 
 
 It was a dizzying but glamorous experience. I was bright-eyed, bushy-tailed, and filled with the wonder and delight of cinema. The madness and pure intensity of my Cannes experience mirrors my journey with movies itself, and a love affair that I’ve keenly developed and matured since I was a child.
 
 <figure>
-  <img src="/lukas-dhont-close.jpg">
-  <figcaption>A scene from Close by Lukas Dhont.</figcaption>
+  <img src="/lukas-dhont-close.jpg" alt="Scene of boys running through flower fields'">
+  <figcaption><i>A scene from Close by Lukas Dhont.</i></figcaption>
 </figure>
 
 My favourite that year was the Palme d’Or winner, Ruben Östlund’s Triangle of Sadness, followed closely by Koreeda’s Broker, and Lukas Dhont’s coming of age masterpiece, “Close”. I found “Close” captivating for its poignant and authentic portrayal of youth - set against a beautiful, dreamy backdrop of Belgian flower farms. I often finding myself looking backwards and inwards, in a romantically nostalgic way, idealising the tales from my childhood (and yes, I still feel a child at heart, and forever will be despite my former protests on turning thirty). Times were simpler back then, I thought; but “Close” reminds me that the romanticized notion of youth is not immune to challenges.
@@ -52,8 +52,8 @@ I luckily had a mostly uncomplicated youth, but we forget now the trials and tri
 My love affair with cinema traces back to the humblest of origins – a cramped apartment in an inner city neighborhood, where the flickering glow of the television screen became my window to a world of infinite possibilities (imagine the dramatism of Spielberg’s The Fabelmans, but more watching and less action). As a wide-eyed child navigating the complexities of a new country, I found solace, comfort, and inspiration in the stories unfolding before me.
 
 <figure>
-  <img src="/fabelmans-scene.jpg">
-  <figcaption>The childlike wonder of good movies.</figcaption>
+  <img src="/fabelmans-scene.jpg" alt="Scene from The Fabelmans'">
+  <figcaption><i>The childlike wonder of good movies.</i></figcaption>
 </figure>
 
 My relationship with movies has certainly changed and matured over time, as my worldview has evolved. I've seen my watchlist veer off to more serious and eclectic categories, favouring movies that challenge me intellectually and emotionally. However, through all the changes, one thing has remained a constant - I've still retained a huge love for sincere well-crafted storytelling.
