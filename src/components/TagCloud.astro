@@ -20,10 +20,10 @@ function slugify(text: string): string {
 }
 ---
 
-<div class={`flex flex-wrap gap-x-5 gap-y-1 ${className}`} id="tag-cloud">
+<div class={`flex flex-wrap gap-3 sm:gap-4 ${className}`} id="tag-cloud">
     {
         tags.map((tag) => (
-            <TagButton isCloudTag={true} data-tag={slugify(tag)}>
+            <TagButton isCloudTag={true} data-tag={slugify(tag)} class="mb-2 sm:mb-3">
                 {tag}
             </TagButton>
         ))

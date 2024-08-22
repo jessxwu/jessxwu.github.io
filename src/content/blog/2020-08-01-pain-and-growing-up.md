@@ -53,13 +53,12 @@ And they seemingly come appropriately timed with my newfound corporate health in
 
 This practice is challenging. I also feel like this is one of the greatest truths about becoming an adult. Sometimes I think I’m really good at it; other times, I feel like a wild animal with a complete lack of self-control.
 
-Casey Johnston: 
+[Casey Johnston](https://www.caseyjohnston.website/) from 'Ask a Swole Woman' column fame wrote:
 >As humans, we are not quite biologically primed to process the abstract motivations that govern modern life. “Eat that food in front of you,” “run away from that bear,” “fall asleep because you’re so tired your eyes won’t stay open” — these things we can handle.
 >
 >But eating healthy foods early in the day so as to not feel like shit later? Exercising to keep your blood pressure down? Going to bed because you have to wake up early every day this week, or because sleep deprivation leads to long-term cognitive decline?
 >
 >Here we start to lose the thread. Part of becoming an adult is, supposedly, that you stop living moment to moment and start living for these more bigger-picture forces like middle- and long-term health.
->  #### Casey Johnston
 
 This kind of control and conscious action is so hard to do - it’s connecting the future effects and consequences of doing things presently. That’s the core of discipline… very difficult, but so, so important to realize. It also has strong undercurrents of one part of stoic philosophy that I’m trying to practice (‘punishment can become pleasure’).
 

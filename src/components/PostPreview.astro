@@ -20,42 +20,45 @@ function slugify(text: string): string {
 }
 ---
 
-{
-    tags && tags.length > 0 && (
-        <div class="flex flex-wrap gap-4 overflow-x-auto whitespace-nowrap;" style="padding-bottom: 10px">
-            {tags.map((tag) => (
-                <TagButton href={`/tags/${slugify(tag)}`} class="!py-0.6 !px-2.5 !text-xs">
-                    {tag}
-                </TagButton>
-            ))}
+<div class:list={['flex flex-col', className]}>
+    <a class="flex justify-between items-start gap-8 group" href={`/blog/${post.slug}/`}>
+        <div class="grow">
+            <TitleTag
+                class="text-xl leading-tight font-serif font-medium group-hover:underline group-hover:decoration-dashed group-hover:underline-offset-4 group-hover:decoration-1 sm:text-2xl"
+            >
+                {title}
+            </TitleTag>
+            <div class="mt-1 text-sm leading-normal flex flex-wrap items-center gap-x-2 gap-y-1">
+                <FormattedDate date={publishDate} />
+                {
+                    updatedDate && (
+                        <>
+                            {' '}
+                            <span>
+                                (Updated on <FormattedDate date={updatedDate} />)
+                            </span>
+                        </>
+                    )
+                }
+                <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css" rel="stylesheet" />
+                <p>· <i class="fas fa-book-open" style="margin-right: 0.25em;"></i> {remarkPluginFrontmatter.minutesRead}</p>
+            </div>
         </div>
-    )
-}
-<a class:list={['flex justify-between items-start gap-8 group', className]} href={`/blog/${post.slug}/`}>
-    <div class="grow">
-        <TitleTag
-            class="text-xl leading-tight font-serif font-medium group-hover:underline group-hover:decoration-dashed group-hover:underline-offset-4 group-hover:decoration-1 sm:text-2xl"
-        >
-            {title}
-        </TitleTag>
-        <div class="mt-1 text-sm leading-normal flex flex-wrap items-center gap-x-2 gap-y-1">
-            <FormattedDate date={publishDate} />
-            {
-                updatedDate && (
-                    <>
-                        {' '}
-                        <span>
-                            (Updated on <FormattedDate date={updatedDate} />)
-                        </span>
-                    </>
-                )
-            }
-            <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css" rel="stylesheet" />
-            <p>· <i class="fas fa-book-open" style="margin-right: 0.25em;"></i> {remarkPluginFrontmatter.minutesRead}</p>
-        </div>
-    </div>
 
-    <div class="hidden font-serif italic opacity-0 transition group-hover:opacity-100 sm:inline-flex sm:gap-1 sm:items-center sm:shrink-0">
-        Read Post <ArrowRight class="fill-current w-4 h-4" />
-    </div>
-</a>
+        <div class="hidden font-serif italic opacity-0 transition group-hover:opacity-100 sm:inline-flex sm:gap-1 sm:items-center sm:shrink-0">
+            Read Post <ArrowRight class="fill-current w-4 h-4" />
+        </div>
+    </a>
+
+    {
+        tags && tags.length > 0 && (
+            <div class="flex flex-wrap gap-4 overflow-x-auto whitespace-nowrap mt-3">
+                {tags.map((tag) => (
+                    <TagButton href={`/tags/${slugify(tag)}`} class="!py-0.6 !px-2.5 !text-xs">
+                        {tag}
+                    </TagButton>
+                ))}
+            </div>
+        )
+    }
+</div>

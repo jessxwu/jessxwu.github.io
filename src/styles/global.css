@@ -11,8 +11,8 @@
     }
     html.dark {
         --color-text-main: 242 241 236; /* #F2F1EC */
-        --color-bg-main: 23 23 23; /* #171717 */
-        --color-bg-muted: 36 36 36; /* #242424 */
+        --color-bg-main: 30 41 59; /* #171717 - formerly was black: 23 23 23; ##1e293b */ 
+        --color-bg-muted: 44 55 73; /* #2c3749 (lighter navy blue), formerly 36 36 36; #242424 */
         --color-border-main: 242 241 236; /* #F2F1EC */
     }
 

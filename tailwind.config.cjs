@@ -4,11 +4,15 @@ module.exports = {
     content: ['./src/**/*.{astro,html,js,jsx,md,mdx,ts,tsx}'],
     darkMode: 'class',
     theme: {
-        fontFamily: {
+          fontFamily: {
             sans: ['Inter', ...defaultTheme.fontFamily.sans],
             serif: ['Newsreader', ...defaultTheme.fontFamily.serif]
         },
         extend: {
+           
+            width: {
+                'footnote': '33.33%', // Added custom width for third
+              },
             textColor: {
                 main: 'rgb(var(--color-text-main) / <alpha-value>)'
             },
@@ -38,57 +42,56 @@ module.exports = {
                         '--tw-prose-pre-bg': theme('colors.zinc.800'),
                         '--tw-prose-th-borders': theme('borderColor.main / 100%'),
                         '--tw-prose-td-borders': theme('borderColor.main / 100%'),  
+
+                        blockquote: {
+                            borderLeftWidth: '0.2rem',
+                            borderLeftColor: theme('borderColor.main'),
+                            paddingLeft: '1rem',
+                            fontFamily: theme('fontFamily.serif'),
+                            fontSize: 'normal',
+                            fontStyle: 'italic',
+                            fontWeight: 'normal',
+                            lineHeight: 1.4,
+                            '@media (min-width: theme("screens.sm"))': {
+                                lineHeight: 1
+                            }
+                        }
                     }
                 },
-                // I added these myself - not working
-                p: {
-                    marginTop: '0em',
-                    marginBottom: '0.1em',
-                  },
-                  'h1, h2, h3, h4, h5, h6': {
-                    marginBottom: '0.2em',
-                  },
-                  'ul, ol': {
-                    marginTop: '0.5em',
-                    marginBottom: '0.5em',
-                  },
-                  li: {
-                    marginTop: '0.2em',
-                    marginBottom: '0.2em',
-                  },
-                  blockquote: {
-                    marginTop: '1em',
-                    marginBottom: '1em',
-                  },
+                
                 DEFAULT: {
                     css: {
                         a: {
-                            color: '#357abd', // A nice blue color
-                            fontWeight: 'normal',
-                            textDecoration: 'none', // No underline initially
-                            textDecorationStyle: 'solid',
-                            textDecorationThickness: '1px',
-                            textUnderlineOffset: '2px',
+                            color: theme('colors.blue.600'),
+                            textDecoration: 'none',
+                            fontWeight: '500',
+                            transition: 'color 0.2s ease-in-out',
                             '&:hover': {
-                                color: '#2d5fa0', // Slightly darker blue on hover
-                                textDecoration: 'underline', // Underline appears on hover
-                                textDecorationStyle: 'solid', // Solid underline
-                            }
+                                color: theme('colors.blue.800'),
+                                textDecoration: 'underline',
+                            },
+                        },
+                        'html.dark a': {
+                            color: theme('colors.blue.400'),
+                            '&:hover': {
+                                color: theme('colors.blue.300'),
+                                textDecoration: 'underline',
+                            },
                         },
                         'h1,h2,h3,h4,h5,h6': {
                             fontFamily: theme('fontFamily.serif'),
                             fontWeight: 500,
                         },
                         blockquote: {
-                            border: 0,
+                            borderLeftWidth: '0.2rem',
+                            borderLeftColor: theme('borderColor.main'),
+                            paddingLeft: '1rem',
                             fontFamily: theme('fontFamily.serif'),
-                            fontSize: '1.2em',
+                            fontSize: 'normal',
                             fontStyle: 'italic',
                             fontWeight: 'normal',
                             lineHeight: 1.4,
-                            paddingLeft: 0,
                             '@media (min-width: theme("screens.sm"))': {
-                                fontSize: '1.3em',
                                 lineHeight: 1
                             }
                         }
@@ -97,7 +100,7 @@ module.exports = {
                 lg: {
                     css: {
                         blockquote: {
-                            paddingLeft: 0
+                            paddingLeft: '1rem' // Changed from 0 to maintain consistent spacing
                         }
                     }
                 }
