@@ -23,7 +23,7 @@ Separately, I've been spending a lot of time building out my digital Second Brai
 **🏋️ Spending a lot of time upside down**  
 My priority these days is learning new calisthenics skills and I've been working on my handstands a lot, under the guidance of some sweet coaches @ The Rogue Room! Have been changing up how I move. Over the last few years, I've found myself gradually falling into a rhythm of consistency versus intensity, after many periods of burnout. Still doing the regular things: yoga, cycling, running, jump rope, badminton, swimming. 
 
-**🍎 Food**  
+**🍎 An ice cream a day...**  
 I have developed an addition to sugar I haven't been able to curb. Ice cream season has not been helpful, so although I'm happy, my waistline hasn't been. Separately, I have been working on a side project mapping out major cuisines of the world by geography, excited to share that when at a better state of finish. Also have done a lot of mapping of my yummies and places to eat and try on Google Maps.
 
 **🎧 Being a brat**  

@@ -2,7 +2,7 @@
 title: Lessons from a Bruised Pear
 excerpt: As a child, grocery shopping often felt like a chore. 
 publishDate: 'Aug 10 2024'
-isFeatured: false
+isFeatured: true
 tags:
   - personal
 seo:
