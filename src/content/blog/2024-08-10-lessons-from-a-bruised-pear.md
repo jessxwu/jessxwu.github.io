@@ -11,42 +11,46 @@ seo:
     alt: Wavy lines
 
 ---
-As a child, accompanying my parents grocery shopping was often a tedious exercise, our trips stretching for what seemed like hours. My mother was indecisive, perusing the aisles for secret bargains and rare imported treats that reminded her of home. To stave off my boredom, I’d find ways to keep myself busy, losing myself in tasty daydreams – conjuring up elaborate wishlists of the nibbles that I wanted to try in the snack aisle (a habit I still practice).
+As a child, accompanying my parents to go grocery shopping was often a tedious exercise, our trips stretching for what seemed like hours. My mother was indecisive, perusing the aisles for secret bargains and rare imported treats that reminded her of home. To stave off my boredom, I’d find ways to keep myself busy, often losing myself in tasty daydreams – in the form of elaborate wishlists of nibbles that I wanted to try in the snack aisle (a habit I still practice).
 
-Another point of interest was the produce section. I intently studied my mom as she cradled melons like newborn babies, gently tapping fruits as if she were to coax out some hidden melody. I mimicked her actions, but with little comprehension. To me, this fruit-whispering seemed like peak adulthood – an elusive skill I'd someday unlock.[^1]
+Another point of interest was the produce section. I intently studied my mom as she cradled melons like newborn babies, gently tapping fruits as if she were to coax out some hidden melody. I mimicked her actions, but with little comprehension. To me, this fruit-whispering seemed like peak adulthood – an elusive skill I'd someday unlock.
 
-It is rarer now for us to shop together. As lockdown restrictions were easing, I recall one occasion when I accompanied her to our neighborhood T&T Supermarket (the largest Chinese supermarket chain in Canada now owned by the grocery giant Loblaw).  These occasions feel much more special, particularly when they were seemingly outlawed for the last several months. It was nice, comforting even. These days, my mom was much faster, just grabbing a few things that we needed. It seemed like years of my dad’s playful ribbing about her hour-long grocery expeditions might have made a difference.
+It is rarer now for us to shop together. As lockdown restrictions were easing, I recall one occasion when I accompanied her to our neighborhood T&T Supermarket (the largest Chinese supermarket chain in Canada now owned by the grocery giant Loblaw).  These occasions feel much more special, particularly when they were seemingly outlawed for the last several months. It was nice, comforting even.
 
-While browsing the produce section, my mom dropped a pear on the ground. Instead of returning it to the pile, she put it in her basket. "Mom, put it back. We don't want that one." My initial reaction was one of bewilderment, and I instantly protested. "I bruised it," she explained matter-of-factly, "so I should buy it.”
+While browsing the produce section, my mom dropped a pear on the ground. Instead of returning it to the pile, she put it in her basket.
+
+"Mom, put it back.”
+
+My initial reaction was one of bewilderment, and I instantly protested. “We don't want that one."
+
+"I bruised it," she explained matter-of-factly, "so I should buy it.”
 
 “But no one will know…”
+And I realised that was precisely why this was so impressive to me. It would be too easy to discreetly replace the pear. I mean, isn't that part of the fruit selection ritual?
 
-And I realised that was precisely why this was so impressive. It would be too easy to discreetly replace the pear. I mean, isn't this part of the fruit selection ritual? Or maybe _this_ wasn't.
+I wasn't entirely convinced myself. I quieted down as we strolled down the aisle.
 
-I quieted down as we strolled down the aisle.
+## The Weight of Unseen Actions
+From a consequentialist perspective, one might argue that the impact of this single bruised pear is negligible. It's a drop in the ocean of global food waste, barely registering against the backdrop of the inefficiencies of industrial agriculture. And the store will inevitably toss out some of the unsold produce as well. Yet, this view misses something crucial.
 
-## I. The Weight of Small Actions
-These seemingly inconsequential choices tell the world who we are. Why let these small choices break the parts of our character that we work so hard to maintain and hold so strongly?
+The weight of our actions isn't solely measured by their immediate consequences. It's not just about the consequences (or lack thereof) that motivate us, but about who we become through these actions. Consequences are an effective deterrent for ‘bad’ behaviour, and this is essentially what our modern justice system and our perception of moral order is based on. But in practice, consequences are not always fairly or consistently dealt. The only person who can truly hold you accountable is yourself. No one else. 
 
-From a consequentialist perspective, one may argue that the impact of this single bruised pear is negligible. It's a drop in the ocean of global food waste, barely registering against the backdrop of the inefficiencies of industrial agriculture. Yet, this view misses something crucial: the ripple effect of our actions, however small.
+It's in the moments when no one is watching where the hallmark of a 'good' person is tested. It's about resisting the allure of small deceits that, while seemingly harmless, gradually erode our moral fibre. Each time we choose integrity in these small, private moments, we reinforce the neural pathways of ethical behaviour.
 
-When my mother chose to keep the bruised pear, she enacted a microcosm of ethical decision-making. In that moment, the produce section became a stage for moral deliberation, invisible to most but consequential in its own right. The pear, now slightly damaged, represents the countless small choices we make daily. 
+I recall the story of a Citigroup trader in London, reportedly earning more than £1m a year, fired for stealing sandwiches from his local office canteen (and as schadenfreude will have it, a week before his annual bonus!). Stealing a club sandwich is insignificant in monetary terms, but it speaks to a larger ethical failing - a willingness to place personal convenience above societal norms and mutual trust. And as this story suggests, in believing that your post and status puts you above others. It's a slippery slope from these small transgressions to larger ones, that we’ve seen again and again play out in media and news stories. We all love to hate on the greedy banker.
 
-## II. The Virtue in Unseen Moments
-It's in the moments when no one is watching where the hallmark of a true 'good' person is tested. It's not just about the consequences of our actions, but about who we become through them. Each time we choose integrity in these small, private moments, we reinforce the neural pathways of ethical behaviour.
-
-I recall the story of a Citigroup investment banker, reported to be earning more than £1m a year, who was fired for stealing sandwiches from the local canteen. While stealing a club sandwich is perhaps insignificant in monetary terms, it speaks to a larger ethical failing - a willingness to place personal convenience above societal norms and mutual trust. It's a slippery slope from these small transgressions to larger ones, that we’ve seen again and again play out in media and news stories. We all love to hate on the banker.
-
-## III. The Complexity of Moral Calculus
-My friend once revealed to me that his girlfriend (on multiple occasions) would shamelessly steal small items from big grocery stores. Only small things, and when she wouldn’t want to wait in line. This is not a terribly uncommon behaviour; there was even a “Steal from Loblaws Day” inviting Canadians to rob as a means of protest about food affordability (and Loblaw’s many run-ins with scandals themselves with price fixing schemes and market manipulation). But stealing surely isn’t the right move. Again, the harm to the store is minimal, possibly even unnoticeable. On the other, it's a violation of the social contract we all implicitly agree to. But let's zoom out further: what about the environmental cost of that stolen item? The labour conditions of those who produced it? Suddenly, our moral calculus becomes dizzyingly complex.
-
-## IV. Global Implications of Local Choices
-The bruised pear also serves as a metaphor for our globalized food system. We demand perfect, unblemished produce year-round, regardless of season or locality. This demand drives a system of transportation and storage that contributes significantly to environmental degradation. By accepting the bruised pear, my mom was, in a small way, pushing back against this unsustainable expectation.
-
-## V. The Power of Small Changes
+And why not eat a bruised pear? It appears that we demand perfect, unblemished produce year-round, regardless of season or locality. By accepting the bruised pear, my mom was, in a small way, pushing back against this unsustainable expectation. Let's zoom out further: perhaps the pear is a metaphor for our globalized food system. What about the environmental cost of that stolen item? The labour conditions of those who produced it? Suddenly, our moral calculus becomes dizzyingly complex. 
+## The Power of Small Changes
 While it's easy to feel overwhelmed by the scale of global issues - food waste, environmental destruction, economic inequality - the bruised pear reminds us that change starts small. By making conscious choices in our daily lives, we begin to shift larger systems. It's not about perfection, but about consistent, intentional action.
-In the end, perhaps the most profound lesson from the bruised pear is this: our character is built not in grand gestures, but in the accumulation of small choices. Each decision to act with integrity, to consider the wider implications of our actions, is a step towards becoming the person we aspire to be. And in a world of complex, interconnected systems, these small choices ripple outward in ways we may never fully comprehend.
+In the end, perhaps the most profound lesson from the bruised pear is this: our character is built not in grand gestures, but in the accumulation of small choices. The weight of these actions lies not just in their immediate consequences, but in their role in shaping who we are and who we become.
+
+So, what does this mean for us in our daily lives? When we choose to handle the pear gently, to return the borrowed pen, to tell the truth even when a lie would be more convenient, we're not just affecting those specific situations. We're reinforcing our own ethical standards, strengthening our character, and contributing to a society built on trust and mutual respect.
+
+And in a world of complex, interconnected systems, these small choices ripple outward in ways we may never fully comprehend.
 
 <hr class="w-footnote" style="margin-bottom: 0.5em;"/>  
 
-[^1]: I later asked if she knew what she was looking for, and she admitted that she wasn’t so sure, as she would just as often get it wrong. I still tap melons and gourds, listening to a deep hollow sound, which indicates that they are at the peak of ripeness, but it's a tricky slope to 'overripe'. I am also not convinced that I necessarily get it right.
+These days, my mom is much faster at the store, just grabbing a few things that we needed. It seemed like years of my dad’s playful ribbing about her hour-long grocery expeditions might have made a difference.
+
+I later asked if she knew what she was looking for while tapping the fruit, and she admitted that she wasn’t so sure, as she would just as often get it wrong. I still tap melons and gourds, listening to a deep hollow sound, which indicates that they are at the peak of ripeness, but it's a tricky slope to 'overripe'. I am also not convinced that I necessarily get it right.
+

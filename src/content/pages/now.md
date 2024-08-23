@@ -26,7 +26,7 @@ My priority these days is learning new calisthenics skills and I've been working
 **🍎 Food**  
 I have developed an addition to sugar I haven't been able to curb. Ice cream season has not been helpful, so although I'm happy, my waistline hasn't been. Separately, I have been working on a side project mapping out major cuisines of the world by geography, excited to share that when at a better state of finish. Also have done a lot of mapping of my yummies and places to eat and try on Google Maps.
 
-**🎵 Being a brat**  
+**🎧 Being a brat**  
 I have bought into the charli xcx hype.
 
 **📺 Watching things**  

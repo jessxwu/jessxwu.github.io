@@ -89,11 +89,11 @@ const siteConfig: SiteConfig = {
         text:
             //custom css
             "<div style='line-height: 1.4; margin-bottom: 1.3em;'>" +
-            "I'm <strong>Jessica Wu</strong>. I'm a marketer with a love of words." +
+            "I'm <strong>Jessica Wu</strong>. I'm a marketer with a love for storytelling. " +
             "</div>" +
 
             "<div style='line-height: 1.4; margin-bottom: 1.3em;'>" +
-            "I'm obsessed with the art of storytelling, and believe that a great idea, well expressed, can be the spark that changes the world." +
+            "I believe that a great idea, well expressed, can be the spark that changes the world." +
             "</div>" +
 
             "<div style='line-height: 1.4; margin-bottom: 1.3em;'>" +

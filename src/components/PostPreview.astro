@@ -24,7 +24,7 @@ function slugify(text: string): string {
     <a class="flex justify-between items-start gap-8 group" href={`/blog/${post.slug}/`}>
         <div class="grow">
             <TitleTag
-                class="text-xl leading-tight font-serif font-medium group-hover:underline group-hover:decoration-dashed group-hover:underline-offset-4 group-hover:decoration-1 sm:text-2xl"
+                class="text-xl leading-tight font-serif font-medium group-hover:underline group-hover:underline-offset-4 group-hover:decoration-1 sm:text-2xl"
             >
                 {title}
             </TitleTag>
@@ -46,7 +46,8 @@ function slugify(text: string): string {
         </div>
 
         <div class="hidden font-serif italic opacity-0 transition group-hover:opacity-100 sm:inline-flex sm:gap-1 sm:items-center sm:shrink-0">
-            Read Post <ArrowRight class="fill-current w-4 h-4" />
+            <span>Read Post</span>
+            <ArrowRight class="fill-current w-4 h-4 transition-transform duration-500 ease-in-out group-hover:translate-x-1" />
         </div>
     </a>
 
