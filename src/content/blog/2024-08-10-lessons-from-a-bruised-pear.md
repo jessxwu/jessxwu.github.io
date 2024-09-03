@@ -11,7 +11,8 @@ seo:
     alt: A bruised pear
 
 ---
-As a child, accompanying my parents to go grocery shopping was often a tedious exercise, our trips stretching for what seemed like hours. My mother was indecisive, perusing the aisles for secret bargains and rare imported treats that reminded her of home. To stave off my boredom, I’d find ways to keep myself busy, often losing myself in tasty daydreams – in the form of elaborate wishlists of nibbles that I wanted to try in the snack aisle (a habit I still practice).
+As a child, accompanying my parents to go grocery shopping was often a tedious exercise.
+Our trips stretched for what seemed like hours. My mother was indecisive, perusing the aisles for secret bargains and rare imported treats that reminded her of home. I’d find ways to keep myself busy, often losing myself in tasty daydreams – in the form of elaborate wishlists of nibbles that I wanted to try in the snack aisle (a habit I still practice).
 
 Another point of interest was the produce section. Adults were always strumming their fingers on the soft flesh of a ripe plum, or crading melons like newborn babies. I intently studied my mom while she tapped fruits as if to coax out some hidden melody. I mimicked her actions, but with little comprehension. To me, this fruit-whispering seemed like peak adulthood – an elusive skill I'd someday unlock.
 
@@ -52,7 +53,7 @@ So, what does this mean for us in our daily lives? When we choose to handle the 
 
 And in a world of complex, interconnected systems, these small choices ripple outward in ways we may never fully comprehend.
 
-<hr class="w-footnote" style="margin-bottom: 0.5em;"/>  
+<hr class="w-33" style="margin-bottom: 0.5em;"/>  
 
 These days, my mom is much faster at the store, just grabbing a few things that we need. It seemed like years of my dad’s playful ribbing about her hour-long grocery expeditions might have made a difference.
 

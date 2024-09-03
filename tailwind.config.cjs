@@ -11,7 +11,17 @@ module.exports = {
         extend: {
            
             width: {
-                'footnote': '33.33%', // Added custom width for third
+                '23': '23%',
+                '30': '30%', // Added custom width for third
+                '31': '31%',
+                '32': '32%',
+                '40': '40%',
+                '46': '46%',
+                '50': '50%',
+                '51': '51%',
+                '55': '55%',
+                '60': '60%',
+                '70': '70%',
               },
             textColor: {
                 main: 'rgb(var(--color-text-main) / <alpha-value>)'

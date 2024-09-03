@@ -7,47 +7,193 @@ seo:
     src: 
     alt: 
 ---
-I've been thinking about work values a lot these days: how I like to work, my quirks, qualities, hot takes, what I look for in a culture and team.
-I have been quite selective about applications, focusing on quality and fit (and what seems exciting to me) over quantity.
+I've been thinking about work a lot these days, and moreso my place within it.
 
-I want to be very intentional about the fit this time and more considerate about the long horizon. My Achilles' heel is my ambition though, so maybe I can consider spamming out my resume _(... an experiment, perhaps?)_
+This led me to experiment with crafting an ideal role from the ground-up. Instead of trying to fit into a predefined JD, invert the traditional job search process.
 
-I've laid out a few notes on some topics that speak to my work ethos and my most important values. Will be adding to this list as I build this out.
+***Work backwards***.
+
+Plug in: core values, skills, strengths, and work & culture preferences etc.  
+Use this to shape an ideal role scope, responsibilities, and even the type of company that could be the best fit.
+
+<style>
+  .alignment-container {
+    display: flex;
+    justify-content: space-around;
+    font-family: monospace;
+    margin: 20px 0;
+    background-color: #1e1e1e;
+    padding: 20px;
+    border-radius: 5px;
+  }
+  .column {
+    width: 45%;
+    border: 1px solid #444;
+    padding: 10px;
+    border-radius: 5px;
+  }
+  .title {
+    font-weight: bold;
+    text-align: center;
+    margin-bottom: 10px;
+    background-color: #333;
+    padding: 5px;
+    color: #fff;
+  }
+  .content {
+    white-space: pre-wrap;
+    color: #d4d4d4;
+  }
+  .arrow {
+    display: flex;
+    align-items: center;
+    font-size: 24px;
+    color: #d4d4d4;
+  }
+  .keyword { color: #569cd6; }
+  .string { color: #ce9178; }
+  .property { color: #9cdcfe; }
+  .bracket { color: #d4d4d4; }
+</style>
+
+<div class="alignment-container">
+  <div class="column">
+    <div class="title">INPUTS</div>
+    <div class="content">
+<span class="keyword">core_values</span> = <span class="bracket">[</span>
+  <span class="string">"duty"</span>,
+  <span class="string">"grit"</span>,
+  <span class="string">"agency"</span>,
+  <span class="string">"purpose"</span>
+<span class="bracket">]</span>
+<span class="keyword">skills</span> = <span class="bracket">[</span>
+  <span class="string">"data_analysis"</span>,
+  <span class="string">"marketing"</span>,
+  <span class="string">"communication"</span>
+<span class="bracket">]</span>
+<span class="keyword">strengths</span> = <span class="bracket">[</span>
+  <span class="string">"problem_solving"</span>,
+  <span class="string">"adaptability"</span>,
+  <span class="string">"leadership"</span>
+<span class="bracket">]</span>
+<span class="keyword">preferences</span> = <span class="bracket">{</span>
+  <span class="property">work_style</span>: <span class="string">"collaborative"</span>,
+  <span class="property">culture</span>: <span class="string">"innovative"</span>
+<span class="bracket">}</span>
+    </div>
+  </div>
+  <div class="arrow">→</div>
+  <div class="column">
+    <div class="title">OUTPUTS</div>
+    <div class="content">
+<span class="keyword">ideal_role</span> = <span class="bracket">{</span>
+  <span class="property">scope</span>: <span class="string">"..."</span>,
+  <span class="property">responsibilities</span>: <span class="bracket">[</span>
+  <span class="property">management</span>: <span class="bracket">[</span>
+    <span class="string">"..."</span>,
+    <span class="string">"..."</span>,
+    <span class="string">"..."</span>
+  <span class="bracket">]</span>,
+  <span class="property">company_type</span>: <span class="string">"..."</span>,
+  <span class="property">culture_fit</span>: <span class="string">"..."</span>
+  <span class="property">company_size</span>: <span class="string">"..."</span>
+  <span class="property">industry</span>: <span class="string">"..."</span>
+  <span class="property">org_structure</span>: <span class="string">"..."</span>
+<span class="bracket">}</span>
+    </div>
+  </div>
+</div>
+
+And then I asked myself which of these criteria are most important to me. Or, at least, is there a framework I can use to help me evaluate these competing factors?
+
+This has prompted me to reflect on questions such as:
+- What do I actually like to do? What am I good at?
+- How do my personal quirks influence my work style and how I work in different team environments?
+- What strengths do I bring to a team, and how can they be best utilised?
+- What are my core values, and how do they manifest in my work? 
+- What aspects of company culture resonate most deeply with me? Which are non-negotiable?
+- What do I still need to learn and improve on? How does a role or a company fit in my long-term goals?
+
+I know there are myriad 'career tests' and quizzes out there that do this well (many that are scientifically rigourous, and others that 'harness the power of AI!') but I feel like these tools fall short when you consider nebulous, nuanced things like **_your whole career_** - a quiz or result doesn't sit right for me.  
+
+This is deeply personal and purposeful, so I think it requires a lot more introspection.
+
+My preference in these cases (which, admittedly, is probably one of said personal quirks) is to do a little dive into the available research, explore the various methodologies and literature (in this case, partially influenced by the science, but also shaped by what I believe or know about myself), and ultimately design my own framework - which suits my personal use case.
+
+I've laid out a few notes that speak to my work ethos and summarised my most important values.
+Then intention of this is not clinical or intending to find a narrow solution (and I don't believe this exists for me, personally). I am not matching this against an exhaustive database of roles or industries so there is no shiny packaged output. Instead, I'm hoping that this exercise will help with navigation, pointing to a direction of travel.
+
+I will be adding to this list as I build this out, and perhaps in future refining this in a more structured way versus a collection of thoughts.
+ 
+<hr class="w-32" style="margin-bottom: 0.5em;"/>  
 
 ## On Caring and Duty
+
 If I had to encapsulate my approach to work in one phrase: I care deeply (and a lot).
-I care about the work that I do, the people I work with, and ultimately in doing my job well (and better than before). It’s important for me to work in a place where the people around me operate with the same commitment of mutual caring and alignment to producing high-calibre work. The day people stop caring, that’s when things start to slip.
-I often recall the Stoic teaching, “do your job, do it right”. Seeing work as a duty can seem oppressive, but it can also be very powerful – creating a virtuous cycle of applying consistency and quality in your work, leading to better outcomes every day. This, to me, is the foundation of building and maintaining trust with others, empathy, open communication, and so many other positive externalities.
+I care about the work that I do, the people I work with, and ultimately in doing my job well (and better than before). It's important for me to work in a place where the people around me operate with the same commitment of mutual caring and alignment to producing high-calibre work. 
+
+The day people stop caring, that's when things start to slip - and I've seen this wreak havoc on culture. I know that it's a difficult ask (and definitely easier said than done) to be 'on' all of the time. We all go through ebbs and flows in performance and morale, intentionally or not (and often this is a function of the environment and work situation at present, which is similarly up and down).<sup>1</sup> However, I still have an obligation to provide the most value and do the best job I can _in my particular circumstance_. This is the case regardless of if I disagree with the strategy that was selected, if I'm frustrated or not, or if I am working with someone extremely difficult.<sup>2</sup>
+
+I often recall the Stoic teaching, "do your job, do it right". Seeing work as a duty can seem oppressive, but it can also be very powerful – if you put in the work in applying consistency and quality, regardless of the circumstance, it's a virtuous cycle leading to better outcomes. Having this value is, to me, the foundation of building and maintaining trust with others. You want to be able to rely on your team, and know that they'll do a good job, in any situation. And the effects are compounding - open communication, empathy, and so many other positive externalities that make a huge difference in team culture and morale. We've all heard the 'one bad apple' adage - and it holds a lot of merit.
+
+<sup>1</sup> *Note: I do want to add that there are sometimes more extreme circumstances and larger issues at play, be it work-related or personal, that can make this extremely difficult.*
+
+<sup>2</sup> *Note: We can't always pick the cards that we're dealt. "Focus on what you can control" is another Stoic concept, probably its most famous. This is often misinterpreted as being passively accepting of all situations - but it's really about discerning when it's worthwhile to make a change, and when to accept your circumstances (and subsequently, doing the best you can do thereafter). The classic 'choose your battles wisely'.*
+
+
+<hr class="w-46" style="margin-bottom: 0.5em;"/>  
 
 ## On Agency and Intentionality
-I fell in love with the concept of agency when I first read about it. It’s always been a driving philosophy for how I steer my own actions, and a valuable concept to apply in both work and life. Adaptability is great. But even better is adaptability + intention. It's about how you design your destiny and carve the path ahead. Maybe agency is another word for free will, not to get philosophical or anything...
+I fell in love with the concept of agency when I first read about it. It’s always been a driving philosophy for how I steer my own actions, and a valuable concept to apply in both work and life. Adaptability is great. But even better is adaptability + intention. It's about how you design your destiny and carve the path ahead. It's essentially making things happen and believing that you can do it.
+
+I'm thinking about agency a lot in the way people approach and map out their career. I was fortunate to be in a position with my last couple of roles to have opportunities present themselves to me. It may not have been _the_ path that I imagined, but I also wasn't exactly sure what the right path was, I just wanted something new and different, and wanted to learn different things. That's why I jumped at the chance to join a start-up (more impact, more doing), and I now have an idea (or two) about what constitutes a 'great fit' role for me.
+
+So far, despite thinking that I am very much aligned to agency, I haven't been absolutely intentional about creating those opportunities. I've done a bit,here and there, but I haven't been totally goal-focused in this pursuit. Admittedly, I genuinely wanted to take it slow at first, but I now think I am just making excuses. Seeking out new responsibilities, initiating new projects, or actively building the skills and networks. So I'm starting now.
+
+<hr class="w-31" style="margin-bottom: 0.5em;"/> 
 
 ## On Leading a Team
 As I have high expectations for myself, I also have high expectations for my team. I take pride in having strong relationships with my direct team that are built on mutual trust, open communication, agency, and empowerment.
 
 Ultimately, my approach to leadership is quite simple: I want to see those on my team succeed. It’s a positive adage that you can apply to any team setting. If my team is crushing it, and I am also making my manager’s life easier, then that’s the best barometer to me that I’m doing a good job.
 
-## Emotional Intelligence & Empathy
-A follow-up on leadership (feel like most leadership styles are buzzwords anyway). However, I believe the most essential, non-negotiable leadership skill is possessing high emotional intelligence and empathy. I like to consider myself highly empathetic and approachable, and I make it my business to let people know when they’re doing a great job and to praise openly. In upholding the same theme of empathy and trust, people on my team should feel comfortable to and even encouraged to try and fail and have the psychological safety to do so.
+<hr class="w-55" style="margin-bottom: 0.5em;"/>  
 
-## On Autonomy
-We win as a team, and I don't want to underscore the importance of teamwork, but I require autonomy to do deep work (and my best work). Similarly I am very intent on championing that same autonomy for my team to allow them space to grow and succeed independently in their own craft.
-You better put in those 10,000 hours if you want to be a master of your own work. Nobody gets great without practice and a lot of that time spent is, yes, alone.
+## Emotional Intelligence & Empathy
+A follow-up on leadership... I read through tons of leadership styles and there was a lot of merit in a lot of them (I feel like most leadership styles are buzzwords anyway) - the most salient for me was 'adaptable leadership', which is in some essences a cop out - in that your leadership style changes based on the context. However, if pressed for one thing, I believe the most essential, non-negotiable leadership skill is possessing high emotional intelligence and empathy. I like to consider myself highly empathetic and approachable, and I hope many will echo the same. I make it my business to let people know when they’re doing a great job and to praise openly. In upholding the same theme of empathy and trust, people on my team should feel comfortable to and even encouraged to try and fail and have the psychological safety to do so.
+
+<hr class="w-51" style="margin-bottom: 0.5em;"/>
 
 ## On Being a Renaissance Woman
-I like to understand the ‘why’ behind how things work, to know things deeply, and do them to a high standard. As a lifelong learner, I like to think of myself as a jack (or jill) of all trades. I often use the term sparingly as it’s associated with being a master of none – I might prefer ‘renaissance woman’.
+I like to understand the ‘why’ behind how things work, to know things deeply, and do them to a high standard. I'm constantly learning and acquiring bits of skills (useful or not), somewhat like an odd magpie collecting tidbits of knowledge. Maybe a more eloquent analogy would be a jack (or jill) of all trades. I often use the term sparingly as it’s associated with being a master of none – I might prefer ‘renaissance woman’.
 
 But through my varied experiences; and having done a bit of nearly ‘everything’ in marketing and then some, I’ve picked up a diverse range of skills, that I feel help me offer both breadth and depth in the right places. 
 
-One such positive externality of this is that I’ve developed a high degree of confidence and agility when facing new and unfamiliar challenges. I trust in my ability to just ‘figure things out’, even when the path isn’t clear.
+One such positive externality of this is that I’ve developed a high degree of confidence and agility when facing new and unfamiliar challenges. I trust in my ability to just ‘figure things out’, even when I have no clue what I'm doing.
 
-## On Passion... Overrated?
-I don't need to work in an industry I'm passionate about – and the bulk of my more traditional hobbies are not easily monetisable in ways that are obvious to me. 80,000 Hours writes extensively on this and their literature is very good.  
+My natural inclination to these types of roles and learning lends better to more strategic roles, in which - yes, I've done a little (but not a lot) in many things - including SEO, performance marketing, design, copywriting, strategy, sales, process building, contract negotiation, blablablabla. However, there are some specialist skills that I want to hone a bit of a deeper understanding in, and help fill in some gaps I have in my marketing expertise. I would do a specialist role for a couple years, to sharpen up some of my skills as a ladder to a larger more strategic role.
 
-However, passion can frequently be a stand-in for subject matter expertise. Not a lot of people are passionate about unsexy industries like insurance, or mundane things like laundry detergent. This is indeed valuable, particularly in some domains that do require specialised forms of knowledge. This is ever more salient in certain frontier industries or certain lines of work where innovative new tech and keeping up with new trends can be highly transformative or the basis of your job.
+<hr class="w-23" style="margin-bottom: 0.5em;"/>
 
-With knowledge comes power and confidence, and I have always been a strong proponent of learning more. This is especially true early in your career, when you are more inexperienced. Being well-informed can help bridge those gaps in understanding. This is where passion may be a bit underrated.
+## On Autonomy
+We win as a team. I don't want to underscore the importance of teamwork, but I require autonomy to do deep work (and my best work). Similarly I am very intent on championing that same autonomy for my team to allow them space to grow and succeed independently in their own craft.
+You better put in those 10,000 hours if you want to be a master of your own work. Nobody gets great without practice and a lot of that time spent is time spent alone.
 
-As you get more senior and the role scope is potentially more strategic and nebulous; you realise that having passion doesn’t naturally translate into performance; and it takes some experience to properly wield your passion into useful outcomes. 
+<hr class="w-55" style="margin-bottom: 0.5em;"/>
 
-I spent years in sports marketing and excelled, despite not being a big sports fan (and that's definitely not something you can fake). What drove me was a commitment to learning and applying myself and doing the job well. I've found that commitment to excellence – caring, duty, and hard work – matters more than passion. However, when passion is present – and only if you are truly very passionate, it provides that extra edge.
+## On Pursuing Passion... Overrated?
+I don't need to work in an industry I'm passionate about. The bulk of my more traditional hobbies are not easily monetisable in ways that are obvious to me. 80,000 Hours writes extensively on this and their literature is very good.  
+
+Not a lot of people are passionate about unsexy industries like insurance, or mundane things like laundry detergent. So, if this is the unique case, then it is certainly quite rare and valuable, and especially so in some domains that do require specialised forms of knowledge. This is ever more salient in certain frontier industries or certain lines of work where innovative new tech and keeping up with new trends can be highly transformative (or the basis of your job).
+
+With knowledge comes power and confidence, and I have always been a strong proponent of knowing (and learning more). This is especially true early in your career, when you are more inexperienced and don't understand the craft as much as the content. Being well-informed or familiar with things like jargon and having some background context can help bridge those gaps in understanding. This is where passion is really important and may be a bit underrated.
+
+As you get more senior and the role scope is potentially more strategic and ambiguous; you realise that having passion doesn’t naturally translate into performance. Let's not conflate passion for experience and expertise. It takes experience to properly wield your passion into useful outcomes.
+
+It's true that people usually will do better and spend more time on things they like doing, and are happier as a byproduct. But you can also love making an impact, the sense of achievement of smashing a target, the feedback from a raving customer, the reward and recognition from your boss, the team you work with, and so many other workplace satsfaction drivers that contribute to overall job fulfillment (and research shows, a heck of a lot more).
+
+Also, to get a bit more personal - how deep is your passion? If we had to empirically rank order 'intensity of passion', we may find it's And then many people are passionate about their actual job itself (which I'll separate from a passion for industry) - i.e. they love programming, marketing, data analysis, or even analysing financial statements. I feel like this is rarer, but there are some quants that might do this stuff for fun!
+
+And through that - you build passion (although maybe in a different sense of the word). Passion for doing a great job, in being successful in your vocation.
+
+This is a more extreme example but I spent years in sports and casino marketing, despite not being a big sports fan and also having an aversion to gambling (and that's definitely not an interest area that you can fake). What drove me was a commitment to learning and applying myself and doing the job well. I've found that commitment to excellence – caring, duty, and hard work – often matters more than passion. However, when passion is present – and only if you are truly very passionate, it provides that extra edge.

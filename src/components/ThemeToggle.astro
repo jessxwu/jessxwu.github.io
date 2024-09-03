@@ -42,66 +42,69 @@
 </style>
 
 <script>
-    function setThemeToggleIcon(theme: string) {
-        const sunPath = document.querySelector('.sun') as SVGPathElement;
-        const moonPath = document.querySelector('.moon') as SVGPathElement;
-        if (theme === 'dark') {
-            sunPath.style.display = 'block';
-            moonPath.style.display = 'none';
-        } else {
-            sunPath.style.display = 'none';
-            moonPath.style.display = 'block';
+    function setThemeToggleIcon(theme: 'dark' | 'light'): void {
+        const sunPath = document.querySelector('.sun');
+        const moonPath = document.querySelector('.moon');
+        if (sunPath instanceof SVGPathElement && moonPath instanceof SVGPathElement) {
+            if (theme === 'dark') {
+                sunPath.style.display = 'block';
+                moonPath.style.display = 'none';
+            } else {
+                sunPath.style.display = 'none';
+                moonPath.style.display = 'block';
+            }
         }
     }
 
-    function setImageSource(theme: string) {
-        const signatureImage = document.getElementById('signature-image') as HTMLImageElement;
-        if (signatureImage) {
+    function setImageSource(theme: 'dark' | 'light'): void {
+        const signatureImage = document.getElementById('signature-image');
+        if (signatureImage instanceof HTMLImageElement) {
             signatureImage.src = theme === 'dark' ? '/signature-white.png' : '/signature-black.png';
         }
     }
 
-    function initializeTheme() {
-        const getInitialTheme = () => {
+    function initializeTheme(): void {
+        const getInitialTheme = (): 'dark' | 'light' => {
             if (typeof localStorage !== 'undefined' && localStorage.getItem('theme')) {
-                return localStorage.getItem('theme') || 'light';
+                return (localStorage.getItem('theme') as 'dark' | 'light') || 'light';
             }
-            if (window.matchMedia('(prefers-color-scheme: dark)').matches) {
-                return 'dark';
-            }
-            return 'light';
+            return window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light';
         };
 
         const theme = getInitialTheme();
-
-        if (theme === 'light') {
-            document.documentElement.classList.remove('dark');
-        } else {
-            document.documentElement.classList.add('dark');
-        }
-
-        window.localStorage.setItem('theme', theme);
+        document.documentElement.classList.toggle('dark', theme === 'dark');
+        localStorage.setItem('theme', theme);
         setImageSource(theme);
         setThemeToggleIcon(theme);
 
-        const handleToggleClick = () => {
-            const element = document.documentElement;
-            element.classList.toggle('dark');
-
-            const isDark = element.classList.contains('dark');
-            const newTheme = isDark ? 'dark' : 'light';
+        const handleToggleClick = (): void => {
+            const isDark = document.documentElement.classList.toggle('dark');
+            const newTheme: 'dark' | 'light' = isDark ? 'dark' : 'light';
             localStorage.setItem('theme', newTheme);
             setImageSource(newTheme);
             setThemeToggleIcon(newTheme);
         };
 
-        document.getElementById('theme-toggle')?.addEventListener('click', handleToggleClick);
+        const themeToggle = document.getElementById('theme-toggle');
+        if (themeToggle) {
+            themeToggle.addEventListener('click', handleToggleClick);
+        }
     }
 
-    document.addEventListener('astro:page-load', initializeTheme);
+    function preloadImages(): void {
+        const lightImage = new Image();
+        lightImage.src = '/signature-black.png';
+        const darkImage = new Image();
+        darkImage.src = '/signature-white.png';
+    }
+
+    document.addEventListener('astro:page-load', () => {
+        initializeTheme();
+        preloadImages();
+    });
 
     document.addEventListener('astro:after-swap', () => {
-        const theme = localStorage.theme === 'dark' ? 'dark' : 'light';
+        const theme: 'dark' | 'light' = localStorage.theme === 'dark' ? 'dark' : 'light';
         document.documentElement.classList.toggle('dark', theme === 'dark');
         setImageSource(theme);
         setThemeToggleIcon(theme);
