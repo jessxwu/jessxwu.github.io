@@ -101,9 +101,8 @@ const siteConfig: SiteConfig = {
             "</div>" +
 
             "<div style='line-height: 1.4; margin-bottom: 1.3em;'>" +
-            "I am also actively looking for a new full-time opportunity and would appreciate any leads that you think I can be a good fit for." +
+            "I am also actively looking for a new full-time opportunity and would appreciate any leads that you think I can be a good fit for. Read my <a href='/work-ethos'>work ethos here</a>." +
             "</div>" +
-            // Read my <a href='/work-ethos'>work ethos here</a>.
 
             "<div style='line-height: 1.4; 'margin-bottom: 1.3em;'>" +
             "If you want to get in touch, email me at jessicaxywu [at] gmail dot com." +
