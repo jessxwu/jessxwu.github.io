@@ -12,7 +12,9 @@ seo:
 
 ---
 As a child, accompanying my parents to go grocery shopping was often a tedious exercise.
-Our trips stretched for what seemed like hours. My mother was indecisive, perusing the aisles for secret bargains and rare imported treats that reminded her of home. I’d find ways to keep myself busy, often losing myself in tasty daydreams – in the form of elaborate wishlists of nibbles that I wanted to try in the snack aisle (a habit I still practice).
+Our trips stretched for what seemed like hours. My mother was indecisive, painstakingly perusing the aisles for secret bargains and rare imported treats that reminded her of home. 
+
+I’d find ways to keep myself busy. I exhausted all the possible utilities and pleasures of the shopping cart, experimenting with every imaginable seating arrangement. Often, I would lose myself in tasty daydreams, making elaborate wishlists of snacks and nibbles that I wanted to try (a habit I still practice).
 
 Another point of interest was the produce section. Adults were always strumming their fingers on the soft flesh of a ripe plum, or crading melons like newborn babies. I intently studied my mom while she tapped fruits as if to coax out some hidden melody. I mimicked her actions, but with little comprehension. To me, this fruit-whispering seemed like peak adulthood – an elusive skill I'd someday unlock.
 

@@ -134,6 +134,8 @@ The day people stop caring, that's when things start to slip, and I've seen this
 
 It's a difficult ask (and definitely easier said than done) to be 'on' all of the time. We all go through ebbs and flows in performance and morale, intentionally or not (and often this is a function of the environment and work situation at present, which is similarly up and down).<sup>1</sup> However, I still have an obligation to provide the most value and do the best job I can _in my particular circumstance_. This is the case regardless of if I disagree with the strategy that was selected, if I'm frustrated or not, or if I am working with someone extremely difficult.<sup>2</sup>
 
+### Do your job, do it right
+
 I often recall the Stoic teaching, ["do your job, do it right"](https://modernstoicism.com/do-your-job-do-it-right-by-ryan-holiday/). Seeing work as a duty can seem oppressive, but it can also be very powerful – if you put in the work in applying consistency and quality, regardless of the circumstance, it's a virtuous cycle leading to better outcomes.
 
 Having this value is, to me, the foundation of building and maintaining trust with others, and at the centre of high-performing team culture. You want to be able to rely on your team, and know that they'll do a good job, in any and all situations. And the effects are compounding - open communication, empathy, and so many other positive externalities that make a huge difference in team culture and morale. We've all heard the 'one bad apple' adage. I think it holds a lot of merit.
@@ -153,7 +155,11 @@ But through my varied experiences; and having done a bit of nearly ‘everything
 
 One such positive externality of this is that I’ve developed a high degree of confidence and agility when facing new and unfamiliar challenges. I trust in my ability to just ‘figure things out’, even when I have no clue what I'm doing.
 
+### Looking for 'generalist' roles with a scope I can help define
+
 This aligns well with more strategic generalist roles where I'm able to poke my head into a wide range of responsibilities and domains. I look for job specs which state that the responsibilities aren't rigidly defined, or even better - offer me the flexibility to help define the scope. This is also quite revealing on the company's approach to fresh ideas and whether they generally value creative problem-solving over rigidity and process. I do like roles that offer versatility and adaptability. The reality is that in all the roles that I have enjoyed most, they have required me to be nimble and resourceful whilst ‘wearing many hats’. These are all elements that make up my personal identity and work style. 
+
+### Specialist roles, for the long game
 
 An option I am considering, is also to take on a slightly more specialist role to sharpen up some more hands-on skills that are often overlooked in broader strategic roles. It's hard to keep up with everything in marketing (especially at the pace martech is evolving). The market typically rewards management roles with broader scope, wherein you start to lose some of those scrappier skills (and I don't feel like you truly get it until you're deep in the tools day-to-day).
 
@@ -186,6 +192,8 @@ Few people are passionate about unsexy industries like insurance, or mundane thi
 
 With knowledge comes power and confidence. This is especially true early in your career, when you are inexperienced and don't comprehend the craft as much as the content. Being well-informed or familiar with terms of art and having some background context can help bridge those gaps in understanding. This is where passion is really important and may be a bit underrated.
 
+### Passion is less important later in your career
+
 As you progress in your career and the scope of your role becomes more strategic and less structured, you realise that simply having passion doesn’t naturally translate into performance. Let's not conflate passion for experience and expertise. It takes experience to properly wield your passion into useful outcomes.
 
 It's true that people usually will do better and spend more time on things they like doing, and are happier as a byproduct. But you can also love making an impact and honing your skill - the sense of achievement of smashing a target, the feedback from a raving customer, the reward and recognition from your boss, collaborating with other great people, and so many other workplace satisfaction drivers that contribute to overall job fulfillment (and [as research shows, a heck of a lot more](https://80000hours.org/career-guide/job-satisfaction/)).
@@ -204,6 +212,8 @@ It starts with the belief that you have freedom of choice and control over your 
 At its core, isn't work (and life) a continuous stream of problem-solving? We're constantly trying to accomplish goals, sometimes failing, but always pressing forward. This cycle demands agency – the belief that you can influence outcomes and make things happen. If you don't have the belief that you have this power, how would you even start to tackle this problem?
 
 Consider a scenario: a critical project deadline suddenly moves up, or a key team member falls ill just before an important presentation. Agency empowers you to take swift action – reorganizing priorities, rallying the team, or stepping up to fill the gaps yourself - you know it can be done. You not only solve immediate problems but also build resilience and adaptability. These qualities pay dividends, giving you the confidence that you can do it again and also making you better equipped to tackle the next obstacle. I guess this is what a 'human' growth loop is.
+
+### Agency in building your career path
 
 I'm also thinking about agency a lot in the way I have approached and mapped out my career. I was fortunate to be in a position with my last couple of roles to have opportunities present themselves to me. It may not have been _the_ path that I imagined, but I also wasn't exactly sure what the right path was. I just wanted to learn and do different things, and I say yes a lot. That's why I jumped at the chance to join a start-up in my last role (more impact, more doing, more learning, speed), and from leading a B2C team to a B2B team. I learned a lot. It was hard. I adapted quickly. Adaptability is great, and it will serve me well. But even better is adaptability + intention. It's just smarter.
 
