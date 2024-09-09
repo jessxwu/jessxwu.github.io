@@ -1,6 +1,6 @@
 ---
 title: Three Days in Cannes
-excerpt: It was a gentle nudge, or maybe something of a deliberate prod. “You’re going to submit your entry to Cannes, right?”. I responded back earnestly, “yes, it’s been on my list for ages, I plan on writing it soon.” “Well, I hope it’s very soon… the deadline is midnight.” Welp, looks like I just found out what I’ll be doing for the next two hours — drowning in a tunnel vision writing frenzy.
+excerpt: It was a gentle nudge, or maybe something of a deliberate prod.
 publishDate: 'Apr 30 2024'
 isFeatured: true
 tags:
@@ -11,6 +11,7 @@ seo:
     src: '/post-14.jpg'
     alt: Wavy lines
 ---
+
 <figure>
   <img src="/cannes-eric-message.png" width="500" alt="Screenshot of a message asking, 'Did you end up applying for Cannes? Any news yet?'">
   <figcaption></figcaption>

@@ -9,11 +9,11 @@ seo:
     src: '/post-1_devil-all-the-time.jpg'
     alt:  Car driving through Oak Mountain State Park in Pelham, Alabama
 ---
-<b>Prompt</b><br>
-<em> Take your usual way to work or school and imagine two people who don't know each other on that bus/walk/train/carpark/etc who start talking. What do they talk about? Is this the beginning of a longer connection between them or is this the only time they will ever talk? (10 mins + 10 editing)</em>
-<br>
+<div style="background-color: #27272a; padding: 20px; border-radius: 5px;">
+  <span style="color: #f2f2f2; font-size: 16px; font-family: 'Monaco', 'Consolas', 'Lucida Console', monospace;">PROMPT: Take your usual way to work or school and imagine two people who don't know each other on that bus/walk/train/carpark/etc who start talking. What do they talk about? Is this the beginning of a longer connection between them or is this the only time they will ever talk? (10 mins + 10 editing)</span>
+</div>
+
 <hr align = "left" width="50%">
-<br>
 
 <em>We all start off as strangers...</em> <br>
 

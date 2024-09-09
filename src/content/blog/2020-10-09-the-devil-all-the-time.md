@@ -1,6 +1,6 @@
 ---
 title: The Devil All The Time
-excerpt: In the theme of spooky season, and having just watched the pretty harrowing Netflix movie of the same title, I was compelled to write about this gorgeous and visually haunting scene from the movie that I grasped onto (the old sedan driving through the woods). There are no spoilers, the inspiration of this image is pretty much it. I deviate from there, only inspired by symbolic misdoings from the titular film.
+excerpt: In the theme of spooky season, and having just watched the pretty harrowing Netflix movie of the same title, I was compelled to write about this gorgeous and visually haunting scene.
 publishDate: 'Oct 10 2020'
 isFeatured: true
 tags:
@@ -19,7 +19,7 @@ seo:
 
 In the theme of spooky season, and having just watched the pretty harrowing Netflix movie of the same title, I was compelled to write about one scene that continues to live in my mind. The cinematography is gorgeous and visually haunting (the old sedan driving through the woods). There are no spoilers, the inspiration of this image is pretty much it. I deviate from there, only inspired by symbolic misdoings from the titular film.
 
-<hr>
+<hr align = "left" width="50%">
 
 A pale blue sedan meandering through a weaving path, travelling through the woods.
 

@@ -9,6 +9,7 @@ seo:
     src: '/post-1_devil-all-the-time.jpg'
     alt:  Car driving through Oak Mountain State Park in Pelham, Alabama
 ---
+If I made music, this would be it. Part of the same series of album reviews I wrote back in 2015.
 
 ![Sweet Trip - You Will Never Know Why](/sweet-trip-ywnkw.png)
 

@@ -10,12 +10,14 @@ seo:
     src: '/post-2.jpg'
     alt: Half open laptop on a desk
 ---
-
-![Half open laptop on a desk](/post-2.jpg)
+ A little bit self-indulgent here and I deviated from the original point. Also this comes off a little sensitive, although I'm not really (am I?). Let's call it passionate.
+ <hr align = "left" width="50%">
 
 I recently shared one of my writing pieces with my best friend and (in addition to fantastic and thorough feedback, which I gushed about) her response was: I’m glad to always get to read your work, but I wish I could contribute by giving back to you too, instead of just consuming your ‘gift’ (her words, not mine). She then told me, “No gift should come for free."
 
 But some gifts do come for free. I truly believe this. I don’t believe in many things being zero-sum or requiring some invisible facilitation of reciprocity. This is one of those very ‘gifts’. It’s a pure and unbridled tithing, without exception or expectation. I don't know why I latched onto the word, 'gift', so much. Perhaps because I never saw it as a gift. And you know what - it isn't, it's not an offering of any sort. It just is.
+
+![Half open laptop on a desk](/post-2.jpg)
 
 I write because I want to share and because I’m excited about it. It’s something that’s personal and meaningful to me. I don’t write because I seek something in return for my own selfish needs. I don’t write to elicit judgement or seek feedback. I welcome new ideas and it helps me grow and see my ideas flourish in new ways, new perspectives. I like that a lot, and that comes highly valued in the creative process and my personal journey.
 

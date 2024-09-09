@@ -10,11 +10,15 @@ seo:
     src: '/post-1_devil-all-the-time.jpg'
     alt:  Car driving through Oak Mountain State Park in Pelham, Alabama
 ---
-<b>Prompt</b><br>
-<em>What does writing mean to you, why or how does it matter to you? Write down your thoughts in any shape or form you like. (10 mins)</em>
-<br>
-<hr>
-<br>
+<div style="background-color: #27272a; padding: 20px; border-radius: 5px;">
+  <span style="color: #f2f2f2; font-size: 16px; font-family: 'Monaco', 'Consolas', 'Lucida Console', monospace;">PROMPT: What does writing mean to you?  Why or how does it matter to you? Write down your thoughts in any shape or form you like. (10 mins)</span>
+</div>
+
+Unfinished, unedited, and would love to expand on and edit this when I have the time. The crux of this argument was driven more by emotion than something more rational, although there are a lot of other reasons I enjoy writing as well. I furiously hammered these words down on the page in those ten minutes, think I got into flow. 
+
+Fitting for the topic. 
+<hr align = "left" width="50%">
+
 I know this in the core of my soul, my body. When I write, I feel like I’m connected to the earth - and sometimes, on a creative high, my body begins to shake. I feel an uncontrollable urge to move, to create. I believe that everyone’s purpose is to create, to leave their imprint on this world.
 
 The truest fact in this universe is that all living things take in energy and they expel waste. This is recycled. The energy that I am nourished with turns into words. I need to create art. It’s a compulsion. Sometimes my fingers type with such intensity, hammering down on the paper like it’s an unforgivable mistake if I stop. I mirror the work of a pianist, and I write sad poetry to beautiful sombre songs. Keystrokes are what I use to keep up with the quick pace of a pianist’s narrow fingers.

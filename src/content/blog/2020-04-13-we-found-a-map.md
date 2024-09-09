@@ -9,11 +9,13 @@ seo:
     src: '/post-1_devil-all-the-time.jpg'
     alt:  Car driving through Oak Mountain State Park in Pelham, Alabama
 ---
-<b>Prompt</b><br>
-<em>Describe an item - the map on my bedroom wall (12 mins + 5).</em>
-<br>
+<div style="background-color: #27272a; padding: 20px; border-radius: 5px;">
+  <span style="color: #f2f2f2; font-size: 16px; font-family: 'Monaco', 'Consolas', 'Lucida Console', monospace;">PROMPT: Describe an item - the map on my bedroom wall (12 mins + 5 mins editing)</span>
+</div>
+
+I've been reading "The Color Purple" by Alice Walker. It's a marvel she can switch between character voices and dialogues so convincingly. I find that my characters always sound like myself. So I took a stab at writing like what I imagine a disgruntled out-of-touch American boomer would sound like. Maybe best read in a Bostonian accent. Based on a map that's hanging on my bedroom wall. Still sounds like me. This was a bit uncomfortable.
 <hr align = "left" width="50%">
-<br>
+
 I got this little thing in New York. Ah, New York. Something about those dirty streets just pulls you in and sucks you dry. A magnetic force of gum wrappers and leftover crusts from dollar slices. Delicious. Pretty much like Newark, but Newark’s a war zone. It’s like Newark if Newark was shrouded with a thin sheet of glitz and shine. Them New Yorkers like the glitter, I know. But they’re angry all the time, permascowls on their faces as their footsteps thud loudly on the pavement with a quickening pace. Except for the ones that hassle you with a tired smile at 7th and 42nd. Take a trip on the big red bus.
 
 America is a really curious country, ain’t it? Especially these days. Land of the free, home of the brave. See how well that’s going?

@@ -9,6 +9,9 @@ seo:
     src: '/post-1_devil-all-the-time.jpg'
     alt:  Car driving through Oak Mountain State Park in Pelham, Alabama
 ---
+Just a quick lil thing I wrote inspired by the song "Do Your Best" by John Maus. John Maus is a curious man. It's a little bit dark.
+ <hr align = "left" width="50%">
+
 Someone’s alone in the city tonight.
 Reach out your hands to the one alone tonight.
 

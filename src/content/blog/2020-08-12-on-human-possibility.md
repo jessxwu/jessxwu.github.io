@@ -9,11 +9,11 @@ seo:
     src: '/post-1_devil-all-the-time.jpg'
     alt:  Car driving through Oak Mountain State Park in Pelham, Alabama
 ---
-<b>Prompt</b><br>
-<em>Inspiration from <a href="http://puritan-magazine.com/human-possibility-belcourt-2019/?fbclid=IwAR19u4Z2_KWwB7T5o-FktTj2AKTk7slJGX7IrQfdfno8PZW4w3Z4JWNvLi4#">What is a Human Possibility?</a> (25 mins + editing)</em>
-<br>
+<div style="background-color: #27272a; padding: 20px; border-radius: 5px;">
+  <span style="color: #f2f2f2; font-size: 16px; font-family: 'Monaco', 'Consolas', 'Lucida Console', monospace;">PROMPT: Take inspiration from Billy-Ray Belcourt's poem <a href="http://puritan-magazine.com/human-possibility-belcourt-2019/?fbclid=IwAR19u4Z2_KWwB7T5o-FktTj2AKTk7slJGX7IrQfdfno8PZW4w3Z4JWNvLi4#">What is a Human Possibility?</a> (25 mins + editing)</span>
+</div>
+
 <hr align = "left" width="50%">
-<br>
 
 I’ve always been enamoured with the art of the story. We are not so different, you and me. He and she. We are not so interesting. if Gen Z is the generation of pride, materialism, and vanity; then Millennials are forever known as the generation of individualism and self-centeredness.
 
