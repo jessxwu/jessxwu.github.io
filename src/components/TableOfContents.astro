@@ -9,22 +9,37 @@ interface Props {
 const { headings } = Astro.props;
 
 const visibleHeadingsLimit = 5;
+
+function getIndentationClass(depth: number): string {
+    switch (depth) {
+        case 2:
+            return 'ml-6'; // Main heading (##)
+        case 3:
+            return 'ml-12'; // Subheading (###)
+        case 4:
+            return 'ml-20'; // Further subheading (####)
+        case 5:
+            return 'ml-24'; // More nested (#####)
+        default:
+            return 'ml-0'; // Default if not specified
+    }
+}
 ---
 
 <nav aria-label="Table of Contents" class="toc-nav px-10 py-6 rounded-lg shadow-xl my-4 bg-gray-200 dark:bg-gray-800">
-    <div class="toc-title font-semibold text-2xl text-gray-900 dark:text-gray-100 mb-2" style="padding-top: 1rem;">Table of Contents</div>
+    <div class="toc-title font-semibold text-2xl text-gray-900 dark:text-gray-100 mb-2" style="padding-top: 1rem;">Navigation</div>
     <ul id="tocList" class="toc-list space-y-2 text-lg">
         {
             headings.map((heading, index) => (
                 <li
-                    class={`toc-item ${heading.depth > 1 ? 'ml-4' : 'ml-0'} flex items-center`}
+                    class={`${getIndentationClass(heading.depth)} toc-item flex items-center`}
                     data-index={index}
                     style={index >= visibleHeadingsLimit ? 'display: none;' : ''}
                 >
                     {heading.depth > 1 && <span class="mr-2 text-gray-500">{'›'}</span>}
                     <a
                         href={`#${slugify(heading.text)}`}
-                        class="toc-link text-gray-700 dark:text-gray-300 hover:bg-gray-300 dark:hover:bg-gray-700 transition-colors duration-300 ease-in-out block w-full p-1 rounded"
+                        class="toc-link text-gray-700 dark:text-gray-300 hover:bg-gray-300 dark:hover:bg-gray-700 transition-colors duration-300 ease-in-out block w-full p-2 rounded-lg"
                     >
                         {heading.text}
                     </a>

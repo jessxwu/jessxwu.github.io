@@ -138,7 +138,7 @@ The day people stop caring, that's when things start to slip, and I've seen this
 
 It's a difficult ask (and definitely easier said than done) to be 'on' all of the time. We all go through ebbs and flows in performance and morale, intentionally or not (and often this is a function of the environment and work situation at present, which is similarly up and down).<sup>1</sup> However, I still have an obligation to provide the most value and do the best job I can _in my particular circumstance_. This is the case regardless of if I disagree with the strategy that was selected, if I'm frustrated or not, or if I am working with someone extremely difficult.<sup>2</sup>
 
-<h3> Do your job, do it right </h3>
+### Do your job, do it right ###
 
 I often recall the Stoic teaching, ["do your job, do it right"](https://modernstoicism.com/do-your-job-do-it-right-by-ryan-holiday/). Seeing work as a duty can seem oppressive, but it can also be very powerful – if you put in the work in applying consistency and quality, regardless of the circumstance, it's a virtuous cycle leading to better outcomes.
 
@@ -159,11 +159,11 @@ But through my varied experiences; and having done a bit of nearly ‘everything
 
 One such positive externality of this is that I’ve developed a high degree of confidence and agility when facing new and unfamiliar challenges. I trust in my ability to just ‘figure things out’, even when I have little clue what I'm doing.
 
-<h3> Looking for 'generalist' roles with a scope I can help define </h3>
+### Looking for 'generalist' roles with a scope I can help define ###
 
 This aligns well with more strategic generalist roles where I'm able to poke my head into a wide range of responsibilities and domains. I look for job specs which state that the responsibilities aren't rigidly defined, broadly defined, or even better - offer me the flexibility to help define the scope. This is also quite revealing on the company's approach to fresh ideas and whether they generally value creative problem-solving over rigidity and process. The reality is that in all the roles that I have enjoyed most, they have required me to be nimble and resourceful whilst ‘wearing many hats’, and have required adaptability. These are all elements that have come to make up my personal identity and work style. 
 
-<h3> Specialist roles, for the long game </h3>
+### Specialist roles, for the long game ###
 
 Another option I am considering is to take on a slightly more specialist role to sharpen up some more hands-on skills that are often overlooked in broader strategic roles. It's hard to keep up with everything in marketing (especially at the pace martech is evolving). The market typically rewards management roles with broader scope, wherein you start to lose some of those scrappier skills (and I don't feel like you truly get it until you're deep in the tools day-to-day).
 
@@ -193,7 +193,7 @@ You better put in those 10,000 hours if you want to be a master of your own work
 
 <hr class="w-55" style="margin-bottom: 0.5em;"/>
 
-<h3> On Pursuing Passion... Overrated? </h3>
+### On Pursuing Passion... Overrated? ###
 I don't need to work in an industry I'm passionate about. The bulk of my more traditional hobbies are not easily monetisable (at least in ways that are obvious to me). [80,000 Hours writes extensively on this](https://80000hours.org/2014/09/update-dont-follow-your-passion/) and their literature is very good.  
 
 Few people are passionate about unsexy industries like insurance, or mundane things like laundry detergent (apologies to anyone who works in insurance, or is a laundry detergent). So, to the extent you do have a passion for something mundane, then that is potentially quite rare and valuable, particularly in domains that require specialised forms of knowledge. This is even more salient in certain frontier industries / disciplines where innovative new tech and keeping up with new trends can be highly transformative (or the basis of your job).
@@ -221,7 +221,7 @@ At its core, isn't work (and life) a continuous stream of problem-solving? We're
 
 Consider a scenario: a critical project deadline suddenly moves up, or a key team member falls ill just before an important presentation. Agency empowers you to take swift action – reorganizing priorities, rallying the team, or stepping up to fill the gaps yourself - you know it can be done. You not only solve immediate problems but also build resilience and adaptability. These qualities pay dividends, giving you the confidence that you can do it again and also making you better equipped to tackle the next obstacle. I guess this is what a 'human' growth loop is.
 
-<h3> Agency in building your career path </h3>
+### Agency in building your career path ###
 
 I'm also thinking about agency a lot in the way I have approached and mapped out my career. I was fortunate to be in a position with my last couple of roles to have opportunities present themselves to me. It may not have been _the_ path that I imagined, but I also wasn't exactly sure what the right path was. I just wanted to learn and do different things, and I say yes a lot. That's why I jumped at the chance to join a start-up in my last role (more impact, more doing, more learning, speed), and from leading a B2C team to a B2B team. I learned a lot. It was hard. I adapted quickly. Adaptability is great, and it will serve me well. But even better is adaptability + intention. It's just smarter.
 
