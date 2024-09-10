@@ -1,0 +1,135 @@
+---
+import type { MarkdownHeading } from 'astro';
+import { slugify } from '../utils/common-utils';
+
+interface Props {
+    headings: MarkdownHeading[];
+}
+
+const { headings } = Astro.props;
+
+const visibleHeadingsLimit = 5;
+---
+
+<nav aria-label="Table of Contents" class="toc-nav px-10 py-6 rounded-lg shadow-xl my-4 bg-gray-200 dark:bg-gray-800">
+    <div class="toc-title font-semibold text-2xl text-gray-900 dark:text-gray-100 mb-2" style="padding-top: 1rem;">Table of Contents</div>
+    <ul id="tocList" class="toc-list space-y-2 text-lg">
+        {
+            headings.map((heading, index) => (
+                <li
+                    class={`toc-item ${heading.depth > 1 ? 'ml-4' : 'ml-0'} flex items-center`}
+                    data-index={index}
+                    style={index >= visibleHeadingsLimit ? 'display: none;' : ''}
+                >
+                    {heading.depth > 1 && <span class="mr-2 text-gray-500">{'›'}</span>}
+                    <a
+                        href={`#${slugify(heading.text)}`}
+                        class="toc-link text-gray-700 dark:text-gray-300 hover:bg-gray-300 dark:hover:bg-gray-700 transition-colors duration-300 ease-in-out block w-full p-1 rounded"
+                    >
+                        {heading.text}
+                    </a>
+                </li>
+            ))
+        }
+    </ul>
+    {
+        headings.length > visibleHeadingsLimit && (
+            <div class="flex justify-center">
+                <button
+                    id="toggleButton"
+                    class="toc-toggle mt-4 text-gray-700 dark:text-gray-300 hover:bg-gray-300 dark:hover:bg-gray-700 hover:px-4 hover:py-2 hover:rounded-full transition-all duration-300"
+                >
+                    Show more <span class="ml-1 rotate-down">›</span>
+                </button>
+            </div>
+        )
+    }
+</nav>
+
+<script>
+    function initializeTOC() {
+        const toggleButton = document.getElementById('toggleButton');
+        const tocList = document.getElementById('tocList');
+        let isExpanded = false;
+
+        // Check if tocList exists before proceeding
+        if (!tocList) {
+            console.error('tocList is null. Exiting function.');
+            return;
+        }
+
+        if (toggleButton) {
+            toggleButton.addEventListener('click', () => {
+                isExpanded = !isExpanded;
+                toggleButton.innerHTML = isExpanded
+                    ? 'Show less <span style="margin-left: 0.25rem; transform: rotate(-90deg); display: inline-block;">›</span>'
+                    : 'Show more <span style="margin-left: 0.25rem; transform: rotate(90deg); display: inline-block;">›</span>';
+
+                const items = tocList.querySelectorAll('li');
+                items.forEach((item, index) => {
+                    if (index >= 5) {
+                        item.style.display = isExpanded ? 'flex' : 'none';
+                    }
+                });
+            });
+        }
+
+        // Initially hide items after the limit
+        const items = tocList.querySelectorAll('li');
+        items.forEach((item, index) => {
+            if (index >= 5) {
+                item.style.display = 'none';
+            }
+        });
+
+        // Enable smooth scrolling for TOC links
+        const links = tocList.querySelectorAll<HTMLAnchorElement>('a[href^="#"]');
+        links.forEach((link) => {
+            link.addEventListener('click', function (this: HTMLAnchorElement, event: MouseEvent) {
+                event.preventDefault();
+                const targetId = this.getAttribute('href')!.substring(1); // '!' asserts that 'href' is not null
+                const targetElement = document.getElementById(targetId);
+
+                if (targetElement) {
+                    window.scrollTo({
+                        top: targetElement.offsetTop - 50,
+                        behavior: 'smooth'
+                    });
+                }
+            });
+        });
+    }
+
+    document.addEventListener('astro:page-load', initializeTOC);
+</script>
+
+<style>
+    .toc-nav {
+        font-size: 1rem;
+        line-height: 1.5;
+    }
+    .toc-title {
+        margin-bottom: 0.5rem;
+    }
+    .toc-list {
+        list-style-type: none;
+        padding-left: 0;
+    }
+    .toc-item {
+        margin-bottom: 0.25rem;
+    }
+    .toc-link {
+        text-decoration: none;
+    }
+    .toc-link:hover {
+        text-decoration: none;
+    }
+    .rotate-down {
+        transform: rotate(90deg);
+        display: inline-block;
+    }
+    .rotate-up {
+        transform: rotate(-90deg);
+        display: inline-block;
+    }
+</style>

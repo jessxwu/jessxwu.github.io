@@ -1,20 +1,31 @@
 ---
 import { type CollectionEntry, getCollection } from 'astro:content';
 import BaseLayout from '../layouts/BaseLayout.astro';
+import TableOfContents from '../components/TableOfContents.astro';
+import type { MarkdownHeading } from 'astro';
 
 export async function getStaticPaths() {
     const pages = await getCollection('pages');
-    return pages.map((page) => {
-        return {
-            params: { slug: page.slug },
-            props: { page }
-        };
-    });
+
+    const headings = await Promise.all(
+        pages.map(async (page) => {
+            const data = await page.render();
+            return data.headings;
+        })
+    );
+
+    return pages.map((page, index) => ({
+        params: { slug: page.slug },
+        props: {
+            page,
+            headings: headings[index]
+        }
+    }));
 }
 
-type Props = { page: CollectionEntry<'pages'> };
+type Props = { page: CollectionEntry<'pages'>; headings: MarkdownHeading[] };
 
-const { page } = Astro.props;
+const { page, headings } = Astro.props;
 const { title, seo } = page.data;
 const { Content } = await page.render();
 ---
@@ -24,8 +35,23 @@ const { Content } = await page.render();
         <header class="mb-8">
             <h1 class="text-3xl leading-tight font-serif font-medium sm:text-5xl sm:leading-tight">{title}</h1>
         </header>
+
+        <div id="table-of-contents">
+            {headings.length > 0 && <TableOfContents headings={headings} />}
+        </div>
+
         <div class="max-w-none prose prose-dante sm:prose-lg" style="--tw-prose-body: 0.1em 0;">
             <Content />
         </div>
     </article>
 </BaseLayout>
+
+<script>
+    document.addEventListener('astro:page-load', () => {
+        const toc = document.getElementById('table-of-contents');
+        const tocPlaceholder = document.getElementById('toc-placeholder');
+        if (toc && tocPlaceholder) {
+            tocPlaceholder.replaceWith(toc);
+        }
+    });
+</script>

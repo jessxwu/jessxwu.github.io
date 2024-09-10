@@ -36,7 +36,7 @@ And I realised that was precisely why this was so impressive to me. It would be 
 
 I wasn't entirely convinced myself. I quieted down as we strolled down the aisle.
 
-## The Weight of Unseen Actions
+<h2>The Weight of Unseen Actions </h2>
 From a consequentialist perspective, one might argue that the impact of this single bruised pear is negligible. It's a drop in the ocean of global food waste. And the store will inevitably toss out some of the unsold produce as well. Yet, this view misses something crucial.
 
 The weight of our actions isn't solely measured by their immediate consequences (or lack thereof). Consequences are an effective deterrent for ‘bad’ behaviour, and this is essentially what our modern justice system and our perception of moral order is based on. But in practice, consequences are not always fairly or consistently dealt. The only person who can truly hold you accountable is yourself. No one else. 
@@ -47,7 +47,7 @@ I recall [the story of a Citigroup trader in London](https://www.bbc.co.uk/news/
 
 And why not eat a bruised pear? It appears that we demand perfect, unblemished produce year-round, regardless of season or locality. By accepting the bruised pear, my mom was, in a small way, pushing back against this unsustainable expectation. Let's zoom out further: perhaps the pear is a metaphor for our globalized food system. What about the environmental cost of stolen items? The labour conditions of those who produced it? Suddenly, our moral calculus becomes dizzyingly complex.
 
-## The Power of Small Changes
+<h2> The Power of Small Changes </h2>
 It seems like our choices barely register against the backdrop of the inefficiencies of industrial agriculture and consumerism. And it's easy to feel overwhelmed by the scale of global issues - food waste, environmental destruction, economic inequality. But change starts small. By making conscious choices day-to-day, we begin to shift larger systems. It's not about perfection, but about consistent, intentional action.
 
 In the end, perhaps the most profound lesson from the bruised pear is this: our character is built not in grand gestures, but in the accumulation of small choices. The weight of these actions lies not just in their immediate consequences, but in their role in shaping who we are and who we become.
