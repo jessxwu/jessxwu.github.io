@@ -12,6 +12,7 @@ module.exports = {
            
             width: {
                 '23': '23%',
+                '28': '28%',
                 '30': '30%', // Added custom width for third
                 '31': '31%',
                 '32': '32%',

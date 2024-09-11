@@ -102,14 +102,12 @@ Use this to shape an ideal role scope, responsibilities, and even the type of co
   </div>
 </div>
 
-I've started to lay out a few sections that speak to my work ethos and summarised my most important and defining values. 
-
-I will be summarising the outcomes as I build this out, perhaps in future refining this in a more structured way versus a collection of thoughts.
+I've started to lay out a few sections that speak to my work ethos and summarised my most important and defining values, with takeaways to shape the profile of the 'ideal' role. 
 
 <!-- Add this where you want the Table of Contents to appear -->
 <div id="toc-placeholder"></div>
  
-<hr class="w-32" style="margin-bottom: 0.5em;"/>  
+<hr class="w-28" style="margin-bottom: 0.5em;"/>  
 
 ## The Methodology ##
 My preference when I do a bit of soul-searching (which, admittedly, is probably one of said personal quirks) is to first do a little dive into the available literature, explore the various existing methodologies and frameworks, and ultimately design my own version, combining the most applicable parts of what I've researched. It's largely guided by the science, but I've made tweaks based on what I know about myself - for my highly personal use case.  
@@ -129,6 +127,10 @@ I know there are myriad 'career tests' and quizzes out there that do this well (
 This is deeply personal and purposeful, so I think it requires a lot more introspection.
 
 The intention of this exercise is not clinical or intending to find a narrow solution (and I don't believe this exists for me, personally). I am not matching this against an exhaustive database of roles or industries so there is no shiny packaged output like those career quizzes. Instead, I'm hoping that this values-rooted exercise will help with navigation, pointing to a direction of travel.
+
+I will be summarising the outcomes as I build this out, perhaps in future refining this in a more structured way versus a collection of thoughts.
+
+<hr class="w-32" style="margin-bottom: 0.5em;"/>  
 
 ## On Caring and Duty
 
@@ -174,6 +176,17 @@ Specialist functions of interest to me: martech/ad ops, performance marketing (s
 
 <sup>3</sup> *Note: A fun and evergrowing collection of terms I've seen in JDs to describe generalists: swiss-army-knife; polymath, ninja.*
 
+<hr class="w-50" style="margin-bottom: 0.5em;"/> 
+
+## On Learning and Development
+
+I strongly believe in the concept of [hiring for slope, not intercept](https://matt-rickard.com/hire-slope-not-intercepts). Does a company have a growth mindset? And do they invest in their employees' growth and development? I think where a company lie on this philosophy answers this fairly clearly.
+
+This is sometimes less practical for more senior roles, where you need someone to jump in and get the job done right away. However, I see this view pervasive in beliefs about longstanding industry experience, where it is not always as relevant as you may think. 
+
+The best people are intellectually curious and are students of life, always learning, always growing. I believe a smart person will learn, and they will be excited to do so, quickly, and with gusto.
+
+
 <hr class="w-31" style="margin-bottom: 0.5em;"/> 
 
 ## On Leading a Team
@@ -209,7 +222,7 @@ It's true that people usually will do better and spend more time on things they 
 
 Also, to get a bit more personal - how deep is your passion? If we had to empirically rank order 'intensity of passion', I'd reckon in many cases, it is probably not that intense that you'd want to do it (or could do it) for 40+ hours a week. And even if you think you do, [money often is a passion vampire](https://medium.com/swlh/dont-monetize-your-passion-here-s-a-better-strategy-f20cd8b22f14). It's an important distinction, but I think a lot more people are more successful at being passionate about their actual job itself and in taking pride in being great at their discipline (like marketing, or data analysis, or programming). It's not the only case, but just the more likely outcome.
 
-This is a personal example. I spent years in sports and casino marketing, despite not being a big sports fan and also having a personal aversion to gambling (and that's definitely not an interest area that you can fake). What drove me was a commitment to learning and applying myself and doing the job well (and doing the marketing well). I've found that commitment to excellence – caring, duty, and hard work – often matters more than passion. However, when passion is present – and only if you are truly very passionate, it probably provides that extra edge. And if you are that sweet spot where you have both, then you will be very dangerous.
+This is a personal example. I spent years in sports betting and casino marketing, despite having a personal aversion to gambling (and that's definitely not an interest area that you can fake). What drove me was a commitment to learning and applying myself and doing the job well (and doing the marketing well). I've found that commitment to excellence – caring, duty, and hard work – often matters more than passion. However, when passion is present – and only if you are truly very passionate, it probably provides that extra edge. And if you are that sweet spot where you have both, then you will be very dangerous.
 
 <hr class="w-46" style="margin-bottom: 0.5em;"/>  
 
