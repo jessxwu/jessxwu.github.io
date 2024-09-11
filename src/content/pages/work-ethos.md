@@ -12,9 +12,7 @@ I've been thinking about work a lot these days, and moreso my place within it.
 
 This led me to experiment with crafting an ideal role from the ground-up. Instead of trying to fit into a predefined JD, invert the traditional job search process.
 
-***Work backwards.***
-
-Plug in: core values, skills, strengths, work style, & culture preferences etc.  
+***Work backwards.*** Plug in: core values, skills, strengths, work style, & culture preferences etc.  
 Use this to shape an ideal role scope, responsibilities, and even the type of company that could be the best fit.
 
 <style>
@@ -118,16 +116,19 @@ I know there are myriad 'career tests' and quizzes out there that do this well (
 
 This is deeply personal and purposeful, so I think it requires a lot more introspection.
 
-My preference in these cases (which, admittedly, is probably one of said personal quirks) is to first do a little dive into the available literature, explore the various existing methodologies and frameworks, and ultimately design my own version, combining the most applicable parts of what I've researched. It's largely guided by the science, but I've made tweaks based on what I know about myself - for my personal use case.
+I've started to lay out a few sections that speak to my work ethos and summarised my most important and defining values. 
 
-I've started to lay out a few sections that speak to my work ethos and summarised my most important and defining values. The intention of this is not clinical or intending to find a narrow solution (and I don't believe this exists for me, personally). I am not matching this against an exhaustive database of roles or industries so there is no shiny packaged output like those career quizzes. Instead, I'm hoping that this exercise will help with navigation, pointing to a direction of travel.
-
-I will be adding to this list as I build this out, perhaps in future refining this in a more structured way versus a collection of thoughts. Some of these are too long, so I may split out some of these into sub pages. 
+I will be adding to this list as I build this out, perhaps in future refining this in a more structured way versus a collection of thoughts.
 
 <!-- Add this where you want the Table of Contents to appear -->
 <div id="toc-placeholder"></div>
  
 <hr class="w-32" style="margin-bottom: 0.5em;"/>  
+
+## The Methodology ##
+My preference when I do a bit of soul-searching (which, admittedly, is probably one of said personal quirks) is to first do a little dive into the available literature, explore the various existing methodologies and frameworks, and ultimately design my own version, combining the most applicable parts of what I've researched. It's largely guided by the science, but I've made tweaks based on what I know about myself - for my personal use case.  
+
+The intention of this exercise is not clinical or intending to find a narrow solution (and I don't believe this exists for me, personally). I am not matching this against an exhaustive database of roles or industries so there is no shiny packaged output like those career quizzes. Instead, I'm hoping that this values-rooted exercise will help with navigation, pointing to a direction of travel.
 
 ## On Caring and Duty
 
@@ -193,14 +194,14 @@ You better put in those 10,000 hours if you want to be a master of your own work
 
 <hr class="w-55" style="margin-bottom: 0.5em;"/>
 
-### On Pursuing Passion... Overrated? ###
+## On Pursuing Passion... Overrated? ##
 I don't need to work in an industry I'm passionate about. The bulk of my more traditional hobbies are not easily monetisable (at least in ways that are obvious to me). [80,000 Hours writes extensively on this](https://80000hours.org/2014/09/update-dont-follow-your-passion/) and their literature is very good.  
 
 Few people are passionate about unsexy industries like insurance, or mundane things like laundry detergent (apologies to anyone who works in insurance, or is a laundry detergent). So, to the extent you do have a passion for something mundane, then that is potentially quite rare and valuable, particularly in domains that require specialised forms of knowledge. This is even more salient in certain frontier industries / disciplines where innovative new tech and keeping up with new trends can be highly transformative (or the basis of your job).
 
 With knowledge comes power and confidence. This is especially true early in your career, when you are inexperienced and don't comprehend the craft as much as the content. Being well-informed or familiar with terms of art and having some background context can help bridge those gaps in understanding. This is where passion is really important and may be a bit underrated.
 
-<h3>Passion is less important later in your career </h3>
+### Passion is less important later in your career ###
 
 As you progress in your career and the scope of your role becomes more strategic and less structured, you realise that simply having passion doesn’t naturally translate into performance. Let's not conflate passion for experience and expertise. It takes experience to properly wield your passion into useful outcomes.
 
