@@ -102,7 +102,19 @@ Use this to shape an ideal role scope, responsibilities, and even the type of co
   </div>
 </div>
 
-And then I asked myself which of these criteria are most important to me. Or, at least, is there a framework I can use to help me evaluate these competing factors?
+I've started to lay out a few sections that speak to my work ethos and summarised my most important and defining values. 
+
+I will be summarising the outcomes as I build this out, perhaps in future refining this in a more structured way versus a collection of thoughts.
+
+<!-- Add this where you want the Table of Contents to appear -->
+<div id="toc-placeholder"></div>
+ 
+<hr class="w-32" style="margin-bottom: 0.5em;"/>  
+
+## The Methodology ##
+My preference when I do a bit of soul-searching (which, admittedly, is probably one of said personal quirks) is to first do a little dive into the available literature, explore the various existing methodologies and frameworks, and ultimately design my own version, combining the most applicable parts of what I've researched. It's largely guided by the science, but I've made tweaks based on what I know about myself - for my highly personal use case.  
+
+I started by asking myself which of these criteria are most important to me. Or, at least, is there a framework I can use to help me evaluate these competing factors?
 
 This has prompted me to reflect on questions such as:
 - What do I actually like to do? What am I good at?
@@ -115,18 +127,6 @@ This has prompted me to reflect on questions such as:
 I know there are myriad 'career tests' and quizzes out there that do this well (many that are scientifically rigourous, and others that 'harness the power of AI!') but I feel like these tools fall short when you consider nebulous, nuanced things like **_your whole career_** - a quiz or result doesn't sit right for me.  
 
 This is deeply personal and purposeful, so I think it requires a lot more introspection.
-
-I've started to lay out a few sections that speak to my work ethos and summarised my most important and defining values. 
-
-I will be adding to this list as I build this out, perhaps in future refining this in a more structured way versus a collection of thoughts.
-
-<!-- Add this where you want the Table of Contents to appear -->
-<div id="toc-placeholder"></div>
- 
-<hr class="w-32" style="margin-bottom: 0.5em;"/>  
-
-## The Methodology ##
-My preference when I do a bit of soul-searching (which, admittedly, is probably one of said personal quirks) is to first do a little dive into the available literature, explore the various existing methodologies and frameworks, and ultimately design my own version, combining the most applicable parts of what I've researched. It's largely guided by the science, but I've made tweaks based on what I know about myself - for my personal use case.  
 
 The intention of this exercise is not clinical or intending to find a narrow solution (and I don't believe this exists for me, personally). I am not matching this against an exhaustive database of roles or industries so there is no shiny packaged output like those career quizzes. Instead, I'm hoping that this values-rooted exercise will help with navigation, pointing to a direction of travel.
 
