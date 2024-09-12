@@ -1,0 +1,203 @@
+---
+interface Props {
+    scrollTarget?: string;
+}
+
+const { scrollTarget = 'body' } = Astro.props;
+---
+
+<div class="back-to-top-wrapper">
+    <a href="#" class="back-to-top" id="backToTop" aria-label="Back to top" data-scroll-target={scrollTarget}>
+        ↩️
+        <span class="tooltip">Back to Top</span>
+    </a>
+</div>
+
+<style>
+    .back-to-top-wrapper {
+        position: fixed;
+        bottom: 20px;
+        right: 20px;
+        z-index: 1000;
+    }
+
+    .back-to-top {
+        background-color: #333;
+        color: #fff;
+        width: 40px;
+        height: 40px;
+        border-radius: 50%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        font-size: 24px;
+        text-decoration: none;
+        opacity: 0;
+        transition:
+            opacity 0.3s,
+            background-color 0.3s;
+        position: relative;
+    }
+
+    .back-to-top:hover {
+        background-color: #555;
+    }
+
+    .back-to-top.visible {
+        opacity: 1;
+    }
+
+    .tooltip {
+        visibility: hidden;
+        background-color: rgba(0, 0, 0, 0.7);
+        color: #fff;
+        text-align: center;
+        border-radius: 4px;
+        padding: 5px 10px;
+        position: absolute;
+        z-index: 1;
+        bottom: 125%;
+        left: 50%;
+        transform: translateX(-50%);
+        opacity: 0;
+        transition:
+            opacity 0.3s,
+            visibility 0.3s;
+        font-size: 12px;
+        white-space: nowrap;
+        pointer-events: none;
+    }
+
+    .back-to-top:hover .tooltip,
+    .back-to-top:focus .tooltip {
+        visibility: visible;
+        opacity: 1;
+    }
+
+    /* Dark mode styles */
+    @media (prefers-color-scheme: dark) {
+        .back-to-top {
+            background-color: #555;
+        }
+
+        .back-to-top:hover {
+            background-color: #777;
+        }
+
+        .tooltip {
+            background-color: rgba(255, 255, 255, 0.7);
+            color: #000;
+        }
+    }
+
+    /* Mobile styles */
+    @media (max-width: 768px) {
+        .back-to-top-wrapper {
+            bottom: 10px;
+            right: 10px;
+        }
+
+        .back-to-top {
+            width: 36px;
+            height: 36px;
+            font-size: 20px;
+        }
+
+        .tooltip {
+            padding: 3px 8px;
+            font-size: 10px;
+        }
+    }
+</style>
+
+<script>
+    function initBackToTop() {
+        const backToTop = document.getElementById('backToTop');
+        if (backToTop) {
+            const scrollTarget = backToTop.dataset.scrollTarget || 'body';
+            const tooltip = backToTop.querySelector('.tooltip') as HTMLElement | null;
+            let tooltipEnabled = true;
+
+            const updateVisibility = () => {
+                if (window.scrollY > 300) {
+                    backToTop.classList.add('visible');
+                } else {
+                    backToTop.classList.remove('visible');
+                }
+            };
+
+            window.addEventListener('scroll', updateVisibility);
+
+            const showTooltip = () => {
+                if (tooltip && tooltipEnabled) {
+                    tooltip.style.visibility = 'visible';
+                    tooltip.style.opacity = '1';
+                }
+            };
+
+            const hideTooltip = () => {
+                if (tooltip) {
+                    tooltip.style.visibility = 'hidden';
+                    tooltip.style.opacity = '0';
+                }
+            };
+
+            backToTop.addEventListener('click', (e) => {
+                e.preventDefault();
+                hideTooltip();
+                tooltipEnabled = false;
+
+                // Re-enable tooltip after a short delay
+                setTimeout(() => {
+                    tooltipEnabled = true;
+                }, 300);
+
+                const targetElement = document.querySelector(scrollTarget);
+                if (targetElement) {
+                    targetElement.scrollIntoView({
+                        behavior: 'smooth'
+                    });
+                } else {
+                    // Fallback to scrolling to top if target not found
+                    window.scrollTo({
+                        top: 0,
+                        behavior: 'smooth'
+                    });
+                }
+            });
+
+            // Mouse events for desktop
+            backToTop.addEventListener('mouseenter', showTooltip);
+            backToTop.addEventListener('mouseleave', hideTooltip);
+
+            // Touch device handling
+            let touchTimeout: number | undefined;
+
+            backToTop.addEventListener('touchstart', () => {
+                touchTimeout = window.setTimeout(showTooltip, 500);
+            });
+
+            backToTop.addEventListener('touchend', () => {
+                if (touchTimeout !== undefined) {
+                    clearTimeout(touchTimeout);
+                }
+                hideTooltip();
+            });
+
+            // Re-initialize when the target element becomes available
+            const observer = new MutationObserver((mutations) => {
+                if (document.querySelector(scrollTarget)) {
+                    observer.disconnect();
+                    initBackToTop();
+                }
+            });
+
+            observer.observe(document.body, {
+                childList: true,
+                subtree: true
+            });
+        }
+    }
+
+    document.addEventListener('astro:page-load', initBackToTop);
+</script>

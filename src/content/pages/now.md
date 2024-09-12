@@ -8,9 +8,10 @@ seo:
 
 **💼 Searching for new hats to wear**  
 I'm looking for a new job. I took a 4-month break to travel and see the sights. Now I'm back home, and seeking my next thing.
+Read <a href='/work-ethos'>work ethos here</a> - maybe I'll be a good fit for an open role that you're aware of.
 
 **🌐 Presenting... the new website**  
-My previous site was built off a Jekyll template, and I fell in love with SSG. I decided on Astro.js for this guy.
+My previous site was built off a Jekyll template, and I fell in love with the speed, modularity, and reliability of SSG. I decided on Astro.js for this guy.
 Currently migrating the content over from my previous blog, and getting some content up.
 I'd like to write something documenting my exploratory process, design ethos, and how I built the site with a low-code background.
 

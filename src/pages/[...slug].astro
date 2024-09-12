@@ -3,31 +3,32 @@ import { type CollectionEntry, getCollection } from 'astro:content';
 import BaseLayout from '../layouts/BaseLayout.astro';
 import TableOfContents from '../components/TableOfContents.astro';
 import type { MarkdownHeading } from 'astro';
+import BackToTop from '../components/BackToTop.astro';
+import { slugify } from '../utils/common-utils';
 
 export async function getStaticPaths() {
     const pages = await getCollection('pages');
-
-    const headings = await Promise.all(
-        pages.map(async (page) => {
-            const data = await page.render();
-            return data.headings;
-        })
-    );
-
-    return pages.map((page, index) => ({
+    return pages.map((page) => ({
         params: { slug: page.slug },
-        props: {
-            page,
-            headings: headings[index]
-        }
+        props: { page }
     }));
 }
 
-type Props = { page: CollectionEntry<'pages'>; headings: MarkdownHeading[] };
+type Props = { page: CollectionEntry<'pages'> };
 
-const { page, headings } = Astro.props;
+const { page } = Astro.props;
 const { title, seo } = page.data;
 const { Content } = await page.render();
+
+// Get headings and apply slugify
+const rawHeadings = await page.render().then((result) => result.headings);
+const headings = rawHeadings.map((heading) => ({
+    ...heading,
+    slug: slugify(heading.text)
+}));
+
+// Determine the scroll target based on the page
+const scrollTarget = page.slug === 'work-ethos' ? '#table-of-contents' : 'body';
 ---
 
 <BaseLayout title={seo?.title ?? title} description={seo?.description} image={seo?.image} showHeader={false}>
@@ -36,22 +37,46 @@ const { Content } = await page.render();
             <h1 class="text-3xl leading-tight font-serif font-medium sm:text-5xl sm:leading-tight">{title}</h1>
         </header>
 
-        <div id="table-of-contents">
-            {headings.length > 0 && <TableOfContents headings={headings} />}
-        </div>
-
         <div class="max-w-none prose prose-dante sm:prose-lg" style="--tw-prose-body: 0.1em 0;">
             <Content />
         </div>
     </article>
+
+    <div id="table-of-contents" style="display: none;">
+        <TableOfContents headings={headings} />
+    </div>
+
+    <BackToTop scrollTarget={scrollTarget} />
 </BaseLayout>
 
 <script>
     document.addEventListener('astro:page-load', () => {
-        const toc = document.getElementById('table-of-contents');
         const tocPlaceholder = document.getElementById('toc-placeholder');
-        if (toc && tocPlaceholder) {
-            tocPlaceholder.replaceWith(toc);
+        const tocComponent = document.getElementById('table-of-contents');
+
+        if (tocPlaceholder && tocComponent) {
+            tocPlaceholder.replaceWith(tocComponent);
+            tocComponent.style.display = 'block';
         }
+
+        // Add ids to headings
+        const headings = document.querySelectorAll('h2, h3, h4, h5, h6');
+        headings.forEach((heading) => {
+            if (heading.textContent) {
+                heading.id = slugify(heading.textContent);
+            }
+        });
     });
+
+    // Slugify function with explicit typing
+    function slugify(text: string): string {
+        return text
+            .toString()
+            .toLowerCase()
+            .replace(/\s+/g, '-') // Replace spaces with -
+            .replace(/[^\w\-]+/g, '') // Remove all non-word chars
+            .replace(/\-\-+/g, '-') // Replace multiple - with single -
+            .replace(/^-+/, '') // Trim - from start of text
+            .replace(/-+$/, ''); // Trim - from end of text
+    }
 </script>

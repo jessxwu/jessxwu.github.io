@@ -6,7 +6,7 @@ seo:
   display:image:
     src: 
     alt: 
-
+showBackToTop: true
 ---
 I've been thinking about work a lot these days, and moreso my place within it.
 
@@ -110,9 +110,9 @@ I've started to lay out a few sections that speak to my work ethos and summarise
 <hr class="w-28" style="margin-bottom: 0.5em;"/>  
 
 ## The Methodology ##
-My preference when I do a bit of soul-searching (which, admittedly, is probably one of said personal quirks) is to first do a little dive into the available literature, explore the various existing methodologies and frameworks, and ultimately design my own version, combining the most applicable parts of what I've researched. It's largely guided by the science, but I've made tweaks based on what I know about myself - for my highly personal use case.  
+I know there are myriad 'career tests' and quizzes out there that do this well (many that are scientifically rigourous, and others that 'harness the power of AI!') but I feel like these tools fall short when you consider nebulous, nuanced things like **_your whole career_** - a quiz result doesn't sit right for me.  
 
-I started by asking myself which of these criteria are most important to me. Or, at least, is there a framework I can use to help me evaluate these competing factors?
+This is deeply personal and purposeful, so I think it requires a lot more introspection. I started by asking myself which of these criteria are most important to me. 
 
 This has prompted me to reflect on questions such as:
 - What do I actually like to do? What am I good at?
@@ -122,11 +122,11 @@ This has prompted me to reflect on questions such as:
 - What aspects of company culture resonate most deeply with me? Which are non-negotiable?
 - What do I still need to learn and improve on? How does a role or a company fit in my long-term goals?
 
-I know there are myriad 'career tests' and quizzes out there that do this well (many that are scientifically rigourous, and others that 'harness the power of AI!') but I feel like these tools fall short when you consider nebulous, nuanced things like **_your whole career_** - a quiz or result doesn't sit right for me.  
+Now, is there a framework I can use to help me evaluate these competing factors? First, I did a little dive into the available literature, exploring the various existing methodologies and frameworks of motivation (such as [Maslow's Hierarchy of Needs](https://www.simplypsychology.org/maslow.html), [Herzberg's Motivation-Hygiene Theory](https://www.simplypsychology.org/herzbergs-two-factor-theory.html), [Hackman and Oldham's Job Characteristics Model](https://en.wikipedia.org/wiki/Job_characteristic_theory), and [Daniel Pink's 'Drive'](https://www.danpink.com/books/drive/)). This is my preference when I do a bit of soul-searching (which, admittedly, is probably one of said personal quirks). 
 
-This is deeply personal and purposeful, so I think it requires a lot more introspection.
+Ultimately, I Frankenstein'd my own approach, combining the most applicable parts of what I've researched. It's largely guided by the science, but I've made tweaks based on what I know about myself and isolating the parts that are more relevant for my highly personal use case.
 
-The intention of this exercise is not clinical or intending to find a narrow solution (and I don't believe this exists for me, personally). I am not matching this against an exhaustive database of roles or industries so there is no shiny packaged output like those career quizzes. Instead, I'm hoping that this values-rooted exercise will help with navigation, pointing to a direction of travel.
+The intention of this exercise is not clinical or intending to find a narrow solution (and I don't believe this exists for me, personally). I am not matching this against an exhaustive database of roles or industries so there is no shiny packaged output like in those career quizzes. Instead, I'm hoping that this values-rooted exercise will help with navigation, pointing to a direction of travel.
 
 I will be summarising the outcomes as I build this out, perhaps in future refining this in a more structured way versus a collection of thoughts.
 
