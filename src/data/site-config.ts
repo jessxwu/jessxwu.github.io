@@ -93,19 +93,27 @@ const siteConfig: SiteConfig = {
             "</div>" +
 
             "<div style='line-height: 1.4; margin-bottom: 1.3em;'>" +
-            "I believe that a great idea, well expressed, can be the spark that changes the world." +
+            "I believe in the quiet power of a great idea, well expressed. It can shift something, somewhere." +
             "</div>" +
 
             "<div style='line-height: 1.4; margin-bottom: 1.3em;'>" +
-            "This is an experimental space where I capture some of those stories, thoughts, and ideas. While I don't promise that they are all life-changing, they are thoughtfully crafted and sincere." +
+            "This is a perennial space where I capture some of those stories, thoughts, and moments." +
             "</div>" +
 
             "<div style='line-height: 1.4; margin-bottom: 1.3em;'>" +
-            "I am also actively looking for a new full-time opportunity and would appreciate any leads that you think I can be a good fit for. Read my <a href='/work-ethos'>work ethos here</a>." +
+            "Some are about work and creativity... or books, movies, travels. Some are just half-baked rambles about life - slices of it, really - scribbled down on evenings and weekends, and usually on airplanes and trains... when I'm afforded a bit of time to pause and reflect." +
+            "</div>" +
+
+            "<div style='line-height: 1.4; margin-bottom: 1.3em;'>" +
+            "While I don't promise that they are all profound, they are sincere." +
+            "</div>" +
+
+            "<div style='line-height: 1.4; margin-bottom: 1.3em;'>" +
+            "I'm not currently looking for a new role, but my <a href='/work-ethos'>work ethos</a> still holds true." +
             "</div>" +
 
             "<div style='line-height: 1.4; 'margin-bottom: 1.3em;'>" +
-            "If you want to get in touch, email me at jessicaxywu [at] gmail dot com." +
+            "If anything resonates, or you'd like to say hi, email me at jessicaxywu [at] gmail dot com." +
             "</div>",
 
         // image: {

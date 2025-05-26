@@ -1,34 +1,57 @@
 ---
-title: Now
+title: Now...
 seo:
   title: Now - what I'm doing 
-  description: Current update on priorities in my life.
+  description: Stream of consciousness - tl;dr on my state of the union
 ---
-*I update this page in a sporadic and unceremonious fashion. Last update: 7th Aug 2024.*
+*I update this page in a sporadic and unceremonious fashion. Last updated 26th May 2025.
+<a href='/2024-08-24-now'>My previous update is here.</a>*
 
-**💼 Searching for new hats to wear**  
-I'm looking for a new job. I took a 4-month break to travel and see the sights. Now I'm back home, and seeking my next thing.
-Read <a href='/work-ethos'>work ethos here</a> - maybe I'll be a good fit for an open role that you're aware of.
+**💼 9 to 5, 5 days a week**  
+I started a new role! I recently joined Moloco as part of the EMEA marketing team. After a period of reflection (and rest), I was looking for a role I could really stand behind. Moloco’s mission, people, and momentum hit all the right notes. Moloco is an AI adtech company solving some of the hardest problems in programmatic advertising, and although you may not have heard of us, we quietly reach more mobile users daily than Instagram and TikTok combined.
 
-**🌐 Presenting... the new website**  
-My previous site was built off a Jekyll template, and I fell in love with the speed, modularity, and reliability of SSG. I decided on Astro.js for this guy.
-Currently migrating the content over from my previous blog, and getting some content up.
-I'd like to write something documenting my exploratory process, design ethos, and how I built the site with a low-code background.
+It’s early days, but I already feel like I’ve landed somewhere special. The company has scaled fast, but we’re now navigating the trickier middle years: growing with intention, maturing without losing momentum. It’s a great fit for me: fast-paced, values-driven, and full of smart, kind people doing ambitious things. There’s an enormous opportunity to help shape the next stage of growth, and I’m genuinely excited to roll up my sleeves and contribute. <a href='/blog/2025-05-26-90-days-in'> More on that (and a few fun stats) in the full post here</a>.
 
-**🔧 Working on my employable skills**  
-Upskilling with digital apps and tools. Learning marketing niches that I'm less familiar with, like SEO. Tinkering with AI a lot and getting comfy with my personal tech stack.
 
-**🧠 Building my second brain and tools for life**  
-Separately, I've been spending a lot of time building out my digital Second Brain. It's still disorganised right now and I haven't fully cracked the right process. I'm rethinking how I organise my Notion, Todoist, notes, and document drives. When it's ready, I'd like to move some things to the site.
+**✍️ New era of writing again?**  
+Surprise, surprise. I didn't write all the things that I wrote that I wanted to write... 
 
-**🏋️ Spending a lot of time upside down**  
-My priority these days is learning new calisthenics skills and I've been working on my handstands a lot, under the guidance of some sweet coaches @ The Rogue Room! Have been changing up how I move. Over the last few years, I've found myself gradually falling into a rhythm of consistency versus intensity, after many periods of burnout. Still doing the regular things: yoga, cycling, running, jump rope, badminton, swimming. 
+But hey, baby steps. Took the day to copy the repo to my new laptop (I switched to Macbook and love it) - easy access goes a long way. I'm all about environment design. Fixed permissions, updated my Astro package, and it's good to go! Thanks to Chat GPT, my favourite debugging assistant. I can pretend I know how to code! I'm excited to write again.
 
-**🍎 An ice cream a day...**  
-I have developed an addition to sugar I haven't been able to curb. Ice cream season has not been helpful, so although I'm happy, my waistline hasn't been. Separately, I have been working on a side project mapping out major cuisines of the world by geography, excited to share that when at a better state of finish. Also have done a lot of mapping of my yummies and places to eat and try on Google Maps.
+i’m also experimenting with lowercase blog titles (and maybe just this paragraph) because i want these notes to feel a bit more off-the-cuff - casual and unpolished, because they are mostly unfiltered thoughts before I've tried to make them sound smart. mostly, though, it’s a gentle trick to quiet the perfectionist in me and just... write. which is something i've struggled with doing, pretty much since always. it's all about framing. because it feels like less pressure when it's not meant to be perfect. see how easy that was?
 
-**🎧 Being a brat**  
-I have bought into the charli xcx hype.
+let’s be real though: it’s definitely not effortless. these words don’t spill out like magic. but here’s to the illusion of ease — and to the hope that the more i write, the easier it <em>actually</em> becomes (which, thankfully, it does).
+
+**🏠 Buying a house**  
+Navigating the London housing market is a blight on the fabric of British society. Stuart and I have bought a beautiful warehouse conversion by Hoxton station (in principle... still working through the mortgage stuff). I love the design of it. It reminds me of the avant-garde modernism that you see in Rotterdam, complete with porthole windows and built-in Ladderax shelving (and I'm a sucker for exposed brick). The space isn't the most efficiently laid out, but it's east-facing, has huge windows and tons of natural light. 
+
+We originally wanted 2bdr but it is spacious (at least for London!) and this means we have a good excuse to not host as much, other than more low-maintenance types willing to couchsurf. We will probably replace the leather sofa with a pull-out couch though because I actually love hosting visiting friends!
+
+**✈️ Travelling way too much**  
+I'm so tired, but also so full of life. I want to stop living out of a suitcase though. Spend some more time in London, it's hard to work towards some of my physical goals being on the go so much. 
+
+**🏃‍♀️ Running longer distances and finding community in shared progress**  
+I <em> was </em> injury-free for several months, which was a true blessing. Started running longer and longer distances.
+
+It was super motivating to get more consistent running with Progress Running Club - and we broke out our own group with the 'mini-progress' club (name suggestions welcome). I definitely got marathon fever that week it came around. I literally shed a tear watching Sabastian Sawe cross the finish line. I have too many emotions when I watch running. 
+
+Although definitely tweaked something in Hawaii after my hike so I'm a bit bummed right now. Currently back to experimental stage with my workout regimen now... i'm quite keen to explore some new things since the Rogue Room closed, but life has been a bit too hectic to join a regular gym of late. July is the time.
+
+**🍎 Notable eats of recent...**  
+Ok, I'm on full diet mode for the summer - starting tomorrow. I'm serious.
+
+But I just had one of the best pasta dishes of my life - <em>pasta con le sarde</em> - which is a Sicilian pasta originally from Palermo. It's very basic but so so good. The sauce is made with onions, fennel, raisins, pine nuts, anchovies, sardines, and saffron - topped with toasted and seasoned bread crumbs. The restaurant, <a href='https://maps.app.goo.gl/zicyBvXUvBEw16Ho9'>Cascina Moro</a>, was divine and in a beautiful farmhouse setting in the suburbs of Milan 3.
+
+I also had quite possibly the best Thai food in my recent memory at this food truck in Maui called <a href='https://maps.app.goo.gl/VZ1WW3arNiNeaFpZ6'>Thai Farm Fresh</a>. I also had a fresh young coconut that I was gouged $12 USD for and did not like it as much as the bottled (lightly preservatived) coconut water I usually have. I prefer raw 100% coconut water but they do not have this option in the office (I tried many coconut waters in Hawaii, and <a href='https://www.drinkwaikoko.com/'>this brand Wai Koko</a> is absolutely divine).
+
+While in Seattle, I picked up a bag of Lucky Charms magical marshmallows - yes, just the marshmallows - for novelty. Bonus: they have jumbo-sized rainbows.
+
+**🎧 In my angsty emo phase again**  
+I found my new band of the moment - Joyce Manor. I haven't been this obsessed with a band for SO long... maybe since 2020-2021 with Yo La Tengo. I've literally streamed them 1,000+ times in the last month. It does help that their songs are about 1 - 2 minutes long. A throwback to a bit of nostalgic emo stuff, and I'm listening to more punk, hardcore, and midwest emo recently, which is not really a genre I play much.
+
+I also have a very enviable lineup of many, many concerts, festivals, and raves in London this summer... and Glastonbury! Super stoked.
 
 **📺 Watching things**  
-Stuart and I have been watching Korean horror 'Sweet Home' on Netflix, as well as some sports documentaries recently (Simone Biles, SPRINT, Free Solo). These people are so incredible.
+A lot of my favourite shows came out with new seasons. I begrudgingly watched 'Severance' so I could watch S2 with Stuart. I think I fell asleep fifteen times. Why doesn't Apple TV have 2x speed on browser/desktop? It's 2025 (rambling post incoming).
+
+I'm halfway through White Lotus (have been really procrastinating) and I still think Mike White is a genius. My favourite shows are Black Mirror and White Lotus, so what a tv delight it is recently for me!

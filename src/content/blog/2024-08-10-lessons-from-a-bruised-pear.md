@@ -1,6 +1,6 @@
 ---
-title: Lessons from a Bruised Pear
-excerpt: As a child, grocery shopping was often a tedious exercise.
+title: lessons from a bruised pear
+excerpt: Grocery shopping was often a tedious exercise when I was a kid.
 publishDate: 'Aug 10 2024'
 isFeatured: true
 tags:
@@ -11,14 +11,15 @@ seo:
     alt: A bruised pear
 
 ---
-As a child, grocery shopping was often a tedious exercise.
-Our trips stretched for what seemed like hours. My mother was indecisive, painstakingly perusing the aisles for secret bargains and rare imported treats that reminded her of home. 
+Grocery shopping was often a tedious exercise when I was a kid.
 
-I’d find ways to keep myself busy. I exhausted all the possible utilities and pleasures of the shopping cart, experimenting with every imaginable seating arrangement. Often, I would lose myself in tasty daydreams, making elaborate wishlists of snacks and nibbles that I wanted to try (a habit I still practice).
+That's not to say I didn't relish those visits. They were the best. Our trips often stretched for what seemed like hours. My mother was indecisive, painstakingly perusing the aisles for bargains and imported treats from home. 
 
-Another point of interest was the produce section. Adults were always strumming their fingers on the soft flesh of a ripe plum, or crading melons like newborn babies. I intently studied my mom while she tapped fruits as if to coax out some hidden melody. I mimicked her actions, but with little comprehension. To me, this fruit-whispering seemed like peak adulthood – an elusive skill I'd someday unlock.
+I’d find ways to keep myself busy. I exhausted all the possible utilities and pleasures of the shopping cart, experimenting with every imaginable seating arrangement. More often, I would lose myself in tasty daydreams, making elaborate wishlists of snacks and nibbles that I wanted to try (a habit I still practice).
 
-It is rarer now for us to shop together. As lockdown restrictions were easing, I accompanied her to our local T&T Supermarket (a large Chinese grocery chain). These occasions feel much more special (exciting even!), particularly when they were seemingly outlawed for the last several months.
+Another point of interest was the produce section. Adults were always strumming their fingers on the soft flesh of a ripe plum, or crading melons like newborn babies. I intently studied my mom while she tapped fruits as if to coax out some hidden melody. I would copy her actions, but with little comprehension. To me, this fruit-whispering seemed like peak adulthood – an elusive skill I'd someday unlock.
+
+It is rarer now for us to shop together. As lockdown restrictions were easing, I remember a time where I accompanied her to our local T&T Supermarket (a large Chinese grocery chain). These occasions feel much more special (exciting even!), particularly when they were seemingly outlawed for the last several months.
 
 <img src="/bruised-pear.png" alt="A bruised pear" style="border-radius: 10px;">
 
@@ -26,7 +27,7 @@ While browsing the produce section, my mom dropped a pear on the ground. Instead
 
 "Mom, put it back.”
 
-My initial reaction was one of bewilderment, and I instantly protested. “We don't want that one."
+My initial reaction was one of bewilderment, and instant protest. “We don't want that one."
 
 "I bruised it," she explained matter-of-factly, "so I should buy it.”
 
@@ -37,7 +38,7 @@ And I realised that was precisely why this was so impressive to me. It would be 
 I wasn't entirely convinced myself. I quieted down as we strolled down the aisle.
 
 <h2>The Weight of Unseen Actions </h2>
-From a consequentialist perspective, one might argue that the impact of this single bruised pear is negligible. It's a drop in the ocean of global food waste. And the store will inevitably toss out some of the unsold produce as well. Yet, this view misses something crucial.
+From a consequentialist perspective, one might argue that the impact of this single bruised pear is negligible. It's a drop in the ocean of global food waste. And the store will inevitably toss out some of the unsold produce as well. Yet, this view misses the point.
 
 The weight of our actions isn't solely measured by their immediate consequences (or lack thereof). Consequences are an effective deterrent for ‘bad’ behaviour, and this is essentially what our modern justice system and our perception of moral order is based on. But in practice, consequences are not always fairly or consistently dealt. The only person who can truly hold you accountable is yourself. No one else. 
 

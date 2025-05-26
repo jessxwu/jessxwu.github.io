@@ -1,5 +1,5 @@
 ---
-title: An Ode to AI in Marketing
+title: the robots are taking over
 excerpt: Ultimately, we need to still apply the same core values of genuine care and humanity in our decision-making, with or without AI.
 publishDate: 'Sep 12 2024'
 isFeatured: true
@@ -12,6 +12,8 @@ seo:
 
 ---
 My last role was head of marketing at an AI personalisation company (ML algorithms for gambling operators and game studios), so thinking about how AI will impact marketing is a topic that I’ve dedicated a lot of thought to.
+
+<img src="/robots_spongebob_squarepants.gif" alt="Spongebob robots" style="display: block; margin: 0 auto;" width="600" />
 
 Marketing has largely been identified as one of the business functions where AI will have the most impact (if not the most), and fortunately, it is also one where tooling and integration is typically lower friction, and the options more sophisticated. We’ve all heard the ‘adapt or die’ rhetoric when it comes to AI, which is a bit sensational, but I think it does have some salience – if only to identify which companies prioritise innovation and are open to change, and which are not. It's also transformative for small teams with limited budgets and resources. If you can wield your AI stack effectively (and with the advent of AI agents), it can feel like having a small army at your disposal.
 
@@ -50,4 +52,6 @@ Productivity utilities that I’ve championed, like Otter.ai captures and summar
 
 An important aspect is ensuring everyone on the team feels empowered and has license to openly explore and test these new tools; many of which aren’t difficult to get started with. Experimenting with beginner-friendly tools is a simple way to build confidence with AI. Related, we need to democratize tech skills so that everyone can feel empowered to navigate machine learning and AI tools (furthermore, adjacent disciplines like data science and analytics, are increasingly becoming essential knowledge at a basic level). I would put a base level of AI training and upskilling as a personal development item for everyone. It may not be the most urgent of priorities, but is a requisite for our roadmap to futureproof both the business and the team. 
 
-We may end up changing a few of our behaviours and find new helpers in the form of AI copilots and agents, but ultimately, the fundamentals and principles of marketing still stand. Having this knowledge on the team will give us the confidence to move forward decisively and be well-prepared, especially as the marketing ecosystem continues to evolve. We need to still apply the same core values of genuine care and humanity in our decision-making, with or without AI.
+We may end up changing a few of our behaviours and find new helpers in the form of AI copilots and agents, but ultimately, the fundamentals and principles of marketing still stand. Having this knowledge on the team will give us the confidence to move forward decisively and be well-prepared, especially as the marketing ecosystem continues to evolve.
+
+We need to still apply the same core values of genuine care and humanity in our decision-making, with or without AI.

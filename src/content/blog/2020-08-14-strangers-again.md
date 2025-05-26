@@ -1,5 +1,5 @@
 ---
-title: Strangers, Again
+title: Strangers, again
 excerpt: We all start off as strangers... 10 minute prompt.
 publishDate: 'Aug 14 2020'
 tags:
