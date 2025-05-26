@@ -5,6 +5,7 @@ publishDate: 'Oct 10 2020'
 isFeatured: true
 tags:
   - creative writing
+  - movies
 seo:
   image:
     src: '/post-1_devil-all-the-time.jpg'

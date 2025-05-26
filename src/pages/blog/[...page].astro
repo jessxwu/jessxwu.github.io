@@ -10,9 +10,7 @@ import siteConfig from '../../data/site-config';
 import { sortItemsByDateDesc } from '../../utils/data-utils';
 
 export async function getStaticPaths({ paginate }: GetStaticPathsOptions) {
-    const posts = (await getCollection('blog'))
-  .filter(post => post.data.draft !== true)
-  .sort(sortItemsByDateDesc);
+    const posts = (await getCollection('blog')).sort(sortItemsByDateDesc);
     const allTags = [...new Set(posts.flatMap((post) => post.data.tags || []))];
 
     return paginate(posts, {

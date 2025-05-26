@@ -4,6 +4,7 @@ excerpt: A little bit I wrote on the Before Trilogy and relationships. This was 
 publishDate: 'Mar 19 2019'
 tags:
   - creative writing
+  - movies
 seo:
   image:
     src: '/post-1_devil-all-the-time.jpg'

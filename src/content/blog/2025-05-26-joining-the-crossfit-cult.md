@@ -1,10 +1,9 @@
 ---
 title: joining the crossfit cult
 excerpt: Sometimes I forget how much music defines my life
-publishDate: 'May 26 2026'
-draft: true
+publishDate: 
 tags:
-  - music
+  - personal
 seo:
   image:
     src: '/post-1_devil-all-the-time.jpg'
