@@ -11,11 +11,11 @@ seo:
     alt:  Perfect Days
 ---
 
-**🗓️ July 19, 2025**  **📖 10 min read**
+**🗓️ July 19, 2025**  **📖 11 min read**
 
 Eric was in London again. He visits probably once a year, and somehow it always seems to be during the most chaotic of moments. I hosted him for a week or so, and I think I keep one-upping myself - this might’ve been one of the most frenetic periods of my life (although, to be fair, late 2022 / early 2023 probably still takes the cake).
 
-Naturally, we were chatting about movies and *Perfect Days* came up, the 2023 Cannes darling with the near-perfect Rotten Tomatoes score. I loved Wim Wenders’ magnum opus, *Paris, Texas* (that movie shook me to my core).
+Naturally, we were chatting about movies and [*Perfect Days*](https://www.imdb.com/title/tt27503384/) came up, the 2023 Cannes darling with the [near-perfect Rotten Tomatoes score](https://www.rottentomatoes.com/m/perfect_days_2023). I loved Wim Wenders’ magnum opus, [*Paris, Texas*](https://www.imdb.com/title/tt0087884/) (that movie shook me to my core).
 
 But *Perfect Days* was a bit of a different experience.
 
@@ -26,7 +26,7 @@ But *Perfect Days* was a bit of a different experience.
 
 Honestly... I thought it was a bit boring. I’d put it on before bed with Stuart, and I think we’ve now collectively watched it around three times because I kept falling asleep and rewatching it. I’m also just sleep-deprived in general, so maybe those kinds of movies are not ideal at night. But anyone would agree that the pace is slow. The movie unfolds through watching the daily motions of Hirayama, a public toilet cleaner in Tokyo. It’s less about plot, and more about observing his life through repetition - his routine, habits, rituals.
 
-He wakes up early before dawn. He folds up his futon on the bamboo tatami in his orderly austere apartment and cleans up diligently. He shaves every day, trimming his moustache with tiny scissors, and rides a bicycle to work. He eats the same sandwich lunch on a park bench, takes photographs of trees with a film camera, and plays tic-tac-toe with a stranger by leaving the paper sheet in a crack in the bathroom. He listens to blues and rock ‘n’ roll on cassette tapes (Nina Simone, Lou Reed, The Kinks). He waters his plants, finishes a book each week (highbrow stuff like Faulkner). He develops his film on the weekend. It’s all so deliberate, disciplined - and for him, there’s nothing performative about it. It’s entirely intentional.
+He wakes up early before dawn. He folds up his futon on the bamboo tatami in his orderly austere apartment and cleans up diligently. He shaves every day, trimming his moustache with tiny scissors, and rides a bicycle to work. He eats the same sandwich lunch on a park bench, takes photographs of trees with a film camera, and plays tic-tac-toe with a stranger by leaving the paper sheet in a crack in the bathroom. He listens to blues and rock ‘n’ roll on cassette tapes ([Nina Simone](https://www.youtube.com/watch?v=oHRNrgDIJfo), [Lou Reed](https://www.youtube.com/watch?v=KisHhIRihMY), [The Kinks](https://www.youtube.com/watch?v=yFWJmPXY3pw)). He waters his plants, finishes a book each week ([highbrow stuff like Faulkner](https://www.goodreads.com/book/show/146559.The_Wild_Palms)). He develops his film on the weekend. It’s all so deliberate, disciplined - and for him, there’s nothing performative about it. It’s entirely intentional.
 
 <figure>
   <img src="/perfect-days-2.webp" alt="Perfect Days - Hirayami reading" />
@@ -77,7 +77,7 @@ It immediately reminded me of the most recent White Lotus season, especially Pip
 >  
 > Like the idea that I’m like — that I’m like this princess who needs things to be a certain way— it’s just so pathetic. 
 
-So maybe this film isn’t really for those who already live simply. It feels more directed at those who aspire to - the ones burnt out by noise, seeking refuge in stillness. But there’s an irony in that. Because it’s often the people who can afford to spend thousands of pounds on wellness retreats who are most drawn to this aesthetic. The ones checking into beautifully branded mindfulness escapes, curated to help you disconnect, but just enough to post about it after.
+This film isn’t really for those who already live simply. It feels more directed at those who aspire to - the ones burnt out by noise, seeking refuge in stillness. But there’s an irony in that. Because it’s often people with a certain kind of privilege - the time, the headspace, the access - who are most drawn to this aesthetic (myself included, in many ways). The ones checking into beautifully branded mindfulness escapes and digital detoxes, curated to help you disconnect - but just enough to talk about it (and post about it) after.
 
 <figure>
   <img src="/perfect-days-5-white-lotus-1.webp" alt="White Lotus - Timothy Ratliff talking to the monk" />
@@ -94,6 +94,11 @@ Because it’s not just about opting out of chaos. It takes effort. Discipline. 
 
 And with that deliberate choice comes a kind of loneliness. A little sadness, too. Hirayama’s pulling away from society - especially from the mainstream pleasures of modern Japanese life, with all its constant stimulation, sensory overload, entertainment (and the [boom anime babes that make you think the wrong thing](http://youtube.com/watch?v=fC_q9KPczAg)) - allows him to be present with himself in a way most of us aren’t. In a culture overflowing with convenience, distraction, and consumption, his quiet, analog world feels almost subversive.
 
+<figure>
+  <img src="/perfect-days-6-floor.jpg" alt="Perfect Days - Hirayami lying on his floor" />
+  <figcaption><i>This is what choosing less can look like.</i></figcaption>
+</figure>
+
 That’s what makes him a complex character. It looks like he’s just living simply... but it’s a conscious choice. And when his relative comes to visit, you see him deliberate, or at least reflect, on the weight of that choice and the trade-offs and sacrifices he’s had to make in pursuit of this life.
 
 My brain doesn’t work that way. I crave people. I crave conversation. I see solitude - like a rare day spent working alone, not seeing anyone - as some kind of punishment, and definitely not peaceful.
@@ -101,6 +106,11 @@ My brain doesn’t work that way. I crave people. I crave conversation. I see so
 So while I can see his choices as admirable - maybe even enviable - they also feel distant and unrealistic. I respect them, but I also resist it. And maybe that’s why the film didn’t hit the way it might for others. Maybe that’s why I struggle to see that kind of life as anything but a bit bleak, and have to actively work to romanticise it at all.
 
 Despite this, Hirayami seems free and content. And he’s built a life full of meaning on his own terms.
+
+<figure>
+  <img src="/perfect-days-8-smile.jpg" alt="Perfect Days - Hirayama's smile" />
+  <figcaption><i>What contentment looks like.</i></figcaption>
+</figure>
 
 That’s what stuck with me. It speaks to the part of me that hopes I can one day feel more at ease with wanting less. More comfortable with being alone and having less going on (which is an ongoing and complicated internal battle).
 
