@@ -2,6 +2,7 @@
 title: soundtrack to summer 2025
 excerpt: Sometimes I forget how transformative music is
 publishDate:
+draft: true
 tags:
   - music
 seo:

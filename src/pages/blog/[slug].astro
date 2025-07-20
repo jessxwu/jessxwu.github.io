@@ -16,7 +16,7 @@ function protectByLine(title: string) {
 }
 
 export async function getStaticPaths() {
-    const blogPosts = await getCollection('blog');
+    const blogPosts = (await getCollection('blog')).filter((post) => post.data.draft !== true && !!post.data.publishDate);
 
     const paths = await Promise.all(
         blogPosts.map(async (post) => {
@@ -37,7 +37,6 @@ export async function getStaticPaths() {
 
     return paths.filter(Boolean);
 }
-
 type Props = { post: CollectionEntry<'blog'> };
 
 const { post } = Astro.props;

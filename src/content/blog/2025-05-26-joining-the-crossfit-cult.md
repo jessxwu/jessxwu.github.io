@@ -2,6 +2,7 @@
 title: joining the crossfit cult
 excerpt: Sometimes I forget how much music defines my life
 publishDate: 
+draft: true
 tags:
   - personal
 seo:
