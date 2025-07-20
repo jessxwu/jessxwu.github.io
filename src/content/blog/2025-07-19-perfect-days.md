@@ -2,6 +2,7 @@
 title: perfect days, and in pursuit of romancing the mundane
 excerpt: Maybe Perfect Days isn’t meant for people like him. I think it resonates more with those of us who are stressed, overstimulated, burnt out, for those for whom this life feels aspirational. It’s a daydream about living slow because we’re moving too fast to appreciate it; or we’re too distracted, undisciplined, and overstimulated to build a life that actually allows for that kind of stillness.
 publishDate: 2025-07-19
+minutesRead:
 tags:
   - movies
 isFeatured: true
@@ -10,9 +11,6 @@ seo:
     src: '/perfect-days-1.webp'
     alt:  Perfect Days
 ---
-
-**🗓️ July 19, 2025**  **📖 11 min read**
-
 Eric was in London again. He visits probably once a year, and somehow it always seems to be during the most chaotic of moments. I hosted him for a week or so, and I think I keep one-upping myself - this might’ve been one of the most frenetic periods of my life (although, to be fair, late 2022 / early 2023 probably still takes the cake).
 
 Naturally, we were chatting about movies and [*Perfect Days*](https://www.imdb.com/title/tt27503384/) came up, the 2023 Cannes darling with the [near-perfect Rotten Tomatoes score](https://www.rottentomatoes.com/m/perfect_days_2023). I loved Wim Wenders’ magnum opus, [*Paris, Texas*](https://www.imdb.com/title/tt0087884/) (that movie shook me to my core).

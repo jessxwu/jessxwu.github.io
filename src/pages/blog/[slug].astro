@@ -29,6 +29,18 @@ const headings = rawHeadings.map((heading) => ({
 
 // Generic scroll target: to scroll to top or the table of contents if available
 const scrollTarget = headings.length > 0 ? '#table-of-contents' : 'body';
+
+// Reading time and date of publish
+const { publishDate } = post.data;
+const { minutesRead } = (await post.render()).remarkPluginFrontmatter;
+
+function formatDate(isoDate: string) {
+    return new Date(isoDate).toLocaleDateString('en-US', {
+        year: 'numeric',
+        month: 'long',
+        day: 'numeric'
+    });
+}
 ---
 
 <BaseLayout title={seo?.title ?? title} description={seo?.description} image={seo?.image} showHeader={false}>
@@ -36,7 +48,11 @@ const scrollTarget = headings.length > 0 ? '#table-of-contents' : 'body';
         <header class="mb-8">
             <h1 class="text-3xl leading-tight font-serif font-medium sm:text-5xl sm:leading-tight">{title}</h1>
         </header>
-
+        <p class="mt-4 mb-4 text-lg">
+            <strong>🗓️ {formatDate(publishDate)}</strong>
+            &nbsp;&nbsp;
+            <strong>📖 {minutesRead}</strong>
+        </p>
         <div class="max-w-none prose prose-dante sm:prose-lg" style="--tw-prose-body: 0.1em 0;">
             <Content />
         </div>
