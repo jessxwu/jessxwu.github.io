@@ -5,6 +5,7 @@ publishDate: 2025-07-19
 minutesRead:
 tags:
   - movies
+  - personal
 isFeatured: true
 seo:
   image:
@@ -51,7 +52,7 @@ Living humbly, being genuinely happy with less, and with far less going on too. 
 
 <figure>
   <img src="/perfect-days-3.jpg" alt="Perfect Days - Komorebi photograph" />
-  <figcaption><i>Komorebi: light filtered through leaves. A fleeting moment made visible and a reminder that even what seems repetitive isn't always the same. One of Hirayama's black-and-white film shots from the movie, captured in this style.</i></figcaption>
+  <figcaption><i>Komorebi: light filtered through leaves. One of Hirayama's black-and-white film shots from the movie, captured in this style - indicating that what seems repetitive isn't always the same. </i></figcaption>
 </figure>
 
 Noticing beauty when it isn’t obvious takes a certain kind of attention and skill, as well as a steady chug of optimism. Maybe that’s what people are trying to gesture at when they say, “I just want a quiet and simple life.” To actually want less - and to be content with that - is no small thing. It’s become a cliché, but there’s something honest in it.
@@ -88,7 +89,7 @@ It’s not simplicity. It’s the performance of simplicity. The selective aesth
 
 *Perfect Days* shows us what it doesn’t say, in the silences, the rhythms, the labour of routine. It asks us to notice that simplicity - or maybe more accurately, austerity - is a choice. A deliberate one, and a tough one.
 
-Because it’s not just about opting out of chaos. It takes effort. Discipline. A kind of internal structure that’s hard to maintain, especially in a world that constantly pulls us towards distraction and constant stimulation. That’s what makes it both admirable and, at least for me, deeply challenging.
+Because it’s not just about opting out of chaos. It takes effort. Discipline. A kind of internal structure that’s hard to maintain, especially in a world that constantly pulls us towards distraction and noise. That’s what makes it both admirable and, at least for me, deeply challenging.
 
 And with that deliberate choice comes a kind of loneliness. A little sadness, too. Hirayama’s pulling away from society - especially from the mainstream pleasures of modern Japanese life, with all its constant stimulation, sensory overload, entertainment (and the [boom anime babes that make you think the wrong thing](http://youtube.com/watch?v=fC_q9KPczAg)) - allows him to be present with himself in a way most of us aren’t. In a culture overflowing with convenience, distraction, and consumption, his analog world feels almost subversive.
 
@@ -112,8 +113,8 @@ Despite this, Hirayami seems free and content. And he’s built a life full of m
 
 That’s what stuck with me. It speaks to the part of me that hopes I can one day feel more at ease with wanting less. More comfortable with being alone and having less going on (which is an ongoing and complicated internal battle).
 
-And as I’ve written this - alone in my room on a lazy and somewhat depressing Saturday, after waking up at literally past 1pm following a hellishly hecstic week (which, to be fair, is a near once-in-a-decade-level anomaly for me) - I’ve found myself appreciating solitude more. Though, if I’m honest, my hustle-conditioned mind mostly appreciates the productivity it yields. Which, of course, is part of the problem. Still - maybe there’s a little more space in my life for this kind of stillness than I thought.
+And as I’ve written this - alone in my room on a lazy and somewhat depressing Saturday, after waking up at literally past 1 pm following a hellishly intense week (which, to be fair, is a near once-in-a-decade-level anomaly for me) - I’ve found myself appreciating solitude more. Though, if I’m honest, my hustle-conditioned mind mostly appreciates the productivity it yields. Which, of course, is part of the problem. Still - maybe there’s a little more space in my life for this kind of stillness than I thought.
 
-So yes, I found the film a bit boring. It’s slow. Repetitive. But I think that’s the point. Wenders’ medium is the message. It had to be that way - slow, quiet, uneventful - because it’s holding up a mirror to the version of peace we say we want, but don’t quite know how to live with. [A meaningful life isn’t always the most entertaining](/blog/2020-08-24-paul-kalathini-when-breath-becomes-air) - and some things aren’t designed to grip you, but it seems they linger far longer than you expect.
+So yes, I found the film a bit boring. It’s slow. Repetitive. But I think that’s the point. Wenders’ medium is the message. It had to be that way - slow, quiet, uneventful - because it’s holding up a mirror to the version of peace we say we want, but don’t quite know how to live with. [A meaningful life isn’t always the most entertaining](/blog/2020-08-24-paul-kalathini-when-breath-becomes-air) and some things aren’t designed to grip you. It just seems that they may linger for far longer than you'd expect.
 
-I’m not sure I’d watch *Perfect Days* a fourth time - though, to be fair, I’ve yet to make it through fully awake. But I’m still thinking about it. Which, to me, means it’s done its job.
+I’m not sure I’d watch *Perfect Days* a fourth time - though, to be fair, I’ve yet to make it through fully awake. But I’m still thinking about it... which, to me, means it’s done its job.

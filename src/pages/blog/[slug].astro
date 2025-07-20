@@ -1,23 +1,47 @@
 ---
-import { type CollectionEntry, getCollection } from 'astro:content';
+import { type CollectionEntry, getCollection, getEntry } from 'astro:content';
 import BaseLayout from '../../layouts/BaseLayout.astro';
 import TableOfContents from '../../components/TableOfContents.astro';
 import BackToTop from '../../components/BackToTop.astro';
 import type { MarkdownHeading } from 'astro';
 import { slugify } from '../../utils/common-utils';
+import TagButton from '../../components/TagButton.astro';
+
+function protectByLine(title: string) {
+    const parts = title.split(' by ');
+    if (parts.length === 2) {
+        return `${parts[0]} <span class="whitespace-nowrap">by ${parts[1]}</span>`;
+    }
+    return title;
+}
 
 export async function getStaticPaths() {
-    const blogPosts = await getCollection('blog'); // Assuming your blog collection is named 'blog'
-    return blogPosts.map((post) => ({
-        params: { slug: post.slug },
-        props: { post }
-    }));
+    const blogPosts = await getCollection('blog');
+
+    const paths = await Promise.all(
+        blogPosts.map(async (post) => {
+            const entry = await getEntry('blog', post.slug);
+            const rendered = await entry?.render();
+
+            return {
+                params: { slug: post.slug },
+                props: {
+                    post: {
+                        ...post,
+                        Content: rendered?.Content
+                    }
+                }
+            };
+        })
+    );
+
+    return paths.filter(Boolean);
 }
 
 type Props = { post: CollectionEntry<'blog'> };
 
 const { post } = Astro.props;
-const { title, seo } = post.data;
+const { title, seo, tags = [] } = post.data;
 const { Content } = await post.render();
 
 // Get headings and apply slugify
@@ -31,11 +55,20 @@ const headings = rawHeadings.map((heading) => ({
 const scrollTarget = headings.length > 0 ? '#table-of-contents' : 'body';
 
 // Reading time and date of publish
-const { publishDate } = post.data;
+const publishDate = post.data.publishDate;
 const { minutesRead } = (await post.render()).remarkPluginFrontmatter;
 
-function formatDate(isoDate: string) {
-    return new Date(isoDate).toLocaleDateString('en-US', {
+// Pagination logic
+const allPosts = await getCollection('blog');
+const sortedPosts = allPosts.sort((a, b) => new Date(b.data.publishDate).valueOf() - new Date(a.data.publishDate).valueOf());
+const currentIndex = sortedPosts.findIndex((p) => p.slug === post.slug);
+const previousPost = sortedPosts[currentIndex + 1];
+const nextPost = sortedPosts[currentIndex - 1];
+
+function formatDate(dateInput: string | Date) {
+    const date = new Date(dateInput);
+    if (isNaN(date.getTime())) return 'Invalid Date';
+    return date.toLocaleDateString('en-US', {
         year: 'numeric',
         month: 'long',
         day: 'numeric'
@@ -53,10 +86,64 @@ function formatDate(isoDate: string) {
             &nbsp;&nbsp;
             <strong>📖 {minutesRead}</strong>
         </p>
+
+        <!-- Tag block -->
+        {
+            tags.length > 0 && (
+                <div class="mb-12 flex flex-wrap gap-2">
+                    {tags.map((tag) => (
+                        <TagButton>{tag}</TagButton>
+                    ))}
+                </div>
+            )
+        }
+
         <div class="max-w-none prose prose-dante sm:prose-lg" style="--tw-prose-body: 0.1em 0;">
             <Content />
         </div>
     </article>
+
+    {
+        (previousPost || nextPost) && (
+            <nav class="mt-16 max-w-3xl mx-auto flex flex-col sm:grid sm:grid-cols-2 gap-8 px-4 sm:px-6 lg:px-8 text-sm">
+                {previousPost ? (
+                    <div class="text-left">
+                        <div class="text-gray-400 uppercase tracking-wide text-sm font-semibold mb-1">Previous Post</div>
+                        <a
+                            href={`/blog/${previousPost.slug}`}
+                            class="group inline-flex items-start gap-1 text-gray-700 dark:text-gray-300 font-medium transition-transform duration-200 hover:-translate-x-1"
+                        >
+                            <span aria-hidden="true">←</span>
+                            <span
+                                class="text-base sm:text-lg group-hover:underline underline-offset-4 break-words font-serif"
+                                set:html={protectByLine(previousPost.data.title)}
+                            />
+                        </a>
+                    </div>
+                ) : (
+                    <div />
+                )}
+
+                {nextPost ? (
+                    <div class="text-left sm:text-right">
+                        <div class="text-gray-400 uppercase tracking-wide text-sm font-semibold mb-1">Next Post</div>
+                        <a
+                            href={`/blog/${nextPost.slug}`}
+                            class="group inline-flex items-start justify-end gap-1 text-gray-700 dark:text-gray-300 font-medium transition-transform duration-200 hover:translate-x-1"
+                        >
+                            <span
+                                class="text-base sm:text-lg group-hover:underline underline-offset-4 break-words font-serif text-right"
+                                set:html={protectByLine(nextPost.data.title)}
+                            />
+                            <span aria-hidden="true">→</span>
+                        </a>
+                    </div>
+                ) : (
+                    <div />
+                )}
+            </nav>
+        )
+    }
 
     {
         headings.length > 0 && (
