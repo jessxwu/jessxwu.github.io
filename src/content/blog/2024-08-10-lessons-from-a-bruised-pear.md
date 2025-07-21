@@ -75,8 +75,12 @@ I'm getting a little carried away here - we don’t need to solve the global foo
 
 Or better yet, be the person who picks the bruised apple, the scuffed 'aubergine', the pear with a dent in its pride. “Ugly” produce is having a moment - with [Misfit Markets (US) supposedly surpassing a $2B valuation](https://medium.com/write-the-1/this-guy-makes-385-million-a-year-selling-ugly-carrots-and-bruised-bananas-669bb53d5a57); [Oddbox (UK) doing weekly and fortnightly doorstep deliveries](https://www.oddbox.co.uk/about) (unclear if it’s a zero-carbon last-mile situation); and 'wonky' veg now its own category in UK supermarkets. There are plenty of options - though ironically, I’ve noticed the curated and branded versions often cost more than the regular stuff.
 
-<figure>
-  <img src="/oddbox.jpg" alt="Oddbox 'wonky' veg" />
+<figure style="text-align: center;">
+  <img 
+    src="/oddbox.jpg"
+    alt="Oddbox 'wonky' veg" 
+    style="max-width: 650px; height: auto; display: block; margin: 0 auto;" 
+  />
   <figcaption><i>Oddbox delivery of “wonky” veg - still perfectly edible but less photogenic.</i></figcaption>
 </figure>
 
@@ -101,6 +105,15 @@ And in a world of messy, interconnected systems, those small decisions ripple ou
 <hr style="width: 33%; margin-bottom: 1.5em;" />
 
 These days, my mom is much faster at the store, just grabbing a few things that we need. It seems like years of my dad’s playful ribbing about her hour-long grocery expeditions might have made a difference.
+
+<figure style="text-align: center;">
+  <img 
+    src="/watermelon.jpg"
+    alt="Watermelon" 
+    style="max-width: 650px; height: auto; display: block; margin: 0 auto;" 
+  />
+  <figcaption><i>I still tap melons and gourds.</i></figcaption>
+</figure>
 
 I asked if she knew what she was looking for while tapping the fruit, and she admitted that she wasn’t so sure - she still gets it wrong half the time.
 

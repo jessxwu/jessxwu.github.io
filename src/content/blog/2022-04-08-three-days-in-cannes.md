@@ -21,7 +21,7 @@ The program is for 18–28 year olds and gives you access to premieres and scree
 <div style="background-color: rgba(0, 0, 0, 0.3); padding: 1em; border-radius: 6px; font-family: monospace; font-size: 0.9em; line-height: 1.5;">
 <b>For reference:</b><br/>
 - <b>2022:</b> Applied at <i>5:51 AM</i><sup>1</sup> on <b>April 4</b> → Accepted by <i>3:16 PM</i> the same day<br/>
-- <b>2024:</b> Applied at <i>11:59 PM</i> on <b>March 15</b> → Accepted on <b>April 11</b><sup>2</sup>
+- <b>2024:</b> Applied at <i>11:59 PM</i> on <b>March 15</b> → Accepted on <b>April 11</b>
 </div>
 
 That said, I hear it really comes down to the strength of your statement.
@@ -29,8 +29,6 @@ That said, I hear it really comes down to the strength of your statement.
 If you want inspiration, you can read my first letter from 2022 below; and [my final one from 2024](/blog/2024-04-30-scenes-from-the-last-eligible-year/).
 
 <span style="font-size: 85%;"><sup>1</sup> *I realise these are both very chaotic timestamps. What was I doing submitting this before 6 AM on a Monday? LOL. I don’t remember.*</span>
-
-<span style="font-size: 85%;"><sup>2</sup> *The email in 2024 came so late (especially after the very prompt turnaround in 2022) that I missed it entirely - even grumbled about not getting in - until I found it at the **very end** of April. I decided I was going to Cannes with two weeks' notice. Fortunately, I wasn’t working at the time. 🙃*</span>
 
 <hr style="width: 33%; margin-bottom: 0.5em;" />
 

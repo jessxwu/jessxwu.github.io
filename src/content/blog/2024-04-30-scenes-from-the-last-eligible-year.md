@@ -1,5 +1,5 @@
 ---
-title: Scenes from the Last Eligible Year
+title: Scenes from the Last Eligible Year of My Youth
 subtitle: Or, How I Almost Didn’t Go to Cannes Because I Missed the Email
 excerpt: It was a gentle nudge, or maybe something of a deliberate prod.
 publishDate: 2022-04-30
@@ -28,7 +28,7 @@ I responded back earnestly, with valid excuses. Life was chaotic for the last mo
 
 When push comes to shove, you have to make it happen, and you make it fit. It's fascinating how the contraints of time often become our allies in getting things done. Suspend me over a pool of sharks, and you'll see how blazingly fast an annual budget comes together.
 
-I submitted my application at 11:59 PM on the day of the deadline - yes, truly, the final minute. And then I waited. The acceptance email in 2024 came nearly a month later (especially after the lightning-fast 9-hour turnaround in 2022) that I missed it entirely - even grumbled about not getting in - until I found the email at the very end of April. I decided I was going to Cannes with two weeks’ notice. Fortunately, I wasn’t working at the time. 🙃
+I submitted my application at 11:59 PM on the day of the deadline - yes, truly, the final minute. And then I waited. The acceptance email in 2024 came nearly a month later (especially after the lightning-fast 9-hour turnaround in 2022) that I missed it entirely. I even grumbled about not getting in - until I found it at the very end of April. I decided I was going to Cannes with two weeks’ notice. Fortunately, I wasn’t working at the time. 🙃
 
 If you’re curious how the program works, or want to see the more earnest first version of me, here’s [my original 2022 letter](/blog/2022-04-08-three-days-in-cannes/).
 
