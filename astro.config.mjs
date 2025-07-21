@@ -8,15 +8,19 @@ import spotlightjs from "@spotlightjs/astro";
 
 import { remarkReadingTime } from './remark-reading-time.mjs';
 
-
-// https://astro.build/config
 export default defineConfig({
   site: 'https://jessxwu.github.io',
-  integrations: [mdx(), sitemap(), tailwind({
-    applyBaseStyles: false
-  }), sentry(), spotlightjs()],
+  integrations: [
+    mdx({
+      remarkPlugins: [remarkReadingTime], // for .mdx files
+    }),
+    sitemap(),
+    tailwind({ applyBaseStyles: false }),
+    sentry(),
+    spotlightjs()
+  ],
   markdown: {
-    remarkPlugins: [remarkReadingTime],
+    remarkPlugins: [remarkReadingTime] // for .md files
   },
-    viewTransitions: true
+  viewTransitions: true
 });
