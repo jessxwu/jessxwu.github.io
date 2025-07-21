@@ -82,7 +82,7 @@ Across the week, I spoke with startup founders, academics, VCs, brand leads, man
 Then — because Cannes — came the parade of celebrities and influencers. I’m notoriously terrible at remembering names, but I do know that Patrick Schwarzenegger strolled by (which felt especially unhinged because I had, just days earlier, watched him in *that* scene with his on-screen brother in *White Lotus*). I unfortunately mistimed my lunch break and missed the photo op.<sup>3</sup>
 
 <figure style="display: flex; flex-direction: column; align-items: center;">
-  <img src="/public/patrick-schwarzenegger-sam-nivola-the-white-lotus.webp" alt="Patrick Schwarzenegger and Sam Nivola in White Lotus" style="max-width: 100%; height: auto;" />
+  <img src="/public/patrick-schwarzenegger-sam-nivola-white-lotus.avif" alt="Patrick Schwarzenegger and Sam Nivola in White Lotus" style="max-width: 100%; height: auto;" />
   <figcaption style="text-align: center;"><i>I was on my lunch break. Devastating.</i></figcaption>
 </figure>
 
