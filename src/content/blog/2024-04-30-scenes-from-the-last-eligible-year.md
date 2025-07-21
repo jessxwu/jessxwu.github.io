@@ -1,8 +1,9 @@
 ---
-title: Three Days in Cannes
+title: Scenes from the Last Eligible Year
+subtitle: Or, How I Almost Didn’t Go to Cannes Because I Missed the Email
 excerpt: It was a gentle nudge, or maybe something of a deliberate prod.
-publishDate: 'Apr 30 2024'
-isFeatured: true
+publishDate: 2022-04-30
+isFeatured: false
 tags:
   - personal
   - movies
@@ -27,15 +28,19 @@ I responded back earnestly, with valid excuses. Life was chaotic for the last mo
 
 When push comes to shove, you have to make it happen, and you make it fit. It's fascinating how the contraints of time often become our allies in getting things done. Suspend me over a pool of sharks, and you'll see how blazingly fast an annual budget comes together.
 
+I submitted my application at 11:59 PM on the day of the deadline - yes, truly, the final minute. And then I waited. The acceptance email in 2024 came nearly a month later (especially after the lightning-fast 9-hour turnaround in 2022) that I missed it entirely - even grumbled about not getting in - until I found the email at the very end of April. I decided I was going to Cannes with two weeks’ notice. Fortunately, I wasn’t working at the time. 🙃
+
+If you’re curious how the program works, or want to see the more earnest first version of me, here’s [my original 2022 letter](/blog/2022-04-08-three-days-in-cannes/).
+
 This will likely be my final Cannes adventure for a long time, because the [Three Days in Cannes program](https://ericbai.co/how-i-got-into-cannes-film-festival-and-how-you-can-too) is only open for those aged 18 - 28 years old. Once I hit the ancient, wise age of 29, I’ll obviously be too old for such youthful escapades.
 
-Here's the letter, where I explore that very notion of age and maturity.
+Here's the 2024 letter, where I explore that very notion of age and maturity.
 
 <hr>
 
 As my life is about to come to an end (read: turning 29), my last dying wish is to receive an accreditation to the “Three Days in Cannes” program in my last eligible year as a young and spritely cinephile.
 
-Sensationalisms aside, I was very lucky to attend the Cannes Film Festival in 2022.
+Sensationalisms aside, I was very lucky to attend the [Cannes Film Festival in 2022](/blog/2022-04-08-three-days-in-cannes/).
 
 I watched eight films in those three whirlwind days, my eyes slightly glazed from the back-to-back screenings (rushing from theatre to theatre in my tiny heels - making a mental note to carry some barefoot flats for next time) while suffering acutely from jet lag, and noting the odd dichotomy of my body fighting to stay awake physically, but also my brain and heart so mentally stimulated, alert… *alive(!)* by the marvel and talent that graced the screens and filled up my very eager heart. 
 
@@ -46,11 +51,11 @@ It was a dizzying but glamorous experience. I was bright-eyed, bushy-tailed, and
   <figcaption><i>A scene from Close by Lukas Dhont.</i></figcaption>
 </figure>
 
-My favourite that year was the Palme d’Or winner, Ruben Östlund’s Triangle of Sadness, followed closely by Koreeda’s Broker, and Lukas Dhont’s coming of age masterpiece, “Close”. I found “Close” captivating for its poignant and authentic portrayal of youth - set against a beautiful, dreamy backdrop of Belgian flower farms. I often finding myself looking backwards and inwards, in a romantically nostalgic way, idealising the tales from my childhood (and yes, I still feel a child at heart, and forever will be despite my former protests on turning thirty). Times were simpler back then, I thought; but “Close” reminds me that the romanticized notion of youth is not immune to challenges.
+My favourite that year was the Palme d’Or winner, Ruben Östlund’s [*Triangle of Sadness*](https://www.imdb.com/title/tt7322224/), followed closely by Koreeda’s [*Broker*](https://www.imdb.com/title/tt19719836/), and Lukas Dhont’s coming-of-age masterpiece, [*Close*](https://www.imdb.com/title/tt9196192/). I found *Close* captivating for its poignant and authentic portrayal of youth — set against a beautiful, dreamy backdrop of Belgian flower farms. I often find myself looking backwards and inwards, in a romantically nostalgic way, idealising the tales from my childhood (and yes, I still feel a child at heart, and forever will be despite my former protests on turning thirty). Times were simpler back then, I thought; but *Close* reminds me that the romanticized notion of youth is not immune to challenges.
 
 I luckily had a mostly uncomplicated youth, but we forget now the trials and tribulations that accompany adolescence. Every challenge, no matter how seemingly trivial, holds weight and significance in the eyes of the beholder. Those are the experiences that shape us too, in the complex realities of our adulthood.
 
-My love affair with cinema traces back to the humblest of origins – a cramped apartment in an inner city neighborhood, where the flickering glow of the television screen became my window to a world of infinite possibilities (imagine the dramatism of Spielberg’s The Fabelmans, but more watching and less action). As a wide-eyed child navigating the complexities of a new country, I found solace, comfort, and inspiration in the stories unfolding before me.
+My love affair with cinema traces back to the humblest of origins – a cramped apartment in an inner city neighborhood, where the flickering glow of the television screen became my window to a world of infinite possibilities (... imagine the dramatism of Spielberg’s [*The Fabelmans*](https://www.imdb.com/title/tt14208870/), but more watching and less action). As a wide-eyed child navigating the complexities of a new country, I found solace, comfort, and inspiration in the stories unfolding before me.
 
 <figure>
   <img src="/fabelmans-scene.jpg" alt="Scene from The Fabelmans'">

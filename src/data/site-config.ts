@@ -93,7 +93,7 @@ const siteConfig: SiteConfig = {
             "</div>" +
 
             "<div style='line-height: 1.4; margin-bottom: 1.3em;'>" +
-            "I believe in the quiet power of a great idea, well expressed. The right words can change everything for someone, somewhere." +
+            "I believe in the understated power of a great idea, well expressed. The right words can change everything... for someone, somewhere." +
             "</div>" +
 
             "<div style='line-height: 1.4; margin-bottom: 1.3em;'>" +
@@ -101,7 +101,7 @@ const siteConfig: SiteConfig = {
             "</div>" +
 
             "<div style='line-height: 1.4; margin-bottom: 1.3em;'>" +
-            "Sometimes I write about <a href='/work-ethos'>my approach to work</a> and <a href='blog/2024-09-12-ai-will-change-everything'>AI</a>. Or <a href='blog/2020-08-20-yo-la-tengo-painful'>music</a>, <a href='blog/2024-04-30-three-days-in-cannes'>movies</a>, <a href='blog/2020-08-19-bangkok-2017'>travels</a>. Usually, I end up rambling <a href='blog/2020-08-01-pain-and-growing-up'>half-baked thoughts about life</a> - slices of it, really - often scribbled down on evenings and weekends, on airplanes and trains... in what feels like exceedingly rarer moments when I am afforded the luxury to pause and reflect." +
+            "Sometimes I write about <a href='/work-ethos'>my approach to work</a> and <a href='blog/2024-09-12-ai-will-change-everything'>AI</a>. Or <a href='blog/2020-08-20-yo-la-tengo-painful'>music</a>, <a href='blog/2024-04-30-scenes-from-the-last-eligible-year'>movies</a>, <a href='blog/2020-08-19-bangkok-2017'>travels</a>. Usually, I end up rambling <a href='blog/2020-08-01-pain-and-growing-up'>half-baked thoughts about life</a> - <i>slices of it, really </i>- in what feels like exceedingly rarer moments when I am afforded the luxury to pause and reflect." +
             "</div>" +
 
             "<div style='line-height: 1.4; margin-bottom: 1.3em;'>" +

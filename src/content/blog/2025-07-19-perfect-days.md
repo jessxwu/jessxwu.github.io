@@ -44,7 +44,7 @@ Yes, it looks peaceful. But it’s not easy. It’s boring, it’s hard. It’s 
 
 There’s little external validation in the work Hirayama does - there's no glory in scrubbing public toilets. And there are even moments in the film where others treat him poorly because of it. But he is exceptionally dignified in carrying out his job. He takes pride in [doing his job and doing it well](/work-ethos/#do-your-job-do-it-right). In that dedication, there’s honour.
 
----
+<hr style="width: 33%; margin-bottom: 0.5em;" />
 
 The slow and simple life is easy to romanticise - don’t we all, sometimes?
 
@@ -85,7 +85,7 @@ This film isn’t really for those who already live simply. It feels more direct
 
 It’s not simplicity. It’s the performance of simplicity. The selective aesthetics of slowness, sold to people who can afford to dip in and out whenever they choose.  
 
-----
+<hr style="width: 33%; margin-bottom: 0.5em;" />
 
 *Perfect Days* shows us what it doesn’t say, in the silences, the rhythms, the labour of routine. It asks us to notice that simplicity - or maybe more accurately, austerity - is a choice. A deliberate one, and a tough one.
 
