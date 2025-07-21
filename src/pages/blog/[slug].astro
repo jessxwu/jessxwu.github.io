@@ -40,7 +40,7 @@ export async function getStaticPaths() {
 type Props = { post: CollectionEntry<'blog'> };
 
 const { post } = Astro.props;
-const { title, seo, tags = [] } = post.data;
+const { title, subtitle, seo, tags = [] } = post.data;
 const { Content } = await post.render();
 
 // Get headings and apply slugify
@@ -79,6 +79,7 @@ function formatDate(dateInput: string | Date) {
     <article class="mb-16 sm:mb-24">
         <header class="mb-8">
             <h1 class="text-3xl leading-tight font-serif font-medium sm:text-5xl sm:leading-tight">{title}</h1>
+            {subtitle && <p class="mt-3 text-xl sm:text-[1.75rem] leading-snug italic font-serif">{subtitle}</p>}
         </header>
         <p class="mt-4 mb-4 text-lg">
             <strong>🗓️ {formatDate(publishDate)}</strong>
