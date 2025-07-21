@@ -6,9 +6,9 @@ isFeatured: true
 tags:
   - marketing
 seo:
-  image: 
-    src: '/bruised-pear.png'
-    alt: A bruised pear
+  image:
+    src: '/cannes-cabana-2.jpg'
+    alt:  AI will change everything
 
 ---
 My last role was head of marketing at an AI personalisation company (ML algorithms for gambling operators and game studios), so thinking about how AI will impact marketing is a topic that I’ve dedicated a lot of thought to.
