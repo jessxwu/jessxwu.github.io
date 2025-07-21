@@ -8,7 +8,7 @@ tags:
 seo:
   image:
     src: '/post-1_devil-all-the-time.jpg'
-    alt:  
+    alt:  Joining the crossfit cult
 ---
 I accidentally fell into distance running again after a sleepless flight to San Francisco, where I ran 18km because I didn't realize how big the Valley was... and was trying to run to the water (and clear my head after all this Trump stuff).
 

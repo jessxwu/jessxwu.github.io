@@ -1,5 +1,5 @@
 ---
-title: Cannes, Four Weeks Later…
+title: Cannes Lions, Four Weeks Later…
 subtitle: On Ads, AI, and the Art of Just Showing Up
 excerpt: Who knew I’d find myself in Cannes three times in the last four years?
 publishDate: 2025-07-20
@@ -45,7 +45,7 @@ In my defense, I’m pretty sure it’s impossible to qualify unless you work fo
 
 <h2 style="margin-top: 1.5em;"><em>Why Cannes Lions Still Matters</em></h2>
 
-Before I ever attended, Cannes Lions lived in my imagination as this mythical collision of the world’s best creatives and marketers - sun, sea, strategy, and the occasional yacht-fueled ego trip. And, well, that’s all still true. Especially as we looked out for Jeff and Mark’s superyachts moored in the distance — an ominous, shimmering reminder of who really runs the media machine.
+Before I ever attended, Cannes Lions lived in my imagination as this mythical collision of the world’s best creatives and marketers - sun, sea, strategy, and the occasional yacht-fueled ego trip. And, well, that’s all still true. Especially as we looked out for [Jeff and Mark’s superyachts](https://www.boatinternational.com/yachts/editorial-features/superyachts-spotted-cannes-film-festival-2025) moored in the distance — an ominous, shimmering reminder of who really runs the media machine.
 
 But once you’re inside the experience, it’s more layered than the clichés suggest.
 
@@ -82,7 +82,7 @@ Across the week, I spoke with startup founders, academics, VCs, brand leads, man
 Then — because Cannes — came the parade of celebrities and influencers. I’m notoriously terrible at remembering names, but I do know that Patrick Schwarzenegger strolled by (which felt especially unhinged because I had, just days earlier, watched him in *that* scene with his on-screen brother in *White Lotus*). I unfortunately mistimed my lunch break and missed the photo op.<sup>3</sup>
 
 <figure style="display: flex; flex-direction: column; align-items: center;">
-  <img src="/public/patrick-schwarzenegger-sam-nivola-white-lotus.avif" alt="Patrick Schwarzenegger and Sam Nivola in White Lotus" style="max-width: 100%; height: auto;" />
+  <img src="/patrick-schwarzenegger-sam-nivola-white-lotus.avif" alt="Patrick Schwarzenegger and Sam Nivola in White Lotus" style="max-width: 100%; height: auto;" />
   <figcaption style="text-align: center;"><i>I was on my lunch break. Devastating.</i></figcaption>
 </figure>
 

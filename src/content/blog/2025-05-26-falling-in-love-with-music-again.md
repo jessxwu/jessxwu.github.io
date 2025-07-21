@@ -8,7 +8,7 @@ tags:
 seo:
   image:
     src: '/post-1_devil-all-the-time.jpg'
-    alt:  
+    alt:  Music
 ---
 I got SO lucky... and <a href='https://open.spotify.com/track/2RnPATK99oGOZygnD2GTO6?si=ff12a1716439487c'>with a little help from my friends</a> (because music ticketing IT infra is quite possibly the most lagging industry in the world), I was able to snag a bunch of £10 tickets to the Lido shows this June.
 
