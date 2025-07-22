@@ -30,9 +30,7 @@ Who knew I’d find myself in Cannes *three times* in the last four years?
 
 I’ve been to the [Film Festival](/blog/2024-04-30-three-days-in-cannes) twice, but the Lions always felt like the missing piece - the one I needed to round out the full Cannes experience.
 
-It’s still a surreal sentence to type - especially when I think back to entering Young Lions in 2018 and not placing.<sup>1</sup> No cigar. (Literally. No Cohiba handed to me on the Carlton terrace…)
-
-In my defense, I’m pretty sure it’s impossible to qualify unless you work for a massive global consumer brand. I don’t (and I didn’t) and I probably will not in the foreseeable future. So yes, that particular dream is a little… paused. But that’s okay, it seems like I made it there anyway - and earlier than planned! One day, maybe, there *will* be a global consumer ad campaign with my name on it. Stranger things have happened.
+It’s still a surreal sentence to type - especially when I think back to entering Young Lions in 2018<sup>1</sup> and not placing.<sup>2</sup> No cigar. (Literally. No Cohiba handed to me on the Carlton terrace…)
 
 <figure style="display: flex; flex-direction: column; align-items: center;">
   <img src="/cannes-lions-canada.png" alt="Screenshot of Cannes Lions Canada 2018 email" style="max-width: 400px; height: auto;" />
@@ -40,6 +38,8 @@ In my defense, I’m pretty sure it’s impossible to qualify unless you work fo
 </figure>
 
 <span style="font-size: 85%;"><sup>1</sup> *I went back and dug up my submission - and wow. I think I might actually get cancelled for my entry (it was a different time, okay?). That said… hilarious in hindsight. My partner and I may have predicted the rise of Barbie in 2023 a full half decade early. So I’m either a visionary or a time traveller (possibly both).*</span>
+
+<span style="font-size: 85%;"><sup>2</sup> *In my defense, I’m pretty sure it’s impossible to qualify unless you work for a massive global consumer brand. I don’t (and I didn’t) and I probably will not in the foreseeable future. So yes, that particular dream is a little… paused. But that’s okay, it seems like I made it there anyway - and earlier than planned! One day, maybe, there *will* be a global consumer ad campaign with my name on it. Stranger things have happened.*</span>
 
 <hr style="width: 33%; margin-bottom: 0.5em;" />
 
@@ -53,9 +53,9 @@ There’s a reason this festival holds its place centre stage in the marketing c
 
 Creativity isn’t confined to a format. It’s also in the media strategy, the targeting logic, and the models deciding - silently, algorithmically - who sees what, and when. AI is creative, too. We have the kind that solves real problems, drives results, and makes people feel something.
 
-That’s part of what excited me about being there with Moloco. We’re not a traditional adtech company. We don’t just make ads more efficient - we help marketers unlock new, smarter ways to grow. Faster, and with more relevance and precision. And, hopefully, more meaning.
+That’s part of what excited me about being there with Moloco. We’re not a traditional adtech company. We don’t just make ads more efficient - we help marketers unlock new, smarter ways to grow. Faster, and with more relevance and precision. And, hopefully, with more meaning.
 
-**And being at Cannes gave me a front-row seat to the conversations shaping that future. Here are four things I observed, learned, and took away from the week.**
+**Being at Cannes gave me a front-row seat to the conversations shaping that future. Here are four things I observed, learned, and took away from the week.**
 
 <hr style="width: 33%; margin-bottom: 0.5em;" />
 
@@ -64,9 +64,9 @@ That’s part of what excited me about being there with Moloco. We’re not a tr
   <em>Marketing is translation work... and sometimes the best conversations start with a t-shirt.</em>
 </h2>
 
-Cannes is chaos. From filmmakers and adtech veterans to VCs, consultants, professors, agencies, big brands, and scrappy startups doing brilliant (and sometimes wonderfully weird) things… we're all open for a chat. I moonlighted as a salesperson that week, and found myself giving the pitch at the booth at least 200 times - and weirdly, I didn’t mind at all (I honestly kind of loved it). What stood out most were the moments you couldn’t script - unexpected, occasionally surreal and chaotic, but never boring.
+Cannes is chaos. From filmmakers and adtech veterans to VCs, consultants, professors, agencies, big brands, and scrappy startups doing brilliant (and sometimes wonderfully weird) things… everyone's up for a chat. I moonlighted as a salesperson that week, and found myself giving the pitch at the booth at least 200 times - and weirdly, I didn’t mind at all (I honestly kind of loved it). What stood out most were the moments you couldn’t script - unexpected, occasionally surreal and chaotic, but never boring.
 
-And that’s the brilliant thing - everyone’s there to talk. To learn something, discover something, share their story, or make something happen. It’s expected and welcomed - none of that awkward small talk energy you get at some conferences. It's easy to get into real conversations, right from the jump.
+And that’s the brilliant thing - everyone’s there to learn something, discover something, share their story, or make something happen. It’s expected and welcomed - none of that awkward small talk energy you get at some conferences. It's easy to get into real conversations, right from the jump.
 
 It's because this industry is complicated - but it’s also fascinating. We’re in a moment where marketing conversations bleed into tech, ethics, regulation, and culture. One minute you’re talking about AI creative or attribution logic; the next you’re debating digital consent, deepfakes, or the fact that *everything is recorded*.<sup>2</sup> Kind of like Black Mirror - except it’s real, it’s commercialised, and it’s running on GPUs. And weirdly? That makes it kind of… hot. Not just high-stakes, but cool to talk about.
 
@@ -123,7 +123,7 @@ I’ve always had this semi-formed obsession with how the world runs. Maybe it s
 
 <figure>
   <img src="/infographic-circular-economy.jpg" alt="Infographic of the circular economy" />
-  <figcaption><i>The convoluted infographic from your second-year econ textbook, in all its tangled glory.</i></figcaption>
+  <figcaption><i>The intense infographic from your second-year econ textbook, in all its tangled glory.</i></figcaption>
 </figure>
 
 Basically, it’s all one giant siphon of value creation — or redistribution, depending on how cynical you are. Picture one of those red-string conspiracy boards, or more accurately, that one convoluted infographic from your second-year econ textbook explaining the circular economy. It’s all connected, sort of confusing, and somehow still functioning.
@@ -160,7 +160,7 @@ At Cannes, we showed up with our Moloco cabana: a thoughtfully designed, brand-f
   <figcaption style="text-align: center;"><i>Our Moloco cabana - small but mighty.</i></figcaption>
 </figure>
 
-And then you look around. Meta Beach. Spotify Beach. Amazon Port. These companies didn’t just sponsor a panel or rent a yacht. They literally owned physical corners of Cannes and claimed territory. Full-on beachfront empires. If the Croisette is the stage, they were building their own fortified kingdoms — and the rest of us were humble villagers. It’s more than just presence. It’s theatre and choreography. It’s storytelling in 3D.
+And then you look around. Meta Beach. Spotify Beach. Amazon Port. These companies didn’t just sponsor a panel or rent a yacht. They literally owned physical corners of Cannes and claimed territory. Full-on beachfront *empires*. If the Croisette is the stage, they were building their own fortified kingdoms - and the rest of us were humble villagers. It’s more than just presence. It’s theatre and choreography. It’s storytelling in 3D.
 
 <figure style="display: flex; flex-direction: column; align-items: center;">
   <img src="/spotify-beach-cardi-b.png" alt="Cardi B performing at Spotify Beach, Cannes Lions 2025" style="max-width: 100%; height: auto;" />
