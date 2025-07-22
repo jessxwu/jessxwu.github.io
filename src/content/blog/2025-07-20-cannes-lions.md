@@ -68,7 +68,7 @@ Cannes is chaos. From filmmakers and adtech veterans to VCs, consultants, profes
 
 And that’s the brilliant thing - everyone’s there to learn something, discover something, share their story, or make something happen. It’s expected and welcomed - none of that awkward small talk energy you get at some conferences. It's easy to get into real conversations, right from the jump.
 
-It's because this industry is complicated - but it’s also fascinating. We’re in a moment where marketing conversations bleed into tech, ethics, regulation, and culture. One minute you’re talking about AI creative or attribution logic; the next you’re debating digital consent, deepfakes, or the fact that *everything is recorded*.<sup>2</sup> Kind of like Black Mirror - except it’s real, it’s commercialised, and it’s running on GPUs. And weirdly? That makes it kind of… hot. Not just high-stakes, but cool to talk about.
+It's because this industry is complicated - but it’s also fascinating. We’re in a moment where marketing conversations bleed into tech, ethics, regulation, and culture. One minute you’re talking about AI creative or attribution logic; the next you’re debating digital consent, deepfakes, or the fact that *everything is recorded*.<sup>3</sup> Kind of like Black Mirror - except it’s real, it’s commercialised, and it’s running on GPUs. And weirdly? That makes it kind of… hot. Not just high-stakes, but cool to talk about.
 
 On the last day, I complimented a guy on his Knocked Loose t-shirt (in a [Dubai-originated café](https://knotbakehouse.fr/en/), naturally, where I paid a slightly humiliating €12 for a vanilla oat matcha latte - mark behaviour 101). We ended up talking campaign strategy and his team’s experience competing in the Lions from Jakarta. The juxtaposition of metalcore, matcha lattes, and media buying was… perfect.
 
@@ -79,7 +79,7 @@ Across the week, I spoke with startup founders, academics, VCs, brand leads, man
   <figcaption style="text-align: center;"><i>I don’t have photos of people, but I do have this overpriced beverage.</i></figcaption>
 </figure>
 
-Then - *because Cannes* - came the parade of celebrities and influencers. I’m notoriously terrible at remembering names, but I do know that Patrick Schwarzenegger strolled by (which felt especially unhinged because I had, just days earlier, watched him in *that* scene with his on-screen brother in *White Lotus*). I unfortunately mistimed my lunch break and missed the photo op.<sup>3</sup>
+Then - *because Cannes* - came the parade of celebrities and influencers. I’m notoriously terrible at remembering names, but I do know that Patrick Schwarzenegger strolled by (which felt especially unhinged because I had, just days earlier, watched him in *that* scene with his on-screen brother in *White Lotus*). I unfortunately mistimed my lunch break and missed the photo op.<sup>4</sup>
 
 <figure style="display: flex; flex-direction: column; align-items: center;">
   <img src="/patrick-schwarzenegger-sam-nivola-white-lotus.avif" alt="Patrick Schwarzenegger and Sam Nivola in White Lotus" style="max-width: 100%; height: auto;" />
@@ -97,9 +97,9 @@ The mental pivoting was real and fierce - and honestly, my brain loved it. I met
 
 Because in marketing - especially in strategy or product - you have to be a *translator*. You have to meet people where they are, make it relevant to them, and pivot fast between mindsets. Cannes was like a bootcamp for that. And I think I walked away from that week sharper, more curious, and a little more prepared for the next unexpected conversation - t-shirt or otherwise.
 
-<span style="font-size: 85%;"><sup>2</sup> *Wait... is that why Richard Russell called his music project [“Everything Is Recorded”](https://open.spotify.com/artist/0JYlkNmu76Wu1DgvWNWq7X)? Because… everything is literally recorded? This is blowing my mind.*</span>
+<span style="font-size: 85%;"><sup>3</sup> *Wait... is that why Richard Russell called his music project [“Everything Is Recorded”](https://open.spotify.com/artist/0JYlkNmu76Wu1DgvWNWq7X)? Because… everything is literally recorded? This is blowing my mind.*</span>
 
-<span style="font-size: 85%;"><sup>3</sup> *Yes, I digress. Often. But that’s where the fun ideas hide.*</span>
+<span style="font-size: 85%;"><sup>4</sup> *Yes, I digress. Often. But that’s where the fun ideas hide.*</span>
 
 <hr style="width: 33%; margin-bottom: 0.5em;" />
 
@@ -128,13 +128,13 @@ I’ve always had this semi-formed obsession with how the world runs. Maybe it s
 
 Basically, it’s all one giant siphon of value creation — or redistribution, depending on how cynical you are. Picture one of those red-string conspiracy boards, or more accurately, that one convoluted infographic from your second-year econ textbook explaining the circular economy. It’s all connected, sort of confusing, and somehow still functioning.
 
-So yes, I see myself as a cog in the demand-creation machine as a marketer. But I don’t think that’s an inherently bad thing. Buying stuff isn’t evil - it’s human. We want things. We need things. We’re shaped by stories. And marketing, when it's done well, is just another form of storytelling.
+So yes, I see myself as a cog in the demand-creation machine as a marketer. But I don’t think that’s an inherently bad thing. Advertising isn’t evil - buying stuff is human. We want things. We need things. We’re shaped by stories. And good marketing, when it's done well, is just another form of storytelling.
 
 At Cannes, I got to tell some of those stories - the kind that people don’t expect to hear from an adtech company. Like how Moloco reaches 2 billion daily users across 3 million mobile apps - more than TikTok and Instagram combined. That kind of reach is staggering (what we call planetary scale…), and most people have never heard of us.
 
 Or how we give advertisers transparency into exactly where their ads run, how their budget is being spent, and what’s actually driving performance - which, in a world full of walled gardens, click fraud, and bad actors, feels like a slightly radical idea.
 
-And, lastly, how broken the system still is. So much media is bought inefficiently, with inventory left unsold just to protect pricing, measurement models skewed to favour platforms over performance, and there’s a huge disconnect between where attention is and where spend goes. It’s a well-worn phrase at Moloco - one we reference often and champion whenever we can - that roughly 70% of attention now lives outside Google, Meta, and Amazon… but only 30% of ad dollars follow it. That gap is a [$100 billion inefficiency… and that’s the space we’re playing in](https://www.thedrum.com/news/2025/06/20/cmo-paul-d-arcy-how-moloco-becoming-the-scaling-engine-the-open-internet).
+And, lastly, how broken the system still is. So much media is bought inefficiently, with inventory left unsold just to protect pricing, measurement models skewed to favour platforms over performance, and there’s a huge disconnect between where attention is and where spend goes. It’s a well-worn phrase at Moloco - one we reference often and champion whenever we can - that roughly 70% of mobile attention now lives outside Google, Meta, and Amazon… but only 30% of ad dollars follow it. That gap is a [$100 billion inefficiency… and that’s the space we’re playing in](https://www.thedrum.com/news/2025/06/20/cmo-paul-d-arcy-how-moloco-becoming-the-scaling-engine-the-open-internet).
 
 <figure style="display: flex; flex-direction: column; align-items: center;">
   <img src="/mobile-app-time-moloco.jpg" alt="Mobile app screen time visual" style="max-width: 800px; width: 100%; height: auto;" />
@@ -160,7 +160,7 @@ At Cannes, we showed up with our Moloco cabana: a thoughtfully designed, brand-f
   <figcaption style="text-align: center;"><i>Our Moloco cabana - small but mighty.</i></figcaption>
 </figure>
 
-And then you look around. Meta Beach. Spotify Beach. Amazon Port. These companies didn’t just sponsor a panel or rent a yacht. They literally owned physical corners of Cannes and claimed territory. Full-on beachfront *empires*. If the Croisette is the stage, they were building their own fortified kingdoms - and the rest of us were humble villagers. It’s more than just presence. It’s theatre and choreography. It’s storytelling in 3D.
+And then you look around. [Meta Beach](https://www.facebook.com/business/events/cannes). [Spotify Beach](https://cannes.byspotify.com/). [Amazon Port](https://canneslions-amazonadvertising.com/). These companies didn’t just sponsor a panel or rent a yacht. They literally owned physical corners of Cannes and claimed territory. Full-on beachfront *empires*. If the Croisette is the stage, they were building their own fortified kingdoms - and the rest of us were humble villagers. It’s more than just presence. It’s theatre and choreography. It’s storytelling in 3D.
 
 <figure style="display: flex; flex-direction: column; align-items: center;">
   <img src="/spotify-beach-cardi-b.png" alt="Cardi B performing at Spotify Beach, Cannes Lions 2025" style="max-width: 100%; height: auto;" />
