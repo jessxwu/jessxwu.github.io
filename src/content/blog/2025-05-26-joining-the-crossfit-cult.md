@@ -14,7 +14,7 @@ I accidentally fell into distance running again after a sleepless flight to San 
 
 <hr align = "left" width="50%">
 
-I'm still quite sad that The Rogue Room closed. I miss the community and I miss all my weird classes, I miss yoga, and I miss calisthenics. I haven't found the right fit yet since life was too hectic to warrant myself signing up for something new. Now that I've signed up for the benefits and such, going to explore what works, although my travel schedule is intense again.
+I'm still quite sad that The Rogue Room closed. I miss the community and I miss all my weird classes, I miss yoga, and I miss calisthenics. I haven't found the right fit yet since life was too full on to warrant myself signing up for something new. Now that I've signed up for the benefits and such, going to explore what works, although my travel schedule is intense again.
 
 Cycling a lot again. I commute by bike - I probably average 5 hours a week getting around. When I race to work, it can be 18 minutes with low traffic. 
 

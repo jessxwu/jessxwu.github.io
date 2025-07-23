@@ -49,13 +49,15 @@ Before I ever attended, Cannes Lions lived in my imagination as this mythical co
 
 But once you’re inside the experience, it’s more layered than the clichés suggest.
 
-There’s a reason this festival holds its place centre stage in the marketing calendar year after year. It’s not just the parties, the panels, or even the rosé (though there’s plenty of that). It’s a celebration of creativity - in all its forms. Not just polished, cinematic Super Bowl ad storytelling, but also the scrappy, data-driven kind (like a perfectly optimised in-app offer).
+There’s a reason this festival holds its place centre stage in the marketing calendar year after year. It’s not just the parties, the panels, or even the rosé (though there’s plenty of that). It’s a celebration of creativity - in all its forms. Not just polished, cinematic Super Bowl ad storytelling, but also the scrappy, data-driven kind (like a perfectly optimised in-app offer 👀).
 
 Creativity isn’t confined to a format. It’s also in the media strategy, the targeting logic, and the models deciding - silently, algorithmically - who sees what, and when. AI is creative, too. We have the kind that solves real problems, drives results, and makes people feel something.
 
-That’s part of what excited me about being there with Moloco. We’re not a traditional adtech company. We don’t just make ads more efficient - we help marketers unlock new, smarter ways to grow. Faster, and with more relevance and precision. And, hopefully, with more meaning.
+That’s part of what excited me about being there with Moloco. We’re not a traditional adtech company. We don’t just make ads more efficient - we help marketers unlock new, smarter ways to grow. We do it faster, with more relevance and precision. And, hopefully, with more meaning.
 
-**Being at Cannes gave me a front-row seat to the conversations shaping that future. Here are four things I observed, learned, and took away from the week.**
+Being at Cannes gave me a front-row seat to the conversations shaping that future.
+
+**Here are four things I observed, learned, and took away from the week.**
 
 <hr style="width: 33%; margin-bottom: 0.5em;" />
 
@@ -68,7 +70,7 @@ Cannes is chaos. From filmmakers and adtech veterans to VCs, consultants, profes
 
 And that’s the brilliant thing - everyone’s there to learn something, discover something, share their story, or make something happen. It’s expected and welcomed - none of that awkward small talk energy you get at some conferences. It's easy to get into real conversations, right from the jump.
 
-It's because this industry is complicated - but it’s also fascinating. We’re in a moment where marketing conversations bleed into tech, ethics, regulation, and culture. One minute you’re talking about AI creative or attribution logic; the next you’re debating digital consent, deepfakes, or the fact that *everything is recorded*.<sup>3</sup> Kind of like Black Mirror - except it’s real, it’s commercialised, and it’s running on GPUs. And weirdly? That makes it kind of… hot. Not just high-stakes, but cool to talk about.
+It's because this industry is complicated - but it’s also fascinating. We’re in a moment where marketing conversations bleed into tech, ethics, regulation, and culture. One minute you’re talking about AI creative or attribution logic; the next you’re debating digital consent, deepfakes, or the fact that *everything is recorded*.<sup>3</sup> Kind of like Black Mirror - except it’s real, it’s commercialised, and it’s running on GPUs. Weirdly, that makes it kind of… hot. Not just high-stakes, but cool to talk about.
 
 On the last day, I complimented a guy on his Knocked Loose t-shirt (in a [Dubai-originated café](https://knotbakehouse.fr/en/), naturally, where I paid a slightly humiliating €12 for a vanilla oat matcha latte - mark behaviour 101). We ended up talking campaign strategy and his team’s experience competing in the Lions from Jakarta. The juxtaposition of metalcore, matcha lattes, and media buying was… perfect.
 
@@ -116,7 +118,7 @@ Or, to borrow from Zuck himself: “Senator, we run ads.” And now that I’m i
 
 <figure style="display: flex; flex-direction: column; align-items: center;">
   <img src="/senator-we-run-ads.gif" alt="Mark Zuckerberg testifying — 'Senator, we run ads'" style="max-width: 100%; height: auto;" />
-  <figcaption style="text-align: center;"><i>The blink and the smile though.</i></figcaption>
+  <figcaption style="text-align: center;"><i>The smile though.</i></figcaption>
 </figure>
 
 I’ve always had this semi-formed obsession with how the world runs. Maybe it started when I read [*Bullshit Jobs*](https://www.goodreads.com/book/show/34466958-bullshit-jobs) - not because I think marketing is one (and neither did Graeber), but the book reframed how I think about work, value, and this strange loop of desire and transaction that we call the economy. Marketing creates demand. Finance facilitates the transaction. And people keep buying.
@@ -223,11 +225,11 @@ And in a world that moves fast (and scrolls even faster), it’s rare to find sp
 Oh, and yes - finally, some proof I was actually there! In front of the Palme d'Or sign. Twice. Honestly, what more do you need? (Not this year, but that’s a minor detail.) 
 
 <figure style="display: flex; flex-direction: column; align-items: center; text-align: center;">
-  <div style="display: flex; gap: 1em; justify-content: center; flex-wrap: wrap;">
+  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 1em 0.5em;">
     <img src="/cannes-film-2022.jpg" alt="Cannes Film Festival 2022 - Palm d'Or sign" style="flex: 1 1 300px; max-width: 48%; height: auto;" />
     <img src="/cannes-film-2024.jpg" alt="Cannes Film Festival 2024 - Palm d'Or sign" style="flex: 1 1 300px; max-width: 48%; height: auto;" />
   </div>
-  <figcaption style="margin-top: 0.3em;">
+  <figcaption style="margin-top: 0.5em;">
     <i>Cannes Film Festival 2022 and 2024 with the iconic Palme d'Or sign, no less.</i>
   </figcaption>
 </figure>

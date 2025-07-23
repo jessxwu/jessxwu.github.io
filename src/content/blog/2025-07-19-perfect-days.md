@@ -1,8 +1,9 @@
 ---
 title: perfect days, and in pursuit of romancing the mundane
-excerpt: Maybe Perfect Days isn’t meant for people like him. I think it resonates more with those of us who are stressed, overstimulated, burnt out, for those for whom this life feels aspirational. It’s a daydream about living slow because we’re moving too fast to appreciate it; or we’re too distracted, undisciplined, and overstimulated to build a life that actually allows for that kind of stillness.
+subtitle: A review of Perfect Days by Wim Wenders
+excerpt: Maybe Perfect Days isn’t meant for people like him. I think it resonates more with those of us who are stressed, overstimulated, burnt out, for those for whom this life feels aspirational. It’s a daydream about living slow because we’re moving too fast to appreciate it; or we’re too distracted, undisciplined, and burned out to build a life that actually allows for that kind of stillness.
 publishDate: 2025-07-19
-minutesRead:
+minutesRead: 12
 tags:
   - movies
   - personal
@@ -34,7 +35,7 @@ He wakes up early before dawn. He folds up his futon on the bamboo tatami in his
 
 We talked about how one of Eric’s friends - someone we both know from high school - had also watched it based on his recommendation. He’s someone who really does live simply but is also very disciplined. Genuinely minimalist, he sticks to his routines. His life is repetitive and probably quite ordinary in some regards, but he works very hard on his personal projects and interests, often getting completely absorbed in them. And he said the movie bored him because it felt like watching himself go through the motions.
 
-That stuck with me. Because maybe *Perfect Days* isn’t meant for people like him. I think it resonates more with those of us who are stressed, overstimulated, burnt out, for those for whom this life feels aspirational. It’s a daydream about living slow because we’re moving too fast to appreciate it; or we’re too distracted, undisciplined, and overstimulated to build a life that actually allows for that kind of stillness.
+That stuck with me. Because maybe *Perfect Days* isn’t meant for people like him. I think it resonates more with those of us who are stressed, overstimulated, burnt out, for those for whom this life feels aspirational. It’s a daydream about living slow because we’re moving too fast to appreciate it; or we’re too distracted, undisciplined, and burned out to build a life that actually allows for that kind of stillness.
 
 But a lot of the commentary around the film seems to prescribe meaning to its “simple living” aesthetic, attributing a quiet nobility to Hirayama’s stoic and minimalist life. But the life Hirayama leads isn’t really *simple*. Not in the soft, romanticised way people often mean.
 

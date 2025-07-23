@@ -1,5 +1,6 @@
 ---
 title: the robots are taking over
+subtitle: ai will change everything (one prompt at a time)
 excerpt: Ultimately, we need to still apply the same core values of genuine care and humanity in our decision-making, with or without AI.
 publishDate: 'Sep 12 2024'
 isFeatured: true
@@ -11,7 +12,7 @@ seo:
     alt:  AI will change everything
 
 ---
-My last role was head of marketing at an AI personalisation company (ML algorithms for gambling operators and game studios), so thinking about how AI will impact marketing is a topic that I’ve dedicated a lot of thought to.
+My last role was head of marketing for an AI personalisation company (building machine learning models for gambling operators and game studios), so thinking about how AI will impact marketing is a topic that I’ve dedicated a lot of thought to.
 
 <img src="/robots_spongebob_squarepants.gif" alt="Spongebob robots" style="display: block; margin: 0 auto;" width="600" />
 
