@@ -224,12 +224,67 @@ And in a world that moves fast (and scrolls even faster), it’s rare to find sp
 
 Oh, and yes - finally, some proof I was actually there! In front of the Palme d'Or sign. Twice. Honestly, what more do you need? (Not this year, but that’s a minor detail.) 
 
+<style>
+  @media (max-width: 640px) {
+    .cannes-image-wrap {
+      flex-direction: column !important;
+      gap: 0.5em !important;
+    }
+    .cannes-image-wrap img {
+      max-width: 100% !important;
+    }
+  }
+</style>
+
+<style>
+  @media (max-width: 640px) {
+    .cannes-image-wrap {
+      flex-direction: column !important;
+      row-gap: 0.5em !important; /* smaller vertical gap */
+      column-gap: 0 !important;  /* no horizontal gap needed when stacked */
+    }
+
+    .cannes-image-wrap img {
+      max-width: 100% !important;
+    }
+  }
+</style>
+
+<style>
+  @media (max-width: 640px) {
+    .cannes-image-wrap {
+      flex-direction: column !important;
+      row-gap: 0.5em !important; /* smaller vertical gap */
+      column-gap: 0 !important;  /* no horizontal gap needed when stacked */
+    }
+
+    .cannes-image-wrap img {
+      max-width: 100% !important;
+    }
+  }
+</style>
+
+<style>
+  @media (max-width: 640px) {
+    .cannes-image-wrap {
+      display: flex;
+      flex-direction: column;
+      gap: 0.5em;
+    }
+    .cannes-image-wrap img {
+      max-width: 100%;
+      margin: 0; /* remove default image spacing */
+      display: block; /* avoids extra spacing from inline images */
+    }
+  }
+</style>
+
 <figure style="display: flex; flex-direction: column; align-items: center; text-align: center;">
-  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 1em 0.5em;">
-    <img src="/cannes-film-2022.jpg" alt="Cannes Film Festival 2022 - Palm d'Or sign" style="flex: 1 1 300px; max-width: 48%; height: auto;" />
-    <img src="/cannes-film-2024.jpg" alt="Cannes Film Festival 2024 - Palm d'Or sign" style="flex: 1 1 300px; max-width: 48%; height: auto;" />
+  <div class="cannes-image-wrap" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 1em;">
+    <img src="/cannes-film-2022.jpg" alt="Cannes Film Festival 2022 - Palm d'Or sign" style="flex: 1 1 300px; max-width: 48%; height: auto; margin: 0; display: block;" />
+    <img src="/cannes-film-2024.jpg" alt="Cannes Film Festival 2024 - Palm d'Or sign" style="flex: 1 1 300px; max-width: 48%; height: auto; margin: 0; display: block;" />
   </div>
-  <figcaption style="margin-top: 0.5em;">
+  <figcaption style="margin-top: 0.3em;">
     <i>Cannes Film Festival 2022 and 2024 with the iconic Palme d'Or sign, no less.</i>
   </figcaption>
 </figure>
