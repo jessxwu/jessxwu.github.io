@@ -107,7 +107,7 @@ Because in marketing - especially in strategy or product - you have to be a *tra
 
 <h2 style="margin-top: 1.5em;">
   <span style="font-family: sans-serif; font-weight: 600; font-size: 1em;">2</span><br/>
-  <em>Ads aren’t just evolving — the entire engine behind them is.</em>
+  <em>Ads aren’t just evolving - the entire engine behind them is.</em>
 </h2>
 
 The phrase that stuck with me most? *Operational ML.*
@@ -148,7 +148,7 @@ These aren’t just product features. They’re principles for us. And as someon
 <hr style="width: 33%; margin-bottom: 0.5em;" />
 <h2 style="margin-top: 1.5em;">
   <span style="font-family: sans-serif; font-weight: 600; font-size: 1em;">3</span><br/>
-  <em>In-person marketing isn’t old school — it’s the new edge.</em>
+  <em>In-person marketing isn’t old school... it's the new edge.</em>
 </h2>
 
 We spend so much time talking about digital transformation that we forget how transformative *presence* can be. Just showing up - in person, in the moment - creates a different kind of insight.
@@ -175,9 +175,9 @@ Even the most jaded CMOs can respect that. You might forget the panel schedule, 
 
 That’s why field marketing matters. When you show up with intention and a bit of personality, it sticks. You’ll remember how a brand *made you feel*. And that, at its core, is what great marketing does.
 
-Especially now - yes, in this “hyper-digital age” (I know, it’s a trope, but it’s still true) — physical presence has a kind of power we keep rediscovering. It creates context and connection. It builds trust. It commands attention in ways that pixels and emails can’t.
+Especially now - yes, in this “hyper-digital age” (I know, it’s a trope, but it’s still true) - physical presence has a kind of power we keep rediscovering. It creates context and connection. It builds trust. It commands attention in ways that pixels and emails can’t.
 
-And for a week in Cannes, we got to be part of that. Not just attending — but contributing to the experience. We may not have beachfront kingdoms (yet) but we showed up with purpose, and at times, it felt like the right people were there, listening.
+And for a week in Cannes, we got to be part of that. Not just as attendees, but contributing to the experience. We may not have beachfront kingdoms (yet) but we showed up with purpose, and at times, it felt like the right people were there, listening.
 
 <hr style="width: 33%; margin-bottom: 0.5em;" />
 <h2 style="margin-top: 1.5em;">
@@ -208,10 +208,10 @@ That’s what I love about this stage of Moloco (under 800 people): it still fee
 <hr style="width: 33%; margin-bottom: 0.5em;" />
 <h2 style="margin-top: 1.5em;">
   <em>Final Thought:</em><br/>
-  <em>Creativity isn’t going anywhere — but it is changing. That’s a good thing.</em>
+  <em>Creativity isn’t going anywhere - but it is changing. That’s a good thing.</em>
 </h2>
 
-One of the biggest themes this year was how AI is reshaping creativity — not replacing it, but expanding what’s possible. The best work ahead will come from teams that embrace both sides of the brain: the imaginative and the analytical. Art and algorithm. Feeling and feedback loop.
+One of the biggest themes this year was how AI is reshaping creativity - not replacing it, but expanding what’s possible. The best work ahead will come from teams that embrace both sides of the brain: the imaginative and the analytical. Art and algorithm. Feeling and feedback loop.
 
 <figure style="display: flex; flex-direction: column; align-items: center;">
   <img src="/cannes-cabana-2.jpg" alt="Moloco sign reading 'The future of advertising is powered by AI'" style="max-width: 500px; width: 100%; height: auto;" />
